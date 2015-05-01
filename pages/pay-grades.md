@@ -4,8 +4,6 @@ layout: default
 title: Government Pay Grades Explained
 ---
 
-### General Service (GS) Level Explained:
-
 Every employee is hired at a General Service level from Grade 1 - Grade 15. 18F hires at the following grades: 7, 9, 11, 12, 13, 14, and 15 depending on background, experience, and position within the 18F Organization. Your corresponding annual pay depends on your location. See [OPM](http://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2014/general-schedule/) for more information on each locality. **Please note**: the annual cap is $158,700 across the United States. We can not offer more than this under any circumstance.
 
 
