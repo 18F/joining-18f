@@ -1,49 +1,26 @@
 ---
 permalink: /
 layout: default
-title: Introduction
+title: So You Want to Join 18F?
 ---
-This is the template used for the [Jekyll](http://jekyllrb.com/)-based [18F
-Guides](http://pages.18f.gov/guides/), derived from
-[CFPB/DOCter](https://github.com/CFPB/DOCter). It is structured to act as an
-18F Guides Guide. The repository for this template is
-[18F/guides-template](https://github.com/18F/guides-template/).
 
-## Creating a guide
+## Mission
 
-To create a brand new guide, first follow the instructions in the
-[README.md](https://github.com/18F/guides-template/blob/18f-pages/README.md)
-file of this guide's GitHub repository to create a local clone of this
-template.
+18F is a civic consultancy _for_ the Government, _inside_ the Government, working with agencies to rapidly deploy tools and services that are easy to use, cost efficient, and reusable. 
 
-Once you've created a new clone, click the _Adding a New Page_ entry in the
-table of contents.
+We are transforming government from the inside out, creating **cultural change** by working with teams inside agencies who want to create great services for the public. 
 
-## Updating an existing guide
+We are a **trusted partner** for agencies working to transform how they build and buy tools and services in a user-centered way.
 
-First, clone this template:
+We will accomplish our mission by:
 
-```
-$ git clone git@github.com:18F/guides-template.git
-```
+* putting the needs of the public first
+* being design-centric, agile, open, and data-driven
+* deploying tools and services early and often
 
-Run the `copy-template` script from this template, passing the path to your
-guide's repository as the argument (replacing `MY-EXISTING-GUIDE` below):
 
-```
-$ guides-template/copy-template MY-EXISTING-GUIDE
-```
+## Who Are We Hiring?
 
-If your repository already has a `gh-pages` branch, you can create an
-`18f-pages` branch from it via:
+We are looking for candidates passionate about our mission, with top notch software development, design, content, and operations skills to match. Please see [this blog post](https://18f.gsa.gov/2015/02/25/We-Are-Hiring/) for a more detailed description of our positions.
+    
 
-```
-$ git checkout -b 18f-pages gh-pages
-$ git push origin 18f-pages
-```
-
-Follow the instructions in _Updating the Config File_ to update your
-`_config.yml` accordingly. You may also need to consult the _GitHub Setup_ and
-_Post Your Guide_ chapters to ensure your guide is correctly published to
-`pages.18f.gov` and linked from the main [18F
-Guides](http://pages.18f.gov/guides/) site.

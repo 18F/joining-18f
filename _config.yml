@@ -1,6 +1,6 @@
-baseurl: /guides-template
+baseurl: /joining-18f
 markdown: redcarpet
-name: 18F Guides Template
+name: Joining 18F
 exclude:
 - go
 - copy-template
@@ -26,26 +26,26 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Adding a New Page
-  url: adding-a-new-page/
+- text: The Interview Process
+  url: interview-process/
   internal: true
-- text: Adding Images
-  url: adding-images/
+- text: Government Pay Grades Explained
+  url: pay-grades/
   internal: true
-- text: Updating the Config File
-  url: updating-the-config-file/
+- text: Benefits
+  url: benefits/
   internal: true
-- text: GitHub Setup
-  url: github-setup/
+- text: Leave Policies
+  url: leave-policies/
   internal: true
-- text: Post Your Guide
-  url: post-your-guide/
+- text: Conferences, Trainings, and Travel
+  url: conferences-training-travel/
   internal: true
 
 repos:
 - name: Guides Template
   description: Main repository
-  url: https://github.com/18F/guides-template
+  url: https://github.com/18F/joining-18f
 
 # Style Variables
 brand_color: "#1188ff"
