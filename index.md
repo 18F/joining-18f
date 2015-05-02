@@ -23,4 +23,6 @@ We will accomplish our mission by:
 
 We are looking for candidates passionate about our mission, with top notch software development, design, content, and operations skills to match. Please see [this blog post](https://18f.gsa.gov/2015/02/25/We-Are-Hiring/) for a more detailed description of our positions.
     
+## Where Are We Hiring?
 
+Everywhere in the United States! If you have no experience working on remote teams, or are applying for a role that requires in-person interactions with clients, we will ask that you work out of either our San Francisco or DC office. However, the majority of our team is distributed across the country, in places like Chicago, New York, Raleigh, Tuscon, Austin, Dayton, Philadelphia, Santa Barbara, Seattle, and Portland.
