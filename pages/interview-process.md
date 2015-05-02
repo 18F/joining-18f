@@ -6,7 +6,7 @@ title: The 18F Interview Process
 
 ### First Steps
 
-If you'd like to apply to 18F, the first thing you should do is write us an email (join-18f@gsa.gov) introducing yourself, with your resume attached. Within three weeks, our team will review your resume and if it seems like you might be a fit for 18F, we will reach out to schedule a 30-minute phone call. On the phone call, plan to talk more about your skills and experience, what you're passionate about, and the work we do here at 18F. 
+If you'd like to apply to 18F, the first thing you should do is write us an email (join18f@gsa.gov) introducing yourself, with your resume attached. Within three weeks, our team will review your resume and if it seems like you might be a fit for 18F, we will reach out to schedule a 30-minute phone call. On the phone call, plan to talk more about your skills and experience, what you're passionate about, and the work we do here at 18F. 
 
 ### In-Person (or Videochat) Interviews
 
