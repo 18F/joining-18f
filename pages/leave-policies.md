@@ -6,21 +6,13 @@ title: Leave Policies
 
 ### Annual Leave
 
-- If you worked for the federal government for less than three years, you accrue four (4) hours of annual leave per pay period.
-- If you worked for the federal government for more than three years but less than 15 years, you accrue six (6) hours of annual leave per pay period.
-- If you worked for the federal government for more than 15 years, you accrue eight (8) hours of annual leave per pay period.
-- The maximum annual leave that can be carried over is 240 hours.
-- If you transferred from another federal agency, your annual leave will transfer with you. It may take 2 - 4 pay periods before EmployeeExpress will display your annual leave.
-- If after 4 pay periods, your leave does not appear. Please contact your HR Representative at your former Federal Agency.
-- You may use advanced leave with supervisor approval
+Annual leave accrues at a different rate depending on how long you have worked for the federal government. If you've worked for the federal government for less than three years, you accrue four hours of annual leave per pay period. If you've worked for the federal government for between three and 15 years, you accrue six hours per pay period. After 15 years, you accrue eight hours per pay period.
+
+The maximum annual leave that can be carried over from year to year is 240 hours (30 days). If you transfer from another federal agency, your annual leave will transfer with you.
 
 ### Sick Leave 
 
-- All federal employees, no matter how long they have worked, accrue four (4) hours of sick leave per pay period.
-- There is no maximum amount of sick leave hours you can accrue.
-- All unused hours will carry over to the next year.
-- If you transferred from another federal agency, your sick leave will transfer with you. It may take 2 - 4 pay periods before EmployeeExpress will display your sick leave.
-- If after 4 pay periods, your leave does not appear. Please contact your HR Representative at your former Federal Agency.
+Sick leave accrues at four hours per pay period for all federal employees, no matter how long they have worked for the federal government. There is no maximum amount of sick leave you can accrue and all unused hours will carry over to the next year. If you transfer from another federal agency, your sick leave will transfer with you.
 
 ### Parental Leave 
 
