@@ -16,3 +16,20 @@ There is also [Life Insurance](http://www.opm.gov/healthcare-insurance/life-insu
 
 Government's version of a 401K : [Thrift Savings Plan](https://www.tsp.gov/)
 
+### Retirement
+
+Government's version of a 401K offers up to 5 percent matching: [Thrift Savings Plan](https://www.tsp.gov/)
+
+
+### Teleworking
+
+Telework provides flexibility for an employee. It improves the morale and productivity of staff by allowing for greater collaboration amongst peers. 18F recognizes these benefits and encourages working from home with the approval of their administrative supervisor or his/her designee. This policy adheres to and is in conjunction with [GSA's Mobility and Telework Policy](http://www.gsa.gov/graphics/staffoffices/GSAteleworkpolicy.pdf).
+
+### Commuter Benefits
+
+
+### Discounts
+
+GSA has partnerships with many companies to provide discounts including gym memberships, car rentals, and hotel accomodations. 
+
+
