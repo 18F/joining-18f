@@ -1,7 +1,7 @@
 ---
 title: Frontend Web Developer
 layout: default
-permalink: who-we-are-hiring/positons/frontend-web-developer/
+permalink: who-we-are-hiring/positions/frontend-web-developer/
 ---
 
 Experience using modern, frontend web development tools, techniques, and

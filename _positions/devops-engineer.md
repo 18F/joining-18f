@@ -1,7 +1,7 @@
 ---
 title: DevOps Engineer
 layout: default
-permalink: who-we-are-hiring/positons/devops-engineer/
+permalink: who-we-are-hiring/positions/devops-engineer/
 ---
 
 Experience serving as the engineer of complex technology implementations

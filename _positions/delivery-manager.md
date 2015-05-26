@@ -1,7 +1,7 @@
 ---
 title: Delivery Manager
 layout: default
-permalink: who-we-are-hiring/positons/delivery-manager/
+permalink: who-we-are-hiring/positions/delivery-manager/
 ---
 
 Experience setting up teams for successful delivery by removing

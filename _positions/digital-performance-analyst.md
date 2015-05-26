@@ -1,7 +1,7 @@
 ---
 title: Digital Performance Analyst
 layout: default
-permalink: who-we-are-hiring/positons/digital-performance-analyst/
+permalink: who-we-are-hiring/positions/digital-performance-analyst/
 ---
 
 Experience specifying, collecting, and presenting key performance data

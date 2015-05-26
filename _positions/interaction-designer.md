@@ -1,7 +1,7 @@
 ---
 title: Interaction Designer / User Researcher / Usability Tester
 layout: default
-permalink: who-we-are-hiring/positons/interaction-design/
+permalink: who-we-are-hiring/positions/interaction-design/
 ---
 
 The Interaction Designer / User Researcher / Usability Tester is part of

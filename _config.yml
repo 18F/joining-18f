@@ -58,6 +58,9 @@ collections:
   positions:
     permalink: /positions/:title/
     output: true
+  interviews:
+    permalink: /interviews/:title/
+    output: true
 
 # Style Variables
 brand_color: "#1188ff"
