@@ -26,19 +26,25 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: The Interview Process
-  url: interview-process/
+- text: Who we are hiring
+  url: who-we-are-hiring/
   internal: true
-- text: Government Pay Grades Explained
-  url: pay-grades/
+- text: How to apply
+  url: how-to-apply/
+  internal: true
+- text: Interview process
+  url: interview-process/
   internal: true
 - text: Benefits
   url: benefits/
   internal: true
-- text: Leave Policies
+- text: Government pay grades explained
+  url: pay-grades/
+  internal: true
+- text: Leave policies
   url: leave-policies/
   internal: true
-- text: Conferences, Trainings, and Travel
+- text: Conferences, trainings, and travel
   url: conferences-training-travel/
   internal: true
 
@@ -46,6 +52,15 @@ repos:
 - name: Guides Template
   description: Main repository
   url: https://github.com/18F/joining-18f
+
+# Collections
+collections:
+  positions:
+    permalink: /positions/:title/
+    output: true
+  interviews:
+    permalink: /interviews/:title/
+    output: true
 
 # Style Variables
 brand_color: "#1188ff"
