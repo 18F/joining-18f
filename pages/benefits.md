@@ -4,26 +4,27 @@ layout: default
 title: Benefits
 ---
 
-### Insurance Benefits
+### Insurance
 
-Health care plans that are offered for the state of California: [FEHB - CA](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/plan-codes/2014/states/ca.asp#state)  
+Explore health care plans offered for California: [FEHB - CA](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/plan-codes/2014/states/ca.asp#state).
 
-Health care plans that are offered [for DC](http://www.opm.gov/healthcare-insurance/healthcare/plan-information/plan-codes/2014/states/dc.asp)
+Explore health care plans offered for [DC](http://www.opm.gov/healthcare-insurance/healthcare/plan-information/plan-codes/2014/states/dc.asp).
 
-There are also optional, additional dental and vision plans. There is a comparison tool at: [BENEFEDS](https://www.benefeds.com) (just throw in your zip code).
+Compare optional dental and vision plans at [BENEFEDS](https://www.benefeds.com); just throw in your zip code.
 
-There is also [Life Insurance](http://www.opm.gov/healthcare-insurance/life-insurance/) that you can opt in to as well.
-
-Government's version of a 401K : [Thrift Savings Plan](https://www.tsp.gov/)
+Most new employees are automatically covered by basic life insurance, with the option to elect into additional coverage. Find out more [here](http://www.opm.gov/healthcare-insurance/life-insurance/).
 
 ### Retirement
 
-Government's version of a 401K offers up to 5 percent matching: [Thrift Savings Plan](https://www.tsp.gov/)
-
+[Thrift Savings Plan](https://www.tsp.gov/), the government's version of a 401K, offers up to five percent matching.
 
 ### Teleworking
 
-Telework provides flexibility for an employee. It improves the morale and productivity of staff by allowing for greater collaboration amongst peers. 18F recognizes these benefits and encourages working from home with the approval of their administrative supervisor or his/her designee. This policy adheres to and is in conjunction with [GSA's Mobility and Telework Policy](http://www.gsa.gov/graphics/staffoffices/GSAteleworkpolicy.pdf).
+Telework provides flexibility for employees. It improves morale and productivity by allowing for greater collaboration among peers. 18F recognizes these benefits and encourages working from home with administrative supervisor (or designee) approval. This policy adheres to and is in conjunction with [GSA's mobility and telework policy](http://www.gsa.gov/graphics/staffoffices/GSAteleworkpolicy.pdf).
+
+### Commuter
+
+Employees who commute by public transportation may receive subsidies for commuting costs. This benefit aims to reduce traffic congestion, conserve energy, and improve air quality. 
 
 
 

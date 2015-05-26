@@ -1,26 +1,24 @@
 ---
 permalink: /interview-process/
 layout: default
-title: The 18F Interview Process
+title: The 18F interview process
 ---
 
 ### Phone screen
 
-After you submit your application through [U.S. Digital Services](https://www.whitehouse.gov/digital/united-states-digital-service/apply), within three weeks our team will review your resume. If it seems like you are a good fit for 18F, we will reach out to schedule a 30-minute phone call. On the phone call, plan to talk more about your skills and experience, what you're passionate about, and the work we do here at 18F. 
+Submit your application through [U.S. Digital Services](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Within three weeks our team will review your resume, and if you seem like a good fit, we'll reach out to schedule a 30-minute phone call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here. 
 
+### In-person (or videochat) interviews
 
+After your phone interview, the 18F member you spoke to will submit their notes to our Talent Team. If we'd like to chat with you more, we'll ask you to come in to one of our office locations or join us somewhere on the internet for a couple of longer interviews. Depending on what position you're applying for, the format will vary, but generally we group interviews with multiple candidates together into bi-weekly hiring sprints, every other Friday. 
 
-### In-Person (or Videochat) Interviews
+### Security clearance
 
-After your phone chat, the 18F-er you chatted with will submit their notes to our Talent Team. If we'd like to chat with you more, we'll ask you to come in to one of our office locations, or join us somewhere on the internet for a couple of longer interviews. Depending on what position you're applying for, the format will vary a bit, but generally we group interviews with multiple candidates together into bi-weekly hiring sprints. Every other Friday, members of our team gather to interview candidates. 
-
-### Security Clearance
-
-If you're new to working for the federal government, it's important to know that all government positions require some kind of background check. Most positions at 18F require a public trust position clearance, which is more thorough than most private sector background checks, but not as intensive as a higher security clearance. The clearance process adds some time and forms to the hiring process, but GSA's human resources team will be there to guide you. 
+All government positions require some kind of background check. Most positions at 18F require a public trust position clearance, which is more thorough than most private-sector background checks but not as intensive as a higher security clearance. The clearance process adds some time and forms to the hiring process, but GSA's human resources team will guide you through it.
 
 ### Basic rubric and criteria
 
-After your interview, the interviewer(s) will evaluate along the basic rubric below. Interviewers evaluate candidates without discussing the candidate with their interview partner or other team members. After a written evaluation, all interviewers will meet and discuss the candidate. 
+Interviewers evaluate candidates using the basic rubric below, without discussion or input from interview partners or other team members. After they complete a written evaluation, all interviewers meet and discuss the candidate. 
 
 - Principles alignment
 
@@ -67,4 +65,4 @@ Check out more interviewing information for each of our teams.
 	{% endfor %}
 </ul>
 
-Don't see the team you are interviewing with? Design, content, and operations information will be added soon. 	
+Don't see the team you're interviewing with? Design, content, and operations information will be added soon. 	
