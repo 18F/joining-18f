@@ -56,4 +56,4 @@ objectives:
 
 [Read more about management and organization structure, environmental
 challenges and needs, and basic employment requirements for this
-position](https://docs.google.com/document/d/1DCyhr9YJff2x3EQBXA9fY7FM6rD0QmVWUVyl_rJRytA/edit).
+position](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/18f-consulting/).
