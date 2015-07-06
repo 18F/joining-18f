@@ -2,13 +2,12 @@
 title: 18F Consulting
 layout: default
 permalink: who-we-are-hiring/positions/18f-consulting/
+team: consulting
 ---
 # Management and organization structure
 
 As a member of [18F Consulting](https://18f.gsa.gov/consulting/),
-you’ll ultimately report to the Director of 18F Consulting. 18F
-Consulting is part of [18F](https://18f.gsa.gov/) at the [General
-Services Administration](http://www.gsa.gov/).
+you’ll ultimately report to the Director of 18F Consulting. 
 
 18F Consulting supports the mission and organizational priorities of 18F
 by working on select, high-profile, high-impact projects.
@@ -79,11 +78,11 @@ makes sense.
 
 While we “default to open,” during design and development, the
 environment is often tightly locked down to minimize security risk to
-the agency. However, most design and development is posted to Github
+the agency. However, most design and development is posted to GitHub
 repositories during development, and is later opened up to the world
 after launch. (Depending on the project, it may be posted publicly
 during development.) Openness extends to open data. We use open data
-when it is available, and design with the goal of opening up data after
+when it;s available, and design with the goal of opening up data after
 launch.
 
 We also collaborate with the public. Many of our deliverables must be
@@ -91,11 +90,11 @@ made available for long periods of public review and comment. They’ll be
 listed in the Federal Register, and if the piece is politically
 interesting, it may generate hundreds or thousands of comments.
 
-<span id="h.gjdgxs" class="anchor"></span>18F Consulting team members
+18F Consulting team members
 tend to be self-directed. We constantly monitor the priorities and work
 on what’s most important at any given moment. We use how many Americans
 (or future Americans) are directly affected as a main input into our
-priorities. We are expected to always be productive and working on the
+priorities. We're expected to always be productive and working on the
 most worthwhile projects, even when the machines of government produce
 obstacles.
 
@@ -108,7 +107,7 @@ making back-end processing easier.
 
 Our public-facing deliverables must be readable by people with the
 lowest literacy, accessible to people of all abilities, and usable by
-people of all levels of technical proficiency. We’d like our work to be
+people of all levels of technical proficiency. We like our work to be
 sensible, usable, and accessible beyond complying with standards and
 regulations.
 
@@ -128,8 +127,8 @@ your clients through this transition.
 Many of the leases and maintenance contracts are not optimal for
 delivering great service to constituents.
 
-Leadership does not know what APIs are, they don’t understand the value
-of open data, and most of them have little technical knowledge. They are
+Leadership may not know what APIs are, they may be unfamiliar with the value
+of open data, and most of them have little technical knowledge. They're
 risk averse. you'll help them learn, get the vocabulary, and see value
 in changing.
 
@@ -160,7 +159,7 @@ And if it goes well, we will get little or no credit. The agencies we
 work with will be the heroes.
 
 We are a startup with an emerging, changeable culture inside a huge,
-crusty, entrenched organization. It will be frustrating sometimes.
+crusty, entrenched organization. It'll be frustrating sometimes.
 
 Things happen: states sue the federal government to stop programs;
 Congress changes its mind; appropriation bills pass reallocating funds.
@@ -171,7 +170,7 @@ gets stuck by the machines of government.
 
 It’s within the realm of possibility that you’ll be investigated for the
 job you do or a role you have in a project, and that you'll be called to
-testify to a Senate or Congressional committee -- and not to be
+testify to a Senate or Congressional committee — and not to be
 congratulated.
 
 Everything you do, say, write, and make is a public record. Anyone can
