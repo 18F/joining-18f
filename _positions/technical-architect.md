@@ -2,6 +2,7 @@
 title: Technical Architect
 layout: default
 permalink: who-we-are-hiring/positions/technical-architect/
+team: consulting
 ---
 As a member of the 18F Consulting team, Technical Architects face the
 daunting challenge of bridging the gap between two technological worlds
@@ -49,8 +50,7 @@ objectives:
 
 -   Oversee the implementation of the architecture strategy.
 
-### Objective \#2: Serve as the technical leader on a large digital/IT
-project, similar in size and importance to Healthcare.gov.
+### Objective \#2: Serve as the technical leader on a large digital/IT project, similar in size and importance to Healthcare.gov.
 
 -   Architect the overall system, by using prototyping and proof of concepts, with an eye toward constant reengineering and refactoring to ensure the simplest and most elegant system possible to accomplish the desired need.
 
@@ -70,8 +70,7 @@ project, similar in size and importance to Healthcare.gov.
 
 -   Liberally share knowledge across a multi-disciplinary team and work within agile methodologies.
 
-### Objective \#3: Begin migrating a large IT organization to
-Infrastructure as a Service (IaaS) providers.
+### Objective \#3: Begin migrating a large IT organization to Infrastructure as a Service (IaaS) providers.
 
 -   Provide consulting and hands-on support throughout each of the infrastructure migration phases, including assessment, proof of concept, data migration, application migration, and optimization.
 

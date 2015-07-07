@@ -1,12 +1,13 @@
 ---
-title: Backend Web Developer
+title: Back End Web Developer
 layout: default
 permalink: who-we-are-hiring/positions/back-end-developer/
+team: engineering
 ---
 
 Experience using modern, open source software to prototype and deploy
-backend web applications, including all aspects of server-side
-processing, data storage, and integration with frontend development.
+back end web applications, including all aspects of server-side
+processing, data storage, and integration with front end development.
 
 Primarily responsible for:
 

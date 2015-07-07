@@ -1,10 +1,11 @@
 ---
-title: Frontend Web Developer
+title: Front End Web Developer
 layout: default
 permalink: who-we-are-hiring/positions/frontend-web-developer/
+team: engineering
 ---
 
-Experience using modern, frontend web development tools, techniques, and
+Experience using modern, front end web development tools, techniques, and
 methods for the creation and deployment of user-facing interfaces. Is
 comfortable working in an agile and lean environment to routinely deploy
 changes.

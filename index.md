@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: So You Want to Join 18F?
+title: So you want to join 18F?
 ---
 
 ## Mission
@@ -17,6 +17,3 @@ We will accomplish our mission by:
 * putting the needs of the public first
 * being design-centric, agile, open, and data-driven
 * deploying tools and services early and often
-
-
-

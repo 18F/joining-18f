@@ -2,6 +2,7 @@
 title: Data Architect
 layout: default
 permalink: who-we-are-hiring/positions/data-architect/
+team: consulting
 ---
 {
 
