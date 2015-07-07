@@ -74,8 +74,7 @@ objectives:
 
 -   Provide consulting and hands-on support throughout each of the infrastructure migration phases, including assessment, proof of concept, data migration, application migration, and optimization.
 
-### Objective \#4: Promote the adoption of modern technology practices
-through teaching, coaching, and knowledge sharing.
+### Objective \#4: Promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
 
 -   Conduct one or more agile workshops to accelerate the learning and adoption of agile development principles and practices.
 
