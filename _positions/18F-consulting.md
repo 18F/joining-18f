@@ -82,7 +82,7 @@ the agency. However, most design and development is posted to GitHub
 repositories during development, and is later opened up to the world
 after launch. (Depending on the project, it may be posted publicly
 during development.) Openness extends to open data. We use open data
-when it;s available, and design with the goal of opening up data after
+when it's available, and design with the goal of opening up data after
 launch.
 
 We also collaborate with the public. Many of our deliverables must be
