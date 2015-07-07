@@ -2,6 +2,7 @@
 title: Design and Product Strategist
 layout: default
 permalink: who-we-are-hiring/positions/design-and-product-strategist/
+team: consulting
 ---
 The Design and Product Strategist plays an important role on the 18F
 Consulting team. You’re at the forefront of human-centered design and
@@ -32,10 +33,7 @@ project on track.
 Within the first 6-12 months after hiring, you’ll accomplish these
 objectives:
 
-### Objective \#1: Use human-centered methods, empowering agencies with
-the process and tools to examine and discover their challenges and
-opportunities — whether that be for programs, people, products, or
-policies.
+### Objective \#1: Use human-centered methods, empowering agencies with the process and tools to examine and discover their challenges and opportunities — whether that be for programs, people, products, or policies.
 
 -   Plan and lead user research discovery sprints, and facilitate participatory design workshops.
 
@@ -85,8 +83,7 @@ policies.
 
 -   Review proposals from vendors and assess them for design, research, usability testing, and product process acumen.
 
-### Objective \#5: Contribute to creating, assessing, and refining the
-methods 18F uses to deliver its services.
+### Objective \#5: Contribute to creating, assessing, and refining the methods 18F uses to deliver its services.
 
 -   Championing that all aspects of consulting is, in essence, service design, collaborate with all team members to continuously improve the experience and services we provide all our clients, whether that be design, product, technical assessments, or acquisition assistance.
 

@@ -2,6 +2,7 @@
 title: Director of Technical Architecture
 layout: default
 permalink: who-we-are-hiring/positions/director-of-technical-architecture/
+team: consulting
 ---
 As a senior member of the 18F Consulting team, the Director of Technical
 Architecture leads a group of highly skilled technical
@@ -44,8 +45,7 @@ objectives:
 
 -   Develop a set of *hands-on* consulting services aimed at solving major challenges across the federal government, and market these services to federal agencies.
 
-### Objective \#2: Build, manage, and lead a team of high-performing
-technical architecture/engineering consultants.
+### Objective \#2: Build, manage, and lead a team of high-performing technical architecture/engineering consultants.
 
 -   Based on client demand for services, develop and execute a recruiting strategy for attracting the best and brightest from within and outside of government to join your team.
 

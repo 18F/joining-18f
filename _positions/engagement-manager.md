@@ -2,6 +2,7 @@
 title: Engagement Manager
 layout: default
 permalink: who-we-are-hiring/positions/engagement-manager/
+team: consulting
 ---
 As a member of the 18F Consulting team, Engagement Managers play the
 critical role of supporting a multi-disciplinary team of highly-skilled 18F experts in
@@ -28,8 +29,7 @@ a few months, and sometimes in just a few days.
 Within the first 6-12 months after hiring, you’ll accomplish these
 objectives:
 
-### Objective \#1: Manage one or more client engagements to improve or
-transform the way they deliver digital/tech services to users.
+### Objective \#1: Manage one or more client engagements to improve or transform the way they deliver digital/tech services to users.
 
 -   Translate the client’s objectives and constraints and 18F’s capacity and capabilities into an engagement approach that will deliver a unique experience and impactful results in the shortest amount of time possible (we don’t want the client to be dependent upon us forever).
 
@@ -45,9 +45,7 @@ transform the way they deliver digital/tech services to users.
 
 -   Measure the qualitative and quantitative impact that 18F made.
 
-### Objective \#2: Constantly improve the way 18F Consulting manages
-client engagements, and actively and openly sharing knowledge of best
-practices.
+### Objective \#2: Constantly improve the way 18F Consulting manages client engagements, and actively and openly sharing knowledge of best practices.
 
 -   Continually conduct retrospectives with clients and members of the 18F Consulting team to learn what is and isn’t working well across the board, and formulate and implement improvement actions.
 

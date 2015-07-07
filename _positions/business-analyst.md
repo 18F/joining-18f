@@ -2,6 +2,7 @@
 title: Business Analyst
 layout: default
 permalink: who-we-are-hiring/positions/business-analyst/
+team: delivery
 ---
 
 Familiar with a range of digital/web services and solutions, ideally

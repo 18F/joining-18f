@@ -2,6 +2,7 @@
 title: Product Manager
 layout: default
 permalink: who-we-are-hiring/positions/product-manager/
+team: delivery
 ---
 
 Experience managing the delivery, ongoing success, and continuous

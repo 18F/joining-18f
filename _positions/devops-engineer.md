@@ -2,6 +2,7 @@
 title: DevOps Engineer
 layout: default
 permalink: who-we-are-hiring/positions/devops-engineer/
+team: devops
 ---
 
 Experience serving as the engineer of complex technology implementations
