@@ -4,7 +4,7 @@ layout: default
 title: How to apply
 ---
 
-18F and the U.S. Digital Service are distinct groups working toward the same goals. 18F is a digital consultancy within the General Services Administration.  We develop products for other agencies, and those agencies pay for our services. In contrast, the U.S. Digital Service is headquartered inside the White House. They support and coordinate the work of various digital service teams housed in agencies across the federal government.
+18F and the U.S. Digital Service are distinct groups working toward the same goals. 18F is a digital consultancy within the General Services Administration.  We develop products for other agencies, and those agencies pay for our services. In contrast, the U.S. Digital Service is headquartered inside the Office of Management and Budget. They support and coordinate the work of various digital service teams housed in agencies across the federal government.
 
 If you want to apply <b>directly to 18F</b> please email join18F@gsa.gov. We don’t require a formal cover letter, but let us know more about you: 
 * Link to your GitHub profile, design portfolio, or attach a writing sample
