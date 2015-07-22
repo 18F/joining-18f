@@ -11,7 +11,7 @@ If you want to apply <b>directly to 18F</b> please email join18F@gsa.gov. We don
 * Specify what role you’d like to be considered for. Check out our openings [here](https://pages.18f.gov/joining-18f/who-we-are-hiring/)
 * Don't see an opening that suits you? Tells us what you want to do! 
 
-If you want to be considered for the full digital service family — including 18F, the U.S. Digital Service, and other agencies —  submit your application on the [USDS website](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Enter "join18F" as the referral code. Because you’ll be applying to multiple agencies, application review will take longer than if you apply directly to 18F.
+If you want to be considered for the full U.S. Digital Service family and other agencies —  submit your application on the [USDS website](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Enter "join18F" as the referral code. Because you’ll be applying to multiple agencies, application review will take longer than if you apply directly to 18F.
 
 
 Check out more information about our interview process [here](/joining-18f/interview-process).
