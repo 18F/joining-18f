@@ -1,7 +1,7 @@
 ---
 title: Who are we hiring?
 layout: default
-permalink: /who-we-are-hiring/
+permalink: /whom-we-are-hiring/
 ---
 We're looking for candidates who are passionate about our mission, with top-notch software development, design, content, and operations skills to match.
 
