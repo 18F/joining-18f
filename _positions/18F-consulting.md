@@ -1,5 +1,5 @@
 ---
-title: 18F Consulting
+title: General information about 18F Consulting
 layout: default
 permalink: who-we-are-hiring/positions/18f-consulting/
 team: consulting
