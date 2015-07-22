@@ -97,4 +97,4 @@ Portland.
 Your salary is determined by the GS Schedule. Typically, 18F Consulting
 team members come in at GS Level 15, Step 1 or above. [Salary table for
 Washington, DC for
-2015](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/15Tables/html/DCB_h.aspx).
+2015](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/15Tables/html/DCB.aspx).
