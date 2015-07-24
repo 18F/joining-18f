@@ -3,6 +3,7 @@ title: Engagement Manager
 layout: default
 permalink: who-we-are-hiring/positions/engagement-manager/
 team: consulting
+active: true
 ---
 As a member of the 18F Consulting team, Engagement Managers play the
 critical role of supporting a multi-disciplinary team of highly-skilled 18F experts in
@@ -24,7 +25,7 @@ use, but in turn affects how government works. Depending on the nature
 of the work and the methods that you use, you can affect change in just
 a few months, and sometimes in just a few days.
 
-## Key Objectives 
+## Key Objectives
 
 Within the first 6-12 months after hiring, you’ll accomplish these
 objectives:

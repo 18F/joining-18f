@@ -3,6 +3,7 @@ title: Director of Technical Architecture
 layout: default
 permalink: who-we-are-hiring/positions/director-of-technical-architecture/
 team: consulting
+active: true
 ---
 As a senior member of the 18F Consulting team, the Director of Technical
 Architecture leads a group of highly skilled technical

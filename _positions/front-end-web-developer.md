@@ -3,6 +3,7 @@ title: Front End Web Developer
 layout: default
 permalink: who-we-are-hiring/positions/frontend-web-developer/
 team: engineering
+active: true
 ---
 
 Experience using modern, front end web development tools, techniques, and

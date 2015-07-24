@@ -3,6 +3,7 @@ title: Agile Coach
 layout: default
 permalink: who-we-are-hiring/positions/agile-coach/
 team: other
+active: true
 ---
 Experience transforming initiatives to deliver lasting change within
 agencies that focus on delivering value for citizens. Coaches may be

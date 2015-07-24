@@ -3,6 +3,7 @@ title: Design and Product Strategist
 layout: default
 permalink: who-we-are-hiring/positions/design-and-product-strategist/
 team: consulting
+active: true
 ---
 The Design and Product Strategist plays an important role on the 18F
 Consulting team. You’re at the forefront of human-centered design and
