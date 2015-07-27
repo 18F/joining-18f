@@ -3,6 +3,7 @@ title: Technical Architect
 layout: default
 permalink: who-we-are-hiring/positions/technical-architect/
 team: consulting
+active: true
 ---
 As a member of the 18F Consulting team, Technical Architects face the
 daunting challenge of bridging the gap between two technological worlds

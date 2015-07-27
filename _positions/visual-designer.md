@@ -3,6 +3,7 @@ title: Visual Designer
 layout: default
 permalink: who-we-are-hiring/positions/visual-designer/
 team: design
+active: true
 ---
 
 The Visual Designer starts with a deep understanding of the goals of

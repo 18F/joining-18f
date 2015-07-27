@@ -3,6 +3,7 @@ title: Interaction Designer / User Researcher / Usability Tester
 layout: default
 permalink: who-we-are-hiring/positions/interaction-design/
 team: delivery
+active: true
 ---
 
 The Interaction Designer / User Researcher / Usability Tester is part of
