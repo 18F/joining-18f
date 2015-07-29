@@ -3,7 +3,7 @@ title: Digital Performance Analyst
 layout: default
 permalink: who-we-are-hiring/positions/digital-performance-analyst/
 team: delivery
-active: true
+active: false
 ---
 
 Experience specifying, collecting, and presenting key performance data
