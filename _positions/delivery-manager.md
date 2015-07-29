@@ -3,7 +3,7 @@ title: Delivery Manager
 layout: default
 permalink: who-we-are-hiring/positions/delivery-manager/
 team: delivery
-active: true
+active: false
 ---
 
 Experience setting up teams for successful delivery by removing
