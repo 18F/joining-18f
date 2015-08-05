@@ -5,9 +5,9 @@ permalink: /who-we-are-hiring/
 ---
 We're looking for candidates who are passionate about our mission, with top-notch software development, design, content, and operations skills to match. Below you will find a list of our current job openings.
 
-## Do I have to be a citizen to work at 18F?
+## Who is eligible to work at 18F? 
 
-If you can legally work in the U.S. then you are eligible to work for 18F. You do not have to be a U.S. citizen, but our agency is unable to sponsor visas, so you must already be able to work in the U.S.
+U.S. citizens, non-citizens who are nationals of the U.S., or people who have been admitted to the U.S. for permanent residence and hold a valid green card.
 
 ## Where are we hiring?
 
