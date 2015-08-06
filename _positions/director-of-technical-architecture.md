@@ -1,5 +1,5 @@
 ---
-title: Director of Technical Architecture
+title: Director of Technical Architecture (closed)
 layout: default
 permalink: who-we-are-hiring/positions/director-of-technical-architecture/
 team: consulting
