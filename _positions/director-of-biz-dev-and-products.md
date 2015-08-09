@@ -17,13 +17,13 @@ Success in this position does require a command of the digital landscape (for ex
 
 Within the first 6-12 months after hiring, you’ll accomplish these objectives:
 
-### Objective \#1: Manage the portfolio of 18F Consulting services and solutions.
+### Manage the portfolio of 18F Consulting services and solutions
 
 -   Continually understand the needs of our customers, identify market opportunities, and develop new or enhance existing offerings to meet those needs.
 
 -   Develop and maintain assets (for example, sales sheets, case studies, statement of work templates, and standard engagement models) to support the marketing, sales, and delivery of our services and solutions.
 
-### Objective \#2: Generate qualified leads and manage the sales pipeline lifecycle.
+### Generate qualified leads and manage the sales pipeline lifecycle
 
 -   Perform strategic business development to generate qualified leads for 18F Consulting.
 
@@ -34,6 +34,8 @@ Within the first 6-12 months after hiring, you’ll accomplish these objectives:
 -   Understand the client projects in enough detail to articulate the nature of the work to members of your team and to prepare the necessary interagency agreement documentation (for example, pricing estimates and statements of work).
 
 -   Refer work to other businesses within 18F and the General Services Administration that doesn’t fall within the scope of 18F Consulting’s business.
+
+---
 
 [Read more about management and organization structure, environmental
 challenges and needs, and basic employment requirements for this
