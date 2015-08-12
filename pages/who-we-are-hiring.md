@@ -11,7 +11,7 @@ U.S. citizens, non-citizens who are nationals of the U.S., or people who have be
 
 ## Where are we hiring?
 
-Everywhere in the United States! If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our San Francisco or D.C. office. However, the much of our team is distributed across the country in places like Chicago, New York, Raleigh, Tuscon, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland.
+Everywhere in the United States! If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our San Francisco or D.C. office. However, much of our team is distributed across the country in places like Chicago, New York, Raleigh, Tuscon, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland.
 
 ## Open positions
 
