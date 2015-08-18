@@ -3,7 +3,7 @@ title: Resource Manager
 layout: default
 permalink: who-we-are-hiring/positions/resource-manager/
 team: consulting
-active: true
+active: false
 ---
 As the Resource Manager for 18F Consulting, you’ll play the critically important role of ensuring all consultants are optimally utilized, and there is a sufficient mix and number consultants to meet the resource needs of current and upcoming projects. To be successful in this role, you must be able to master conflicting resource dynamics:
 
@@ -15,7 +15,7 @@ As the Resource Manager for 18F Consulting, you’ll play the critically importa
 
 -   We have multiple overlapping and highly fluid client engagements, with new ones starting and old ones finishing all the time. Some run as short as three days; others as long as six months. To complicate matters, resources are not fixed throughout an engagement; different resources are needed at different points in the project.
 
-As you can see, this is a challenging role, but one that is essential to 18F Consulting’s financial and client project success. 
+As you can see, this is a challenging role, but one that is essential to 18F Consulting’s financial and client project success.
 You’ll need to work collaboratively with a number of stakeholders, including members of the 18F Consulting team (particularly [engagement managers](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/engagement-manager/) and [business development staff](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/director-of-biz-dev-and-products/)) and the 18F Talent team, which manages 18F’s hiring operations.
 
 ## Key Objectives

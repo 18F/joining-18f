@@ -3,7 +3,7 @@ title: Director of Business Development and Products
 layout: default
 permalink: who-we-are-hiring/positions/director-of-biz-dev-and-products/
 team: consulting
-active: true
+active: false
 ---
 The Director of Business Development and Products plays a critical role on the 18F Consulting team: you ensure that there is a healthy pipeline of meaningful, high-impact, cost-reimbursable work, and that the pre-sales stage is a delightful experience for our federal agency clients. This isn't about revenue for revenue's sake. By law, we're not allowed to generate a profit, but we must fully recover the costs of our resources through the fees agency clients pay us. Ultimately, we care most about the work we do for agencies and the constituencies they serve, but cost recovery is an important aspect of 18F’s existence and growth.
 
