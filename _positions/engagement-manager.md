@@ -3,7 +3,7 @@ title: Engagement Manager
 layout: default
 permalink: who-we-are-hiring/positions/engagement-manager/
 team: consulting
-active: false
+active: true
 ---
 As a member of the 18F Consulting team, Engagement Managers play the
 critical role of supporting a multi-disciplinary team of highly-skilled 18F experts in

@@ -3,7 +3,7 @@ title: Practical Dev
 layout: default
 permalink: who-we-are-hiring/positions/practical-dev/
 team: consulting
-active: false
+active: true
 ---
 If you feel comfortable finding an existing repository on GitHub, grokking the codebase, pushing some downstream commits, and getting something running, read on. If you find yourself strangely compelled to automate things, prepare Slack integrations, or write scrapers, read on. If you don’t know whether you’re a front end developer or a back end developer or a system administrator, because you just feel as comfortable with Bash as you do with Sass, read on. If you enjoy reading clear and useful readme files, and you enjoy writing them just as much, read on. We are looking for Practical Devs to join 18F Consulting, and if you are that person, stop reading and apply.
 
