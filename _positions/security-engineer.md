@@ -3,7 +3,7 @@ title: Security Engineer
 layout: default
 permalink: who-we-are-hiring/positions/security-engineer/
 team: devops
-active: true
+active: false
 ---
 
 Experience serving as the security engineer of complex technology
