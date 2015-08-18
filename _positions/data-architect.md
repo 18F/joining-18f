@@ -25,7 +25,7 @@ government contractors, and others. We also can’t afford — in terms of
 time, resources, or emotional energy — to work with agencies who are not
 ready to do things the right way. The Data Architect therefore must be
 focused on results and building a sustainable data infrastructure within
-government.
+government.”
 
 }
 
