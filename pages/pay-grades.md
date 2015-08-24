@@ -12,7 +12,7 @@ Every federal employee is hired at a general schedule (GS) grade from one to 15.
 
 Most 18F members are not to exceed (NTE) employees. This means you cannot work at 18F on your position description (PD) for more than four years. The tentative and final offer both say two years, but you are eligible to extend for two additional years. The only reason you would not be automatically extended is if you failed to adequately perform your job duties. 
 
-This setup shouldn't cause concern regarding the longevity of 18F as an organization. We believe that in this industry most people aren't going to stick around for four years and beyond. They will join 18F, do their years of service in the federal government, and then return to the private sector. Due to the high-pressure nature of our work, it makes sense that people will move on after a couple of years. That helps 18F stay fresh and strong.
+This setup shouldn't cause concern regarding the longevity of 18F as an organization. We believe that in this industry most people aren't going to stick around for four years and beyond. They will join 18F, do their years of service in the federal government, and then return to the private (or public) sector. Due to the high-pressure nature of our work, it makes sense that people will move on after a couple of years. That helps 18F stay fresh and strong.
 
 ### When will I get a step increase?
 
