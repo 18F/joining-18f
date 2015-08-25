@@ -6,7 +6,7 @@ title: The 18F interview process
 
 ### Phone screen
 
-Submit your application through [U.S. Digital Services](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Within three weeks our team will review your resume, and if you seem like a good fit, we'll reach out to schedule a 30-minute phone call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here. 
+Apply by emailing your resume to [join18f@gsa.gov](mailto:join18f@gsa.gov). Within three weeks our team will review your resume, and if you seem like a good fit, we'll reach out to schedule a 30-minute phone call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here. 
 
 ### In-person (or videochat) interviews
 
