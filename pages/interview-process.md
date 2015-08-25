@@ -1,7 +1,7 @@
 ---
 permalink: /interview-process/
 layout: default
-title: The 18F interview process
+title: Interview process
 ---
 
 ### Phone screen
