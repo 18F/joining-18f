@@ -3,7 +3,7 @@ title: General information about 18F Consulting
 layout: default
 permalink: who-we-are-hiring/positions/18f-consulting/
 team: consulting
-active: true
+active: false
 ---
 ## Management and organization structure
 
