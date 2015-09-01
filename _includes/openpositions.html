@@ -1,0 +1,5 @@
+{% assign positions = site.positions | where:"active",true | group_by:"team" %}
+{% for position in positions %}<h3>{{ position['name'] |capitalize}}</h3>
+<ul>
+  {% for item in position['items'] %}<li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>{% endfor %}
+</ul>{% endfor %}
