@@ -1,5 +1,0 @@
-{% if include.active == "true" %}{% assign positions = site.positions | where:"team",include.team | where:"active",true %}{% else %}{% assign positions = site.positions | where:"team", include.team | where:"active", false %}{% endif %}{% unless positions.size == 0 %}
-<h3>{{include.title}}</h3>
-<ul>
-{% for position in positions %}<li><a href="{{site.baseurl}}{{ position.url }}">{{ position.title }}</a></li>{% endfor %}
-</ul>{% endunless %}
