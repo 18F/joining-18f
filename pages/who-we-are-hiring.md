@@ -17,16 +17,32 @@ Everywhere in the United States! If you have no experience working on remote tea
 
 Check back in mid-September for a more complete list of performance profiles that will provide more clarity on the talent we're seeking for 18F. Until then, we’re in critical need of candidates for the following positions:
 
-{% include positionslist.html team="delivery" title="Delivery" %}
+{% include positionslist.html team="delivery" title="Delivery"  active="true"%}
 
-{% include positionslist.html team="design" title="Design" %}
+{% include positionslist.html team="design" title="Design"  active="true"%}
 
-{% include positionslist.html team="devops" title="DevOps" %}
+{% include positionslist.html team="devops" title="DevOps"  active="true"%}
 
-{% include positionslist.html team="consulting" title="Consulting" %}
+{% include positionslist.html team="consulting" title="Consulting"  active="true"%}
 
-{% include positionslist.html team="engineering" title="Engineering" %}
+{% include positionslist.html team="engineering" title="Engineering"  active="true"%}
 
-{% include positionslist.html team="other" title="Other" %}
+{% include positionslist.html team="other" title="Other"  active="true"%}
 
-{% include positionslist.html team="outreach" title="Outreach" %}
+{% include positionslist.html team="outreach" title="Outreach" active="true" %}
+
+## Inactive positions
+
+{% include positionslist.html team="delivery" title="Delivery" active="false" %}
+
+{% include positionslist.html team="design" title="Design" active="false" %}
+
+{% include positionslist.html team="devops" title="DevOps" active="false" %}
+
+{% include positionslist.html team="consulting" title="Consulting" active="false" %}
+
+{% include positionslist.html team="engineering" title="Engineering" active="false" %}
+
+{% include positionslist.html team="other" title="Other" active="false" %}
+
+{% include positionslist.html team="outreach" title="Outreach" active="false" %}
