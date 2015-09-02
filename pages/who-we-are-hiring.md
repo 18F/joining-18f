@@ -14,12 +14,11 @@ U.S. citizens, non-citizens who are nationals of the U.S., or people who have be
 Everywhere in the United States! If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our San Francisco or D.C. office. However, the majority of our team is distributed across the country in places like Chicago, New York, Raleigh, Tuscon, Austin, Dayton, Philadelphia, Santa Barbara, Seattle, and Portland.
 
 ## Open positions
-
-Check back in mid-September for a more complete list of performance profiles that will provide more clarity on the talent we're seeking for 18F. Until then, we’re in critical need of candidates for the following positions:
+We're actively hiring for the following positions:
 
 {% include openpositions.html %}
 
 ## Inactive positions
-We're currently **not hiring** for the positions below, but we're listing them here to give you a better idea of the types of positions that exist at 18F. Please do not apply for any of the positions below.
+We're **not actively hiring** for the positions below. Please check back in mid-September for an updated list of open positions.
 
 {% include inactivepositions.html %}
