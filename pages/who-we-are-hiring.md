@@ -20,5 +20,6 @@ Check back in mid-September for a more complete list of performance profiles tha
 {% include openpositions.html %}
 
 ## Inactive positions
+We're currently **not hiring** for the positions below, but we're listing them here to give you a better idea of the types of positions that exist at 18F. Please do not apply for any of the positions below.
 
 {% include inactivepositions.html %}
