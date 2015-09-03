@@ -4,9 +4,9 @@ layout: default
 title: Government pay grades explained
 ---
 
-Every federal employee is hired at a general schedule (GS) grade from one to 15. GS grades are based on education, background, experience, and the position within 18F. Inside each grade is a series of 10 steps. Employees typically start at step one of whatever GS grade they are assigned. Find out more about the GS system from the [Office of Personnel Management (OPM)](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/)
+Every federal employee is hired at a general schedule (GS) grade from 1 to 15. GS grades are based on education, background, experience, and the position within 18F. Inside each grade is a series of 10 steps. Employees typically start at step one of whatever GS grade they are assigned. Find out more about the GS system from the [Office of Personnel Management (OPM)](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/)
 
-18F hires at the following grades: seven, nine, 11, 12, 13, 14, and 15. Your corresponding annual pay depends on your grade, step, and location. See [OPM](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2014/general-schedule/) for more information on salary rates in different locations. **Please note**: the annual salary cap for all federal employees is $158,700. We cannot offer more than this under any circumstance.
+18F hires at the following grades: 7, 9, 11, 12, 13, 14, and 15. Your corresponding annual pay depends on your grade, step, and location. See [OPM](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2014/general-schedule/) for more information on salary rates in different locations. **Please note**: the annual salary cap for all federal employees is $158,700. We cannot offer more than this under any circumstance.
 
 ### What does this "not to exceed two years" mean? 
 
