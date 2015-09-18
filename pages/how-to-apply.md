@@ -8,6 +8,7 @@ title: How to apply
 
 If you want to apply <b>directly to 18F</b> please email [join18f@gsa.gov](mailto:join18f@gsa.gov). We don’t require a formal cover letter, but let us know more about you:
 
+* Send PDF version of your current resume 
 * Link to your GitHub profile, design portfolio, or attach a writing sample
 * Specify what role you’d like to be considered for. Check out our openings [here](https://pages.18f.gov/joining-18f/who-we-are-hiring/)
 * Don't see an opening that suits you? Tell us what you want to do!
