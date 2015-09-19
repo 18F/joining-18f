@@ -8,9 +8,9 @@ title: How to apply
 
 If you want to apply <b>directly to 18F</b> please email [join18f@gsa.gov](mailto:join18f@gsa.gov). We don’t require a formal cover letter, but let us know more about you:
 
-* Send PDF version of your current resume 
-* Link to your GitHub profile, design portfolio, or attach a writing sample
-* Specify what role you’d like to be considered for. Check out our openings [here](https://pages.18f.gov/joining-18f/who-we-are-hiring/)
+* Send your current resume, preferably as a PDF.
+* Link to your GitHub profile, design portfolio, or attach a writing sample.
+* Specify what role you’d like to be considered for. Check out our openings [here](https://pages.18f.gov/joining-18f/who-we-are-hiring/).
 * Don't see an opening that suits you? Tell us what you want to do!
 
 If you want to be considered for the full U.S. Digital Service family and other agencies — submit your application on the [USDS website](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Enter "join18F" as the referral code. Because you’ll be applying to multiple agencies, application review will take longer than if you apply directly to 18F.
@@ -37,8 +37,8 @@ submitted as a PDF to your point of contact on the 18F talent team.
     -   Your salary expectation
 
 -   **Security clearance**
-    -   [OF306 —- Declaration for Federal Employment](https://www.opm.gov/Forms/pdf_fill/of0306.pdf)
-    -   [GSA 3665 —- Authorization to Obtain Credit Report](http://www.gsa.gov/portal/getFormFormatPortalData.action?mediaId=29769)
+    -   [OF306 — Declaration for Federal Employment](https://www.opm.gov/Forms/pdf_fill/of0306.pdf)
+    -   [GSA 3665 — Authorization to Obtain Credit Report](http://www.gsa.gov/portal/getFormFormatPortalData.action?mediaId=29769)
 
 These documents will be complied by the 18F hiring team and sent to the
 GSA HR department.
