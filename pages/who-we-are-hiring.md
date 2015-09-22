@@ -18,6 +18,12 @@ We're actively hiring for the following positions:
 
 {% include openpositions.html %}
 
+### What's the difference bewteen a Front End Designer and Front End Developer?”
+
+We expect our Front End Designers to have visual design as well as HTML, CSS and some JavaScript experience. They should feel comfortable brainstorming and developing design options to meet user needs; developing wireframes or HTML/CSS prototypes to test their design ideas; and quickly iterating on feedback. However, they are not expected to create, for example, custom illustrations as a pure visual designer might. On the code side, they should feel comfortable working as a front end developer on projects, implementing accessible HTML5 and CSS3. JavaScript experience is a plus, but they are not required to be experts.
+
+By contrast, our Front End Developers are not expected to have design experience. Instead, they are expected to have much more experience than our Front End Designers with JavaScript, including strict mode compliance, modularization techniques and tools, and frameworks and libraries. They are expected to be fully comfortable writing vanilla JavaScript, working with APIs, and making front end code perform as efficiently as possible.
+
 ## Inactive positions
 We're **not actively hiring** for the positions below. Please check back in mid-September for an updated list of open positions.
 
