@@ -19,6 +19,6 @@ We're actively hiring for the following positions:
 {% include openpositions.html %}
 
 ## Inactive positions
-We're **not actively hiring** for the positions below. Please check back in mid-September for an updated list of open positions.
+We're **not actively hiring** for the positions below. Please check back in early October for an updated list of open positions.
 
 {% include inactivepositions.html %}
