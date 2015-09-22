@@ -16,4 +16,11 @@ Everywhere in the United States! If you have no experience working on remote tea
 ## Open positions
 We're actively hiring for the following positions:
 
-{% include openpositions.html %}
+###Software development (front end)
+Using modern, open source web frameworks and tools, our front and back end developers work in small, cross-functional teams, close to user research and product prioritization, to produce functional, scalable web services.
+
+###Visual and interaction design
+Our designers create wireframes, HTML prototypes, high-fidelity mockups, and more, based on a firm understanding of user needs. They do what it takes to communicate (and sometimes implement) these solutions.
+
+###Product management (DC-based)
+Product Leads work closely with agency partners to define and prioritize product value in agile cycles. They remove blocks for the team, create and groom backlogs, champion user testing and ensure we are always shipping valuable code.
