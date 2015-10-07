@@ -31,7 +31,7 @@
 
         <div class="usa-input">
           <label class="ss-q-item-label" for="entry_1741264393">Name</label>
-          <input type="text" name="entry.1741264393" value="" class="ss-q-short" id="entry_1741264393" dir="auto" aria-label="Name  " aria-required="true" required="" title="" required />
+          <input type="text" name="entry.1741264393" value="" class="ss-q-short" id="entry_1741264393" dir="auto" aria-label="Name  " aria-required="true" title="" required />
         </div>
 
         <div class="usa-input">
@@ -171,19 +171,19 @@
           <input type="radio" name="entry.305267568" value="0-point Sole Survivorship Preference (SSP)." id="group_305267568_2" role="radio" class="ss-q-radio" aria-label="0-point Sole Survivorship Preference (SSP)." aria-required="true">
           <label for="group_305267568_2">0-point Sole Survivorship Preference (SSP).</label>
 
-          <input type="radio" name="entry.305267568" value="5-point preference based on active duty in the U.S. Armed Forces (TP)." id="group_305267568_3" role="radio" class="ss-q-radio" aria-label="5-point preference based on active duty in the U.S. Armed Forces (TP)." required="" aria-required="true">
+          <input type="radio" name="entry.305267568" value="5-point preference based on active duty in the U.S. Armed Forces (TP)." id="group_305267568_3" role="radio" class="ss-q-radio" aria-label="5-point preference based on active duty in the U.S. Armed Forces (TP)."  aria-required="true">
           <label for="group_305267568_3">5-point preference based on active duty in the U.S. Armed Forces (TP).
 
-          <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." id="group_305267568_4" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." required="" aria-required="true">
+          <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." id="group_305267568_4" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." aria-required="true">
           <label for="group_305267568_4">10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP).</label>
 
-          <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of 30% or more (CPS)." id="group_305267568_5" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of 30% or more (CPS)." required="" aria-required="true">
+          <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of 30% or more (CPS)." id="group_305267568_5" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of 30% or more (CPS)." aria-required="true">
           <label for="group_305267568_5">10-point preference based on a compensable service connected disability of 30% or more (CPS).</label>
 
-          <input type="radio" name="entry.305267568" value="10-point preference for non-compensable disability or Purple Heart (XP)." id="group_305267568_6" role="radio" class="ss-q-radio" aria-label="10-point preference for non-compensable disability or Purple Heart (XP)." required="" aria-required="true">
+          <input type="radio" name="entry.305267568" value="10-point preference for non-compensable disability or Purple Heart (XP)." id="group_305267568_6" role="radio" class="ss-q-radio" aria-label="10-point preference for non-compensable disability or Purple Heart (XP)." aria-required="true">
           <label for="group_305267568_6">10-point preference for non-compensable disability or Purple Heart (XP).</label>
 
-          <input type="radio" name="entry.305267568" value="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." id="group_305267568_7" role="radio" class="ss-q-radio" aria-label="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." required="" aria-required="true">
+          <input type="radio" name="entry.305267568" value="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." id="group_305267568_7" role="radio" class="ss-q-radio" aria-label="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." aria-required="true">
           <label for="group_305267568_7">10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP).</label>
 
         </fieldset>
@@ -212,8 +212,7 @@
       <input type="hidden" name="fvv" value="0">
       <input type="hidden" name="fbzx" value="-9175896065341356209">
 
-      <!-- <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "> -->
-      <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " />
+      <input type="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " />
 
 
     </form>
@@ -231,37 +230,6 @@
         },
         errorsWrapper: '<ul class="usa-input-error-message"></ul>'
       });
-
-
-      $("form").on('submit', function(e){
-          e.preventDefault();
-          var form = $(this);
-
-          form.parsley({
-            errorClass: "usa-input-error",
-            classHandler: function (el) {
-                return el.$element.closest('.usa-input');
-            },
-            errorsWrapper: '<ul class="usa-input-error-message"></ul>'
-          }).validate();
-
-          if (form.parsley().isValid()){
-              form.submit();
-
-
-              console.log("submit!")
-          }
-      });
-
-      // $("form").parsley({
-      //   errorClass: "usa-input-error",
-      //   classHandler: function (el) {
-      //       return el.$element.closest('.usa-input');
-      //   },
-      //   errorsWrapper: '<ul class="usa-input-error-message"></ul>'
-      // });
-
-
 
     }());
 
