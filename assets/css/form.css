@@ -36,8 +36,23 @@
 
   form {
     width: 600px;
-    margin: 40px auto;
+    margin: auto;
   }
+
+  label {
+    font-weight: bold;
+  }
+
+  .usa-input-error {
+    padding-bottom: 0;
+  }
+  .usa-input-error-message {
+    padding-bottom: 0;
+  }
+  .usa-input-error-message li:before {
+    padding: 0;
+  }
+
 
 
 

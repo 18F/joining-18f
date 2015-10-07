@@ -11,6 +11,9 @@
 <link rel="stylesheet" type="text/css" href="../assets/css/all.css">
 <link rel="stylesheet" type="text/css" href="../assets/css/form.css">
 
+<script type="text/javascript" src="../assets/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="../assets/js/parsley.min.js"></script>
+
 <body>
 
   <div id="main">
@@ -20,51 +23,82 @@
       <img src="../assets/img/18f-logo.png" alt="18F Logo" class="logo" />
     </header>
 
-    <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
-
-      <h2>Contact Information:</h2>
-
-      <label class="ss-q-item-label" for="entry_1741264393">Name</label>
-      <input type="text" name="entry.1741264393" value="" class="ss-q-short" id="entry_1741264393" dir="auto" aria-label="Name  " aria-required="true" required="" title="">
+    <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="POST" id="ss-form" target="_self">
 
 
-      <label class="ss-q-item-label" for="entry_1413303024">Email</label>
-      <input type="email" name="entry.1413303024" value="" class="ss-q-short" id="entry_1413303024" dir="auto" aria-label="Email  Must be a valid email address" aria-required="true" required="" title="Must be a valid email address">
+      <fieldset>
+        <h2><legend>Contact Information:</legend></h2>
+
+        <div class="usa-input">
+          <label class="ss-q-item-label" for="entry_1741264393">Name</label>
+          <input type="text" name="entry.1741264393" value="" class="ss-q-short" id="entry_1741264393" dir="auto" aria-label="Name  " aria-required="true" required="" title="" required />
+        </div>
+
+        <div class="usa-input">
+          <label class="ss-q-item-label" for="entry_1413303024">Email</label>
+          <input type="email" name="entry.1413303024" value="" class="ss-q-short" id="entry_1413303024" dir="auto" aria-label="Email  Must be a valid email address" aria-required="true"  data-parsley-trigger="change"  title="Must be a valid email address" required />
+        </div>
 
 
-      <label class="ss-q-item-label" for="entry_1557983315">Phone</label>
-      <input type="text" name="entry.1557983315" value="" class="ss-q-short" id="entry_1557983315" dir="auto" aria-label="Phone  " title="">
+        <label class="ss-q-item-label" for="entry_1557983315">Phone</label>
+        <input type="text" name="entry.1557983315" value="" class="ss-q-short" id="entry_1557983315" dir="auto" aria-label="Phone  " title="">
 
 
-      <label class="ss-q-item-label" for="entry_1488071147">City</label>
-      <input type="text" name="entry.1488071147" value="" class="ss-q-short" id="entry_1488071147" dir="auto" aria-label="City  " title="">
+        <label class="ss-q-item-label" for="entry_1488071147">City</label>
+        <input type="text" name="entry.1488071147" value="" class="ss-q-short" id="entry_1488071147" dir="auto" aria-label="City  " title="">
 
 
-      <label class="ss-q-item-label" for="entry_1168669064">State</label>
-      <input type="text" name="entry.1168669064" value="" class="ss-q-short" id="entry_1168669064" dir="auto" aria-label="State  " title="">
+        <label class="ss-q-item-label" for="entry_1168669064">State</label>
+        <input type="text" name="entry.1168669064" value="" class="ss-q-short" id="entry_1168669064" dir="auto" aria-label="State  " title="">
 
 
-      <label class="ss-q-item-label" for="entry_1232554319">ZIP Code</label>
-      <input type="text" name="entry.1232554319" value="" class="ss-q-short" id="entry_1232554319" dir="auto" aria-label="ZIP Code  " title="">
+        <label class="ss-q-item-label" for="entry_1232554319">ZIP Code</label>
+        <input type="text" name="entry.1232554319" value="" class="ss-q-short" id="entry_1232554319" dir="auto" aria-label="ZIP Code  " title="">
+
+      </fieldset>
 
 
-      <h2 class="ss-section-title">Citizenship:</h2>
-      <div class="ss-section-description ss-no-ignore-whitespace">For some positions, due to legislation or agency policy, U.S. citizenship is required.
+      <fieldset>
 
-      Note: Any individual who is not a Federal employee or GSA contractor and who is legally authorized to work in the U.S. is eligible to apply.</div>
+      <h2><legend>Citizenship:</legend></h2>
 
+        <p>
+          For some positions, due to legislation or agency policy, U.S. citizenship is required.<br/>
 
-      <input type="checkbox" name="entry.1377828897" value="Verify that you are a U.S. Citizen or Green Card holder" id="group_1377828897_1" role="checkbox" class="ss-q-checkbox">
-      <label for="group_1377828897_1">Verify that you are a U.S. Citizen or Green Card holder</label>
+          Note: Any individual who is not a Federal employee or GSA contractor and who is legally authorized to work in the U.S. is eligible to apply.
+        </p>
+
+        <input type="checkbox" name="entry.1377828897" value="Verify that you are a U.S. Citizen or Green Card holder" id="group_1377828897_1" role="checkbox" class="ss-q-checkbox">
+        <label for="group_1377828897_1">Verify that you are a U.S. Citizen or Green Card holder</label>
+
+      </fieldset>
 
 
       <h2 class="ss-section-title">Skillset:</h2>
 
-      <label class="ss-q-item-label" for="entry_1452897538">Please indicate your primary skillset.
-      Your response here will be used primarily in assigning reviewers for your application.</label>
-      <select name="entry.1452897538" id="entry_1452897538" aria-label="Please indicate your primary skillset. Your response here will be used primarily in assigning reviewers for your application. "><option value=""></option>
-      <option value="Acquisition Specialist">Acquisition Specialist</option> <option value="Back End Developer">Back End Developer</option> <option value="Content Strategist">Content Strategist</option> <option value="Content Writer">Content Writer</option> <option value="Data Architect">Data Architect</option> <option value="DevOps Engineer">DevOps Engineer</option> <option value="Front End Developer">Front End Developer</option> <option value="Full Stack Developer">Full Stack Developer</option> <option value="Product Lead">Product Lead</option> <option value="Project / Program Manager">Project / Program Manager</option> <option value="UX Research and Design">UX Research and Design</option> <option value="Technical Architect">Technical Architect</option> <option value="Technical Recruiter">Technical Recruiter</option> <option value="Visual Designer">Visual Designer</option></select>
+      <div class="usa-input">
 
+        <label class="ss-q-item-label" for="entry_1452897538">Please indicate your primary skillset.
+        Your response here will be used primarily in assigning reviewers for your application.</label>
+        <select name="entry.1452897538" id="entry_1452897538" aria-label="Please indicate your primary skillset. Your response here will be used primarily in assigning reviewers for your application. " required>
+          <option value=""></option>
+          <option value="Acquisition Specialist">Acquisition Specialist</option>
+          <option value="Back End Developer">Back End Developer</option>
+          <option value="Content Strategist">Content Strategist</option>
+          <option value="Content Writer">Content Writer</option>
+          <option value="Data Architect">Data Architect</option>
+          <option value="DevOps Engineer">DevOps Engineer</option>
+          <option value="Front End Developer">Front End Developer</option>
+          <option value="Full Stack Developer">Full Stack Developer</option>
+          <option value="Product Lead">Product Lead</option>
+          <option value="Project / Program Manager">Project / Program Manager</option>
+          <option value="UX Research and Design">UX Research and Design</option>
+          <option value="Technical Architect">Technical Architect</option>
+          <option value="Technical Recruiter">Technical Recruiter</option>
+          <option value="Visual Designer">Visual Designer</option>
+        </select>
+
+      </div>
 
       <label for="entry_189037147">Other skills you have</label>
       <textarea name="entry.189037147" rows="8" cols="0" class="ss-q-long" id="entry_189037147" dir="auto" aria-label="Other skills you have  "></textarea>
@@ -89,12 +123,15 @@
 
       <h2 class="ss-section-title">Résumé:</h2>
 
-      <label class="ss-q-item-label" for="entry_710467749">Résumé</label>
+      <div class="usa-input">
 
-      Please copy and paste your resume below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position.
+        <label class="ss-q-item-label" for="entry_710467749">Résumé</label>
 
-      <textarea name="entry.710467749" rows="8" cols="0" class="ss-q-long" id="entry_710467749" dir="auto" aria-label="Résumé Please copy and paste your resume below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position. "></textarea>
+        Please copy and paste your resume below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position.
 
+        <textarea name="entry.710467749" rows="8" cols="0" class="ss-q-long" id="entry_710467749" dir="auto" aria-label="Résumé Please copy and paste your resume below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position. " required></textarea>
+
+      </div>
 
       <label class="ss-q-item-label" for="entry_1809010548">Link to Résumé</label>
       <input type="url" name="entry.1809010548" value="" class="ss-q-short" id="entry_1809010548" dir="auto" aria-label="Link to Résumé (if you prefer) Must be a valid URL" title="Must be a valid URL">
@@ -119,41 +156,39 @@
 
       <h2 class="ss-section-title">Veteran Status:</h2>
 
+      <div class="usa-input">
 
-      <label class="ss-q-item-label" for="entry_490268734">Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference?</label>
+        <p>
+          <label class="ss-q-item-label" for="entry_490268734">Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference?</label>
+          <br/>
+          For more information: <a href="https://www.google.com/url?q=https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/%232Types&amp;sa=D&amp;usg=AFQjCNFiPvG5rm-XI1_KqMBfEE5VLstb7w">https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types</a>
+        </p>
 
-      For more information: <a href="https://www.google.com/url?q=https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/%232Types&amp;sa=D&amp;usg=AFQjCNFiPvG5rm-XI1_KqMBfEE5VLstb7w">https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types</a>
+        <fieldset role="radiogroup" aria-label="Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference? For more information: https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types ">
 
-      <ul role="radiogroup" aria-label="Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference? For more information: https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types ">
-        <li class="ss-choice-item">
-          <input type="radio" name="entry.305267568" value="No, I do not claim Veterans&#39; Preference." id="group_305267568_1" role="radio" class="ss-q-radio" aria-label="No, I do not claim Veterans&#39; Preference." required="" aria-required="true"><label for="group_305267568_1">No, I do not claim Veterans&#39; Preference.</label>
-        </li>
-        <li class="ss-choice-item">
-          <input type="radio" name="entry.305267568" value="0-point Sole Survivorship Preference (SSP)." id="group_305267568_2" role="radio" class="ss-q-radio" aria-label="0-point Sole Survivorship Preference (SSP)." required="" aria-required="true">
+          <input type="radio" name="entry.305267568" value="No, I do not claim Veterans&#39; Preference." id="group_305267568_1" role="radio" class="ss-q-radio" aria-label="No, I do not claim Veterans&#39; Preference." aria-required="true" required><label for="group_305267568_1">No, I do not claim Veterans&#39; Preference.</label>
+
+          <input type="radio" name="entry.305267568" value="0-point Sole Survivorship Preference (SSP)." id="group_305267568_2" role="radio" class="ss-q-radio" aria-label="0-point Sole Survivorship Preference (SSP)." aria-required="true">
           <label for="group_305267568_2">0-point Sole Survivorship Preference (SSP).</label>
-        </li>
-        <li class="ss-choice-item">
+
           <input type="radio" name="entry.305267568" value="5-point preference based on active duty in the U.S. Armed Forces (TP)." id="group_305267568_3" role="radio" class="ss-q-radio" aria-label="5-point preference based on active duty in the U.S. Armed Forces (TP)." required="" aria-required="true">
           <label for="group_305267568_3">5-point preference based on active duty in the U.S. Armed Forces (TP).
-        </li>
-        <li class="ss-choice-item">
+
           <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." id="group_305267568_4" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." required="" aria-required="true">
           <label for="group_305267568_4">10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP).</label>
-        </li>
-        <li class="ss-choice-item">
+
           <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of 30% or more (CPS)." id="group_305267568_5" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of 30% or more (CPS)." required="" aria-required="true">
           <label for="group_305267568_5">10-point preference based on a compensable service connected disability of 30% or more (CPS).</label>
-        </li>
-        <li class="ss-choice-item">
+
           <input type="radio" name="entry.305267568" value="10-point preference for non-compensable disability or Purple Heart (XP)." id="group_305267568_6" role="radio" class="ss-q-radio" aria-label="10-point preference for non-compensable disability or Purple Heart (XP)." required="" aria-required="true">
           <label for="group_305267568_6">10-point preference for non-compensable disability or Purple Heart (XP).</label>
-        </li>
-        <li class="ss-choice-item">
+
           <input type="radio" name="entry.305267568" value="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." id="group_305267568_7" role="radio" class="ss-q-radio" aria-label="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." required="" aria-required="true">
           <label for="group_305267568_7">10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP).</label>
-        </li>
-      </ul>
 
+        </fieldset>
+
+      </div>
 
       <h2 class="ss-section-title">Additional Information:</h2>
 
@@ -174,17 +209,62 @@
       <input type="hidden" name="draftResponse" value="[,,&quot;-9175896065341356209&quot;]
       ">
       <input type="hidden" name="pageHistory" value="0">
-
       <input type="hidden" name="fvv" value="0">
-
       <input type="hidden" name="fbzx" value="-9175896065341356209">
 
-
-      <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
+      <!-- <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action "> -->
+      <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " />
 
 
     </form>
 
   </div>
+
+  <script type="text/javascript">
+
+    $(function () {
+
+      $("form").parsley({
+        errorClass: "usa-input-error",
+        classHandler: function (el) {
+            return el.$element.closest('.usa-input');
+        },
+        errorsWrapper: '<ul class="usa-input-error-message"></ul>'
+      });
+
+
+      $("form").on('submit', function(e){
+          e.preventDefault();
+          var form = $(this);
+
+          form.parsley({
+            errorClass: "usa-input-error",
+            classHandler: function (el) {
+                return el.$element.closest('.usa-input');
+            },
+            errorsWrapper: '<ul class="usa-input-error-message"></ul>'
+          }).validate();
+
+          if (form.parsley().isValid()){
+              form.submit();
+
+
+              console.log("submit!")
+          }
+      });
+
+      // $("form").parsley({
+      //   errorClass: "usa-input-error",
+      //   classHandler: function (el) {
+      //       return el.$element.closest('.usa-input');
+      //   },
+      //   errorsWrapper: '<ul class="usa-input-error-message"></ul>'
+      // });
+
+
+
+    }());
+
+  </script>
 
 </body>
