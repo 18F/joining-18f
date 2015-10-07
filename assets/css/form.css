@@ -1,0 +1,27 @@
+  #main {
+    padding: 25px;
+  }
+
+  header {
+    border-bottom: 4px solid #1188ff;
+  }
+  header .logo {
+    width: 80px;
+    float: right;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 3em;
+    float: left;
+  }
+  header:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+
+  form, label {
+    max-width: 100%;
+  }
