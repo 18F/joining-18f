@@ -25,3 +25,19 @@
   form, label {
     max-width: 100%;
   }
+
+  ol, ul {
+    margin: 0;
+  }
+
+  ol li:before, ul li:before {
+    content: "";
+  }
+
+  form {
+    width: 600px;
+    margin: 40px auto;
+  }
+
+
+
