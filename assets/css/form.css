@@ -1,58 +1,70 @@
+#main {
+  padding: 25px;
+}
+
+header {
+  border-bottom: 4px solid #1188ff;
+}
+header .logo {
+  width: 80px;
+  float: right;
+}
+header h1 {
+  margin: 0;
+  font-size: 3em;
+  float: left;
+}
+header:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+form, label {
+  max-width: 100%;
+}
+
+ol, ul {
+  margin: 0;
+}
+
+ol li:before, ul li:before {
+  content: "";
+}
+
+form {
+  width: 600px;
+  margin: auto;
+}
+
+label {
+  font-weight: bold;
+}
+
+.usa-input-error {
+  padding-bottom: 0;
+}
+.usa-input-error-message {
+  padding-bottom: 0;
+}
+.usa-input-error-message li:before {
+  padding: 0;
+}
+
+
+@media (max-width: 800px) {
+
   #main {
-    padding: 25px;
+    padding: 20px;
   }
 
-  header {
-    border-bottom: 4px solid #1188ff;
-  }
-  header .logo {
-    width: 80px;
-    float: right;
-  }
   header h1 {
-    margin: 0;
-    font-size: 3em;
-    float: left;
-  }
-  header:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
+    font-size: 2em;
   }
 
-  form, label {
-    max-width: 100%;
-  }
-
-  ol, ul {
-    margin: 0;
-  }
-
-  ol li:before, ul li:before {
-    content: "";
-  }
-
-  form {
-    width: 600px;
-    margin: auto;
-  }
-
-  label {
-    font-weight: bold;
-  }
-
-  .usa-input-error {
-    padding-bottom: 0;
-  }
-  .usa-input-error-message {
-    padding-bottom: 0;
-  }
-  .usa-input-error-message li:before {
-    padding: 0;
-  }
-
+}
 
 
 
