@@ -23,7 +23,13 @@
       <img src="../assets/img/18f-logo.png" alt="18F Logo" class="logo" />
     </header>
 
-    <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="POST" id="ss-form" target="_self">
+    <!-- <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="POST" id="ss-form" target="_self"> -->
+
+    <script type="text/javascript">var submitted=false;</script>
+    <iframe name="hidden_iframe" id="hidden_iframe"
+    style="display:none;" onload="if(submitted) { alert('thank you! your response has been submitted.') }"></iframe>
+    <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="post"
+    target="hidden_iframe" onsubmit="submitted=true;">
 
 
       <fieldset>
