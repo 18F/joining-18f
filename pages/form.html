@@ -16,6 +16,14 @@
 
 <body>
 
+  <script type="text/javascript">
+
+    function submitted() {
+      alert('submitted!');
+    }
+
+  </script>
+
   <div id="main">
 
     <header>
@@ -27,7 +35,7 @@
 
     <script type="text/javascript">var submitted=false;</script>
     <iframe name="hidden_iframe" id="hidden_iframe"
-    style="display:none;" onload="if(submitted) { alert('thank you! your response has been submitted.') }"></iframe>
+    style="display:none;" onload="if(submitted) { $(document).ready(function() { $('#curtain, #modal').fadeIn(); }) }"></iframe>
     <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="post"
     target="hidden_iframe" onsubmit="submitted=true;">
 
@@ -80,75 +88,91 @@
       </fieldset>
 
 
-      <h2 class="ss-section-title">Skillset:</h2>
+      <fieldset>
 
-      <div class="usa-input">
+        <h2><legend>Skillset:</legend></h2>
 
-        <label class="ss-q-item-label" for="entry_1452897538">Please indicate your primary skillset.
-        Your response here will be used primarily in assigning reviewers for your application. <span>(Required)</span></label>
-        <select name="entry.1452897538" id="entry_1452897538" aria-label="Please indicate your primary skillset. Your response here will be used primarily in assigning reviewers for your application." aria-required="true" required>
-          <option value=""></option>
-          <option value="Acquisition Specialist">Acquisition Specialist</option>
-          <option value="Back End Developer">Back End Developer</option>
-          <option value="Content Strategist">Content Strategist</option>
-          <option value="Content Writer">Content Writer</option>
-          <option value="Data Architect">Data Architect</option>
-          <option value="DevOps Engineer">DevOps Engineer</option>
-          <option value="Front End Developer">Front End Developer</option>
-          <option value="Full Stack Developer">Full Stack Developer</option>
-          <option value="Product Lead">Product Lead</option>
-          <option value="Project / Program Manager">Project / Program Manager</option>
-          <option value="UX Research and Design">UX Research and Design</option>
-          <option value="Technical Architect">Technical Architect</option>
-          <option value="Technical Recruiter">Technical Recruiter</option>
-          <option value="Visual Designer">Visual Designer</option>
-        </select>
+        <div class="usa-input">
 
-      </div>
+          <label class="ss-q-item-label" for="entry_1452897538">Please indicate your primary skillset.
+          Your response here will be used primarily in assigning reviewers for your application. <span>(Required)</span></label>
+          <select name="entry.1452897538" id="entry_1452897538" aria-label="Please indicate your primary skillset. Your response here will be used primarily in assigning reviewers for your application." aria-required="true" required>
+            <option value=""></option>
+            <option value="Acquisition Specialist">Acquisition Specialist</option>
+            <option value="Back End Developer">Back End Developer</option>
+            <option value="Content Strategist">Content Strategist</option>
+            <option value="Content Writer">Content Writer</option>
+            <option value="Data Architect">Data Architect</option>
+            <option value="DevOps Engineer">DevOps Engineer</option>
+            <option value="Front End Developer">Front End Developer</option>
+            <option value="Full Stack Developer">Full Stack Developer</option>
+            <option value="Product Lead">Product Lead</option>
+            <option value="Project / Program Manager">Project / Program Manager</option>
+            <option value="UX Research and Design">UX Research and Design</option>
+            <option value="Technical Architect">Technical Architect</option>
+            <option value="Technical Recruiter">Technical Recruiter</option>
+            <option value="Visual Designer">Visual Designer</option>
+          </select>
 
-      <label for="entry_189037147">Other skills you have</label>
-      <textarea name="entry.189037147" rows="8" cols="0" class="ss-q-long" id="entry_189037147" dir="auto" aria-label="Other skills you have  "></textarea>
+        </div>
 
-      <h2 class="ss-section-title">Where can we find you online?</h2>
-      Add up to three links (e.g. GitHub, LinkedIn, your portfolio, etc.).
+        <label for="entry_189037147">Other skills you have</label>
 
-      <label for="entry_665572666">Link 1</label>
-      <input type="url" name="entry.665572666" value="" class="ss-q-short" id="entry_665572666" dir="auto" aria-label="Link 1  Must be a valid URL" title="Must be a valid URL">
+        <textarea name="entry.189037147" rows="8" cols="0" class="ss-q-long" id="entry_189037147" dir="auto" aria-label="Other skills you have  "></textarea>
 
-
-      <label class="ss-q-item-label" for="entry_1176824627">Link 2</label>
-      <input type="url" name="entry.1176824627" value="" class="ss-q-short" id="entry_1176824627" dir="auto" aria-label="Link 2  Must be a valid URL" title="Must be a valid URL">
-
-      <label class="ss-q-item-label" for="entry_2076423552">Link 3</label>
-      <input type="url" name="entry.2076423552" value="" class="ss-q-short" id="entry_2076423552" dir="auto" aria-label="Link 3  Must be a valid URL" title="Must be a valid URL">
+      </fieldset>
 
 
-      <label class="ss-q-item-label" for="entry_510169774">Why do you want to join 18F?</label>
-      <textarea name="entry.510169774" rows="8" cols="0" class="ss-q-long" id="entry_510169774" dir="auto" aria-label="Why do you want to join 18F?  "></textarea>
+      <fieldset>
+
+        <h2><legend>Where can we find you online?</legend></h2>
+
+        <p>Add up to three links (e.g. GitHub, LinkedIn, your portfolio, etc.).</p>
+
+        <label for="entry_665572666">Link 1</label>
+        <input type="url" name="entry.665572666" value="" class="ss-q-short" id="entry_665572666" dir="auto" aria-label="Link 1  Must be a valid URL" title="Must be a valid URL">
 
 
-      <h2 class="ss-section-title">Résumé:</h2>
+        <label class="ss-q-item-label" for="entry_1176824627">Link 2</label>
+        <input type="url" name="entry.1176824627" value="" class="ss-q-short" id="entry_1176824627" dir="auto" aria-label="Link 2  Must be a valid URL" title="Must be a valid URL">
 
-      <div class="usa-input">
-
-        <label class="ss-q-item-label" for="entry_710467749">Résumé <span>(Required)</span></label>
-
-        Please copy and paste your résumé (or a link to it) below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position.
-
-        <textarea name="entry.710467749" rows="8" cols="0" class="ss-q-long" id="entry_710467749" dir="auto" aria-label="Résumé: Please copy and paste your résumé (or a link to it) below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position." aria-required="true" required></textarea>
-
-      </div>
-
-      <h2 class="ss-section-title">Availability and Location:</h2>
-
-      <input type="checkbox" name="entry.1263390573" value="Verify your ability to work full-time" id="group_1263390573_1" role="checkbox" class="ss-q-checkbox">
-      <label for="group_1263390573_1">Verify your ability to work full-time</label>
+        <label class="ss-q-item-label" for="entry_2076423552">Link 3</label>
+        <input type="url" name="entry.2076423552" value="" class="ss-q-short" id="entry_2076423552" dir="auto" aria-label="Link 3  Must be a valid URL" title="Must be a valid URL">
 
 
-      <label class="ss-q-item-label" for="entry_1402744878">Select your preferred work location:</label>
+        <label class="ss-q-item-label" for="entry_510169774">Why do you want to join 18F?</label>
+        <textarea name="entry.510169774" rows="8" cols="0" class="ss-q-long" id="entry_510169774" dir="auto" aria-label="Why do you want to join 18F?  "></textarea>
+
+      </fieldset>
+
+
+      <fieldset>
+
+        <h2><legend>Résumé:</legend></h2>
+
+        <div class="usa-input">
+
+          <label class="ss-q-item-label" for="entry_710467749">Résumé <span>(Required)</span></label>
+
+          <p>Please copy and paste your résumé (or a link to it) below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position.</p>
+
+          <textarea name="entry.710467749" rows="8" cols="0" class="ss-q-long" id="entry_710467749" dir="auto" aria-label="Résumé: Please copy and paste your résumé (or a link to it) below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position." aria-required="true" required></textarea>
+
+        </div>
+
+      </fieldset>
+
+
       <fieldset class="usa-fieldset-inputs usa-sans">
 
-          <legend class="usa-sr-only">Select your preferred work location</legend>
+        <h2><legend>Availability and Location:</legend></h2>
+
+        <div class="usa-input">
+
+          <input type="checkbox" name="entry.1263390573" value="Verify your ability to work full-time" id="group_1263390573_1" role="checkbox" class="ss-q-checkbox">
+          <label for="group_1263390573_1">Verify your ability to work full-time</label>
+
+          <p><label class="ss-q-item-label" for="entry_1402744878">Select your preferred work location:</label></p>
 
           <ul class="usa-unstyled-list">
             <li>
@@ -173,60 +197,77 @@
             </li>
           </ul>
 
-        </fieldset>
+        </div>
+
+      </fieldset>
 
 
-      <h2 class="ss-section-title">Veteran Status:</h2>
+      <fieldset class="veteran-status">
 
-      <div class="usa-input">
+        <h2><legend>Veteran Status:</legend></h2>
 
-        <p>
-          <label class="ss-q-item-label" for="entry_490268734">Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference? <span>(Required)</span></label>
-          <br/>
-          For more information: <a href="https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types">https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types</a>
-        </p>
+        <div class="usa-input">
 
-        <fieldset role="radiogroup" aria-label="Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference? For more information: https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types">
+          <p>
+            <label class="ss-q-item-label" for="entry_490268734">Are you a Veteran of the U.S. Armed Forces or are you eligible for &quot;derived&quot; preference? <span>(Required)</span></label>
+            <br/>
+            For more information: <a href="https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types">https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide/#2Types</a>
+          </p>
 
-          <input type="radio" name="entry.305267568" value="No, I do not claim Veterans&#39; Preference." id="group_305267568_1" role="radio" class="ss-q-radio" aria-label="No, I do not claim Veterans&#39; Preference." aria-required="true" required><label for="group_305267568_1">No, I do not claim Veterans&#39; Preference.</label>
+          <ul class="usa-unstyled-list">
+            <li>
+              <input type="radio" name="entry.305267568" value="No, I do not claim Veterans&#39; Preference." id="group_305267568_1" role="radio" class="ss-q-radio" aria-label="No, I do not claim Veterans&#39; Preference." aria-required="true" required><label for="group_305267568_1">No, I do not claim Veterans&#39; Preference.</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.305267568" value="0-point Sole Survivorship Preference (SSP)." id="group_305267568_2" role="radio" class="ss-q-radio" aria-label="0-point Sole Survivorship Preference (SSP)." aria-required="true">
+              <label for="group_305267568_2">0-point Sole Survivorship Preference (SSP).</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.305267568" value="5-point preference based on active duty in the U.S. Armed Forces (TP)." id="group_305267568_3" role="radio" class="ss-q-radio" aria-label="5-point preference based on active duty in the U.S. Armed Forces (TP)."  aria-required="true">
+              <label for="group_305267568_3">5-point preference based on active duty in the U.S. Armed Forces (TP).</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." id="group_305267568_4" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." aria-required="true">
+              <label for="group_305267568_4">10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP).</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of 30% or more (CPS)." id="group_305267568_5" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of 30% or more (CPS)." aria-required="true">
+              <label for="group_305267568_5">10-point preference based on a compensable service connected disability of 30% or more (CPS).</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.305267568" value="10-point preference for non-compensable disability or Purple Heart (XP)." id="group_305267568_6" role="radio" class="ss-q-radio" aria-label="10-point preference for non-compensable disability or Purple Heart (XP)." aria-required="true">
+              <label for="group_305267568_6">10-point preference for non-compensable disability or Purple Heart (XP).</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.305267568" value="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." id="group_305267568_7" role="radio" class="ss-q-radio" aria-label="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." aria-required="true">
+              <label for="group_305267568_7">10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP).</label>
+            </li>
+          </ul>
 
-          <input type="radio" name="entry.305267568" value="0-point Sole Survivorship Preference (SSP)." id="group_305267568_2" role="radio" class="ss-q-radio" aria-label="0-point Sole Survivorship Preference (SSP)." aria-required="true">
-          <label for="group_305267568_2">0-point Sole Survivorship Preference (SSP).</label>
+        </div>
 
-          <input type="radio" name="entry.305267568" value="5-point preference based on active duty in the U.S. Armed Forces (TP)." id="group_305267568_3" role="radio" class="ss-q-radio" aria-label="5-point preference based on active duty in the U.S. Armed Forces (TP)."  aria-required="true">
-          <label for="group_305267568_3">5-point preference based on active duty in the U.S. Armed Forces (TP).
+      </fieldset>
 
-          <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." id="group_305267568_4" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)." aria-required="true">
-          <label for="group_305267568_4">10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP).</label>
 
-          <input type="radio" name="entry.305267568" value="10-point preference based on a compensable service connected disability of 30% or more (CPS)." id="group_305267568_5" role="radio" class="ss-q-radio" aria-label="10-point preference based on a compensable service connected disability of 30% or more (CPS)." aria-required="true">
-          <label for="group_305267568_5">10-point preference based on a compensable service connected disability of 30% or more (CPS).</label>
+      <fieldset>
 
-          <input type="radio" name="entry.305267568" value="10-point preference for non-compensable disability or Purple Heart (XP)." id="group_305267568_6" role="radio" class="ss-q-radio" aria-label="10-point preference for non-compensable disability or Purple Heart (XP)." aria-required="true">
-          <label for="group_305267568_6">10-point preference for non-compensable disability or Purple Heart (XP).</label>
+        <h2><legend>Additional Information:</legend></h2>
 
-          <input type="radio" name="entry.305267568" value="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." id="group_305267568_7" role="radio" class="ss-q-radio" aria-label="10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP)." aria-required="true">
-          <label for="group_305267568_7">10-point preference based on widow/widower or mother of a deceased veteran, or spouse or mother of a disabled veteran (XP).</label>
+        <div class="usa-input">
 
-        </fieldset>
+          <p>If you check this box, information submitted through this application may be shared with Federal agencies for the purpose of candidate review, selection, and hiring.</p>
 
-      </div>
-
-      <h2 class="ss-section-title">Additional Information:</h2>
-
-      If you check this box, information submitted through this application may be shared with Federal agencies for the purpose of candidate review, selection, and hiring.
-
-      <ul class="ss-choices" role="group" aria-label=" If you check this box, information submitted through this application may be shared with Federal agencies for the purpose of candidate review, selection, and hiring. ">
-        <li class="ss-choice-item">
           <input type="checkbox" name="entry.75119452" value="Please also consider me for other employment opportunities within the US government." id="group_75119452_1" role="checkbox" class="ss-q-checkbox">
           <label for="group_75119452_1">Please also consider me for other employment opportunities within the US government.</label>
-        </li>
-      </ul>
 
+          <label for="entry_422263110">Where did you learn about 18F?</label>
 
-      <label for="entry_422263110">Where did you learn about 18F?</label>
+          <textarea name="entry.422263110" rows="8" cols="0" class="ss-q-long" id="entry_422263110" dir="auto" aria-label="Where did you learn about 18F?  "></textarea>
 
-      <textarea name="entry.422263110" rows="8" cols="0" class="ss-q-long" id="entry_422263110" dir="auto" aria-label="Where did you learn about 18F?  "></textarea>
+        </div>
+
+      </fieldset>
+
 
       <input type="hidden" name="draftResponse" value="[,,&quot;-9175896065341356209&quot;]
       ">
@@ -234,12 +275,27 @@
       <input type="hidden" name="fvv" value="0">
       <input type="hidden" name="fbzx" value="-9175896065341356209">
 
-      <input type="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " />
+      <div class="button_wrapper">
 
+        <input type="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " />
+
+      </div>
 
     </form>
 
   </div>
+
+  <div id="curtain"></div>
+
+  <div id="modal">
+   <div class="usa-alert usa-alert-success">
+      <div class="usa-alert-body">
+        <h3 class="usa-alert-heading">Thank you!</h3>
+        <p class="usa-alert-text">Your form submission has been successfully submitted.</p>
+      </div>
+    </div>
+  </div>
+
 
   <script type="text/javascript">
 

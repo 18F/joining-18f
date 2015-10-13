@@ -1,3 +1,25 @@
+#curtain {
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: #000;
+  opacity: 0.7;
+  position: fixed;
+  display: none;
+}
+#modal {
+  width: 500px;
+  height: 300px;
+  top: 50%;
+  left: 50%;
+  margin-top: -150px;
+  margin-left: -250px;
+  z-index: 10;
+  position: fixed;
+  display: none;
+}
+
 #main {
   padding: 25px;
 }
@@ -26,6 +48,25 @@ form, label {
   max-width: 100%;
 }
 
+input,
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+input[type="search"],
+input[type="file"],
+input[type="date"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+textarea,
+select {
+  max-width: 100%;
+}
+
 ol, ul {
   margin: 0;
 }
@@ -35,7 +76,7 @@ ol li:before, ul li:before {
 }
 
 form {
-  width: 600px;
+  width: 530px;
   margin: auto;
 }
 
@@ -51,6 +92,14 @@ label {
 }
 .usa-input-error-message li:before {
   padding: 0;
+}
+
+.veteran-status li label {
+  margin-top: 15px;
+}
+
+.button_wrapper {
+  margin: 50px 0;
 }
 
 
