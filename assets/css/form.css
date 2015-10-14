@@ -19,6 +19,9 @@
   position: fixed;
   display: none;
 }
+#modal h1 {
+  font-size: 2rem;
+}
 
 #main {
   padding: 25px;
