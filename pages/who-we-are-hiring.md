@@ -16,7 +16,10 @@ We’re building a team that looks like the United States, and we don't discrimi
 Everywhere in the United States! If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our San Francisco or D.C. office. However, much of our team is distributed across the country in places like Chicago, New York, Raleigh, Tuscon, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) 
 
 ## Open positions
-We're actively hiring for the following positions:
+We're currently revamping our application process. When it relaunches in mid-November, we will be hiring for positions including the following:
+
+###DevOps engineer
+Our DevOps engineers work tirelessly to arm developers with the best tools and ensure system uptime and performance. They're comfortable with bridging gaps with legacy development or operations teams.
 
 ###Software development (front end)
 Using modern, open source web frameworks and tools, our front and back end developers work in small, cross-functional teams to produce functional, scalable web services.
