@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: default
 title: So you want to join 18F?
 ---
 

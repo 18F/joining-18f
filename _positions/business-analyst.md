@@ -1,6 +1,5 @@
 ---
 title: Business Analyst
-layout: default
 permalink: who-we-are-hiring/positions/business-analyst/
 team: delivery
 active: false

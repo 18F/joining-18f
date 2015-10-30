@@ -1,6 +1,5 @@
 ---
 title: Agile Coach
-layout: default
 permalink: who-we-are-hiring/positions/agile-coach/
 team: other
 active: false

@@ -1,6 +1,5 @@
 ---
 title: Practical Dev
-layout: default
 permalink: who-we-are-hiring/positions/practical-dev/
 team: consulting
 active: false
