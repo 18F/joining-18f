@@ -1,6 +1,5 @@
 ---
 title: Acquisition Specialist
-layout: default
 permalink: who-we-are-hiring/positions/acquisition-specialist/
 team: consulting
 active: false

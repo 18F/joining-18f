@@ -1,6 +1,5 @@
 ---
 title: Security Engineer
-layout: default
 permalink: who-we-are-hiring/positions/security-engineer/
 team: devops
 active: false

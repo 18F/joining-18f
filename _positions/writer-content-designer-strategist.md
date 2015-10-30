@@ -1,6 +1,5 @@
 ---
 title: Writer / Content Designer / Content Strategist
-layout: default
 permalink: who-we-are-hiring/positions/content-designer/
 team: outreach
 active: false

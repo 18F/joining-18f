@@ -1,6 +1,5 @@
 ---
 permalink: /leave-policies/
-layout: default
 title: Leave policies
 ---
 

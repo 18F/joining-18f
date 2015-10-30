@@ -1,6 +1,5 @@
 ---
 title: Visual Designer
-layout: default
 permalink: who-we-are-hiring/positions/visual-designer/
 team: design
 active: false

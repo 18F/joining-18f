@@ -1,6 +1,5 @@
 ---
 title: Front End Web Developer
-layout: default
 permalink: who-we-are-hiring/positions/frontend-web-developer/
 team: engineering
 active: true

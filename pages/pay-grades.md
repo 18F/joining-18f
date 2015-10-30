@@ -1,6 +1,5 @@
 ---
 permalink: /pay-grades/
-layout: default
 title: Government pay grades explained
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Engineering team
-layout: default
 permalink: /interview-process/interviews/engineering-team/
 ---
 
@@ -18,7 +17,7 @@ If you're a software developer applying to our engineering team, you'll have two
 This interview can be more of a free form discussion, but it should drive at the qualifications described in the core values section below. 
 
  - Introductions (~five minutes)
- - Why you wants to work here, previous civic oriented service (~15 minutes)
+ - Why you want to work here, previous civic oriented service (~15 minutes)
  - Discussion of past work in teams, including the processes, locations (remote vs on site), and how you'd like to work in the future (~15 minutes)
  - Discussion of previous work or thoughts and feelings about open source software, developing for the user, and agile and iterative development (~25 minutes)
  - Discussion of how you've handled previous conflict, past failures and successes, and where you see opportunities for growth (~20 minutes)

@@ -1,6 +1,5 @@
 ---
 title: Technical Architect
-layout: default
 permalink: who-we-are-hiring/positions/technical-architect/
 team: consulting
 active: false

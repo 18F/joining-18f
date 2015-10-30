@@ -1,6 +1,5 @@
 ---
 title: Resource Manager
-layout: default
 permalink: who-we-are-hiring/positions/resource-manager/
 team: consulting
 active: false

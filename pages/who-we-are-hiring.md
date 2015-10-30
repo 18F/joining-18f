@@ -1,6 +1,5 @@
 ---
 title: Who we are hiring
-layout: default
 permalink: /who-we-are-hiring/
 ---
 We're looking for candidates who are passionate about our mission, with top-notch software development, design, content, and operations skills to match. Below you will find a list of our current job openings.

@@ -1,6 +1,5 @@
 ---
 title: Engagement Manager
-layout: default
 permalink: who-we-are-hiring/positions/engagement-manager/
 team: consulting
 active: false
