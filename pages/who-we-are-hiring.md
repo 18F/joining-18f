@@ -6,7 +6,7 @@ We're looking for candidates who are passionate about our mission, with top-notc
 
 ## Who is eligible to work at 18F
 
-U.S. citizens, non-citizens who are nationals of the U.S., or people who have been admitted to the U.S. for permanent residence and hold a valid green card.
+Any individual who is not currently a GSA employee or contractor and who is a U.S. Citizen, a non-citizen national of the U.S., or has been admitted to the U.S. for permanent residence and holds a valid green card is eligible to apply.
 
 ## 18F is an Equal Opportunity Employer
 We’re building a team that looks like the United States, and we don't discriminate based on race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor. If you have the skills we need, that’s all that matters.
