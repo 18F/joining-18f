@@ -13,7 +13,7 @@ We’re building a team that looks like the United States, and we don't discrimi
 
 ## Where we are hiring
 
-Everywhere in the United States! If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our San Francisco or D.C. office. However, much of our team is distributed across the country in places like Chicago, New York, Raleigh, Tucson, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) 
+Everywhere in the United States! Most of our team is distributed across the country in places like Chicago, New York, Raleigh, Tucson, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our offices in San Francisco or D.C.
 
 ## Upcoming positions
 We're currently revamping our application process. When it relaunches in mid-November, we will be hiring for positions including the following:
