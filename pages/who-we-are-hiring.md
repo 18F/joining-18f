@@ -2,7 +2,7 @@
 title: Who we are hiring
 permalink: /who-we-are-hiring/
 ---
-We're looking for candidates who are passionate about our mission, with top-notch software development, design, content, and operations skills to match. Below you will find a list of our current job openings.
+We're looking for candidates who are passionate about our mission, with top-notch software development, design, content, and operations skills to match. Below you will find a list of our upcoming job openings.
 
 ## Who is eligible to work at 18F
 
@@ -15,7 +15,7 @@ We’re building a team that looks like the United States, and we don't discrimi
 
 Everywhere in the United States! If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our San Francisco or D.C. office. However, much of our team is distributed across the country in places like Chicago, New York, Raleigh, Tuscon, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) 
 
-## Open positions
+## Upcoming positions
 We're currently revamping our application process. When it relaunches in mid-November, we will be hiring for positions including the following:
 
 ###DevOps engineer
