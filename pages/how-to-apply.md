@@ -1,6 +1,5 @@
 ---
 permalink: /how-to-apply/
-layout: default
 title: How to apply
 ---
 

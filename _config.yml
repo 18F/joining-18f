@@ -1,4 +1,3 @@
-baseurl: /joining-18f
 markdown: redcarpet
 name: Joining 18F
 exclude:
@@ -23,7 +22,7 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: So you want to join 18F?
   url: index.html
   internal: true
 - text: Who we are hiring
@@ -44,7 +43,7 @@ navigation:
 - text: Leave policies
   url: leave-policies/
   internal: true
-- text: Conferences, trainings, and travel
+- text: Conferences, training, and travel
   url: conferences-training-travel/
   internal: true
 
@@ -62,7 +61,10 @@ collections:
     permalink: /interviews/:title/
     output: true
 
-# Style Variables
-brand_color: "#1188ff"
-
 google_analytics_ua: UA-48605964-19
+
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: "guides_style_18f_default"

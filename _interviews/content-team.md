@@ -1,6 +1,5 @@
 ---
 title: Content team
-layout: default
 permalink: /interview-process/interviews/content-team/
 ---
 

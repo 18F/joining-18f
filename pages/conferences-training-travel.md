@@ -1,6 +1,5 @@
 ---
 permalink: /conferences-training-travel/
-layout: default
 title: Conferences, training, and travel
 ---
 

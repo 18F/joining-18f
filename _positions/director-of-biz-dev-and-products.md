@@ -1,6 +1,5 @@
 ---
 title: Director of Business Development and Products
-layout: default
 permalink: who-we-are-hiring/positions/director-of-biz-dev-and-products/
 team: consulting
 active: false

@@ -1,6 +1,5 @@
 ---
 title: Product Manager
-layout: default
 permalink: who-we-are-hiring/positions/product-manager/
 team: delivery
 active: false

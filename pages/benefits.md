@@ -1,6 +1,5 @@
 ---
 permalink: /benefits/
-layout: default
 title: Benefits
 ---
 

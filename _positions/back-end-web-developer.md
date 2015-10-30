@@ -1,6 +1,5 @@
 ---
 title: Back End Web Developer
-layout: default
 permalink: who-we-are-hiring/positions/back-end-developer/
 team: engineering
 active: false

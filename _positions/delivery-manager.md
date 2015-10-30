@@ -1,6 +1,5 @@
 ---
 title: Delivery Manager
-layout: default
 permalink: who-we-are-hiring/positions/delivery-manager/
 team: delivery
 active: false

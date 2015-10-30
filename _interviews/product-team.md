@@ -1,6 +1,5 @@
 ---
 title: Product team
-layout: default
 permalink: /interview-process/interviews/product-team/
 ---
 

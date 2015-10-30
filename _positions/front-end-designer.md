@@ -1,6 +1,5 @@
 ---
 title: Front End Designer
-layout: default
 permalink: who-we-are-hiring/positions/front-end-designer/
 team: engineering
 active: true

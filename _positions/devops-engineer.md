@@ -1,6 +1,5 @@
 ---
 title: DevOps Engineer
-layout: default
 permalink: who-we-are-hiring/positions/devops-engineer/
 team: devops
 active: false

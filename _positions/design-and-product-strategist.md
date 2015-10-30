@@ -1,6 +1,5 @@
 ---
 title: Design and Product Strategist
-layout: default
 permalink: who-we-are-hiring/positions/design-and-product-strategist/
 team: consulting
 active: false

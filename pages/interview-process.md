@@ -1,6 +1,5 @@
 ---
 permalink: /interview-process/
-layout: default
 title: Interview process
 ---
 
