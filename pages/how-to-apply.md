@@ -3,63 +3,51 @@ permalink: /how-to-apply/
 title: How to apply
 ---
 
-18F and the U.S. Digital Service are distinct groups working toward the same goals. 18F is a digital consultancy within the General Services Administration (GSA). We develop products for other agencies, and those agencies pay for our services. In contrast, the U.S. Digital Service is headquartered inside the Office of Management and Budget. They support and coordinate the work of various digital service teams housed in agencies across the federal government.
+## Applications will reopen in mid-November
 
-## Submit an application
+Our call for talented, civic-minded folks to join 18F has been answered loudly, clearly, and in high numbers. To better handle this influx of applications and to better serve the entire 18F team, we’re embarking on an evaluation of our talent selection process. Like the rest of the products built at 18F, this process demands iterating too.
 
-[<strong>Apply directly to 18F</strong>](/joining-18f/pages/apply.html)! Questions? Email [join18f@gsa.gov](mailto:join18f@gsa.gov).
+**We’re currently re-engineering major parts of our talent selection process.** Our goal: to deliver an improved application, interview, and hiring experience.
 
-If you want to be considered for the full U.S. Digital Service family and other agencies — submit your application on the [USDS website](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Enter "join18F" as the referral code. Because you’ll be applying to multiple agencies, application review will take longer than if you apply directly to 18F.
+If you’re interested in joining our team, **please check back in mid-November** for the most up-to-date list of open positions, our new application form, and updated content on our new process and projected hiring timelines.
 
-Check out more information about our [interview process here](/joining-18f/interview-process).
+In the meantime, if you want to hear about the latest at 18F, please follow us on [Twitter](https://www.twitter.com/18F), sign up for our [newsletter](https://18f.gsa.gov/#newsletter), and check out our work on [GitHub](https://www.github.com/18F). 
 
-## Additional documents required for GSA hiring process
+**If you have applied to 18F recently,** we want to apologize for our slow response time. We haven’t forgotten you — thank you sincerely for your patience. You will receive an email by Friday, November 6 from our Talent Team with an update on your application and next steps.
 
-After you’ve passed through the 18F [interview
-phase](https://pages.18f.gov/joining-18f/interview-process/), we will
+If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mailto:join18f@gsa.gov).
+
+## Documents required for the hiring process
+
+**When you apply, you’ll need to include a current, government-style resume.** Government-style resumes are very different from private-sector resumes. [Here is a guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) and some [example](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf) [resumes](http://www.jobs.irs.gov/downloads/ResumeTips.pdf). Please overexplain, include dates of each engagement, and include everything and the kitchen sink.
+
+**Later, after you’ve passed through the 18F [interview
+phase](https://pages.18f.gov/joining-18f/interview-process/)**, we will
 need some additional documents before your application can be processed
-by the GSA. We will let you know when we need each of these documents,
+by GSA HR. We will let you know when we need each of these documents,
 but it’s not a bad idea to start to pull these together in advance
 because some of them take time to complete. All documents should be
-submitted as a PDF to your point of contact on the 18F talent team.
+submitted as a PDF to your point of contact on the 18F Talent Team.
 
 -   **Professional references:** Three professional references (names, titles, and email addresses).
--   **A current, government-style resume:** This is different from the resume you may have already sent us and is used primarily by the GSA Human Resources (HR) Department to determine your General Schedule position (and therefore salary). Government-style resumes are very different from private-sector resumes. [Here is a guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) and some [example](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf) [resumes](http://www.jobs.irs.gov/downloads/ResumeTips.pdf). In general, it’s best to over explain and to include everything and the kitchen sink.
-
--   **Salary and compensation**
-    -   W2s for the last two years, if available
-    -   Any 1099s you may have for that same time frame
-    -   Any recent competing offer letters
-    -   Your salary expectation
-
 -   **Security clearance**
     -   [OF306 — Declaration for Federal Employment](https://www.opm.gov/Forms/pdf_fill/of0306.pdf)
     -   [GSA 3665 — Authorization to Obtain Credit Report](http://www.gsa.gov/portal/getFormFormatPortalData.action?mediaId=29769)
 
-These documents will be complied by the 18F hiring team and sent to the
+These documents will be compiled by the 18F hiring team and sent to the
 GSA HR department.
 
-## Hiring process
+## The offer process
 
-After GSA HR receives your documents, you will move to the offer stage
-of the process. Here is how that works:
+The GSA HR process includes a tentative offer followed by an official offer. Here's how that works:
 
-### Tentative offer
-
-1.  18F submits our salary recommendation to HR.
-2.  HR reviews our recommendation and makes a tentative offer to you.
-
-If you accept the tentative offer then we will move on to the following
-steps.
-
-### Official offer
-
-1.  You receive a USAccess email to schedule a time to have your fingerprints taken. [See fingerprint locations here](http://www.fedidcard.gov/centerlocator.aspx).
-2.  You schedule and complete your fingerprint scans.
-3.  Fingerprints are sent to GSA by USAccess.
-4.  GSA grants you an interim security clearance.
-5.  18F sends you a final offer.
-6.  We work with you to set a start date. Candidates start every other Monday, which coincides with the start of the GSA pay period.
+1.  A GSA HR specialist calls you with a tentative offer, including salary. "Tentative" means it's contingent on security clearance.
+2.  If you accept the tentative offer, then we move on to the following steps:
+3.  You receive a USAccess email to schedule a time to have your fingerprints taken. [See fingerprint locations here](http://www.fedidcard.gov/centerlocator.aspx).
+4.  You schedule and complete your fingerprint scans.
+5.  You receive an interim security clearance.
+6.  A GSA HR specialist calls you with a final offer.
+7.  We work with you to set a start date. Candidates start every other Monday, which coincides with the start of the GSA pay period.
 
 ### Security clearance
 
