@@ -34,7 +34,7 @@ submitted as a PDF to your point of contact on the 18F Talent Team.
     -   [OF306 — Declaration for Federal Employment](https://www.opm.gov/Forms/pdf_fill/of0306.pdf)
     -   [GSA 3665 — Authorization to Obtain Credit Report](http://www.gsa.gov/portal/getFormFormatPortalData.action?mediaId=29769)
 
-These documents will be compiled by the 18F hiring team and sent to the
+These documents will be compiled by the 18F Talent Team and sent to the
 GSA HR department.
 
 ## The offer process
