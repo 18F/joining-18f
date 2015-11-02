@@ -19,5 +19,5 @@ There is a different waiting period depending on the step. Steps two, three, and
 
 ### Are there bonuses?
 
-Some bonuses are available, but they come after the year-end review process. You must be an 18F employee for at least three months to get a performance review. Bonuses are either a small percentage of your annual salary or additional paid time off. 
+Some bonuses are available, but they come after the year-end review process in late September. You must be an 18F employee for at least three months to get a performance review. Bonuses are either a small percentage of your annual salary or additional paid time off. 
 
