@@ -32,4 +32,4 @@ Product leads work closely with agency partners to define and prioritize product
 
 ## See also
 
-If none of these positions fit your skillset, you might also want to check out the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), which is hiring more broadly.
+We also encourage you to consider applying to the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), which includes opportunities at a broader range of agencies.
