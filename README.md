@@ -10,7 +10,7 @@ If you find something confusing or spot an error, please let us know by [filing 
 
 ### Install and edit this guide on your computer
 
-If you want to run your own copy of this guide, you'll need a current version of [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). For complete instructions, see [18F Guides Template/README.md](https://github.com/18F/guides-template/blob/18f-pages/README.md)
+If you want to run your own copy of this guide, you'll need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). For complete instructions, see [18F Guides Template/README.md](https://github.com/18F/guides-template/blob/18f-pages/README.md)
 
 #### Cloning and serving the guide locally
 
