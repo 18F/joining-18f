@@ -15,14 +15,14 @@ The Director of Outreach drives a comprehensive internal and external communicat
 
 **Acquisition Specialist**
 
-Acquisition specialists help teams support digital services through procurement efforts, investigate other agencies’ tools and processes to find opportunities to improve results; and work with contracting officers to help procure goods and services for 18F and 18F partner agencies.
+Acquisition specialists help teams support digital services through procurement efforts, investigate other agencies’ tools and processes to find opportunities to improve results, and work with contracting officers to help procure goods and services for 18F and 18F partner agencies.
 
 **Data Architect**
-Data architects on the 18F Consulting team,  help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
+Data architects on the 18F consulting team help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
 
 **Practical Dev**
 
-Practical Devs on the 18F consulting team provide broad development expertise and use their consultative know-how to help agencies by conducting workshops and protosketching sessions to build out proofs-of-concept and prototypes
+Practical devs on the 18F consulting team provide broad development expertise and use their consultative know-how to help agencies by conducting workshops and protosketching sessions to build out proofs-of-concept and prototypes.
 
 ### Delivery Team
 
@@ -32,7 +32,7 @@ DevOps engineers work tirelessly to arm developers with the best tools and ensur
 
 **Product Lead**
 
-18F Product Lead is responsible for managing the development, delivery, and continuous improvement of products while establishing and managing our relationship with our partners (clients).
+18F product leads are responsible for managing the development, delivery, and continuous improvement of products while establishing and managing our relationship with our partners (clients).
 
 **Software Developer (Front-End, Back-End, Full-Stack)**
 
@@ -50,7 +50,7 @@ Front end designers work with user experience and visual designers, content crea
 
 **User Experience Designer**
 
-User experience designers  research, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build them.
+User experience designers research, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build them.
 
 **Visual Designer**
 
