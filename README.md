@@ -1,8 +1,6 @@
 ## Joining 18F
 
-This is the repository for the page about [Joining 18F](https://pages.18f.gov/joining-18f/). This is an [18F Guide](https://github.com/18F/guides), built on the [18F Guides Template](https://github.com/18F/guides-template).
-
-The application form itself lives in a separate repository: https://github.com/18F/joining-18f-app.
+This is the repository for the guide to [Joining 18F](https://pages.18f.gov/joining-18f/), built on the [18F Guides Template](https://github.com/18F/guides-template).
 
 ### Send feedback
 
@@ -22,8 +20,7 @@ $ cd joining-18f
 $ ./go serve
 ```
 
-The `./go` script will check that your Ruby version is supported, install the [Bundler gem](http://bundler.io/) if it is not yet installed, install all the gems needed by the template, and launch a running instance on
-`http://localhost:4000/`.
+The `./go` script will check that your Ruby version is supported, install the [Bundler gem](http://bundler.io/) if it is not yet installed, install all the gems needed by the template, and launch a running instance on `http://localhost:4000/`.
 
 ### Public domain
 
