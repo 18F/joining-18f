@@ -10,21 +10,25 @@ Find out more about the GS system from the [Office of Personnel Management (OPM)
 ### Compensation in the GS pay system
 GS Grade Levels specify a fixed compensation range for a particular position within the federal government. This is also true for 18F, so understanding the relationship between GS grade level and compensation is important when considering applying to our organization.
 
-The 18F team is made up of Innovation Specialists at the GS 13, GS 14 and GS 15 levels. Here are the base compensation ranges for each level taken from the [OPM SALARY TABLE 2015-GS](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/15Tables/html/GS.aspx):
+**Please note:** the annual salary cap for all federal employees is $158,700. You cannot be offered more than this under any circumstance.
+
+The 18F team is made up of Innovation Specialists at GS 13, GS 14 and GS 15. Here are the base compensation ranges for each grade level taken from the [OPM SALARY TABLE 2015-GS](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/15Tables/html/GS.aspx):
 - Grade 13 – $73,115 to $95,048
 - Grade 14 – $86,399 to $112,319
 - Grade 15 – $101,630 to $132,122
 
-**Please note:** the annual salary cap for all federal employees is $158,700. You cannot be offered more than this under any circumstance.
-
 **Those ranges are the base only; they do not include any adjustments for locality pay.** Here is a [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2015/general-schedule-gs-salary-calculator/) if you would like to see how locality affects salary.
+
+| |Base (No Locality) |Washington DC Locality | San Francisco Locality |
+|---:|:---:|:---:|:---:|
+|**Grade 14**| $86,399|$107,325|$116,768|
 
 Most GS employees are also entitled to locality pay, which is a geographic-based percentage rate that reflects pay levels for non-federal workers in certain geographic areas as determined by [surveys conducted by the U.S. Bureau of Labor Statistics](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/bls-data/). There are currently [34 locality pay areas](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/locality-pay-areas/), which cover the lower 48 states and Washington, D.C., plus Alaska, Hawaii, and the U.S. territories and possessions.
 
 Each GS grade level also contains a series of 10 steps which also have an impact on compensation. A new GS employee is usually hired at step one of the applicable GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
 
 ### Joining 18F
-Our parent agency, the General Services Administration (GSA), hires 18F team members against a position description for Innovation Specialist with an associated GS grade level. 18F team members are Innovation Specialists at the GS 13, GS 14 and GS 15 levels. Each applicant is required to select the Innovation Specialist position description, which includes the GS grade level for which they wish to be considered.
+Our parent agency, the General Services Administration (GSA), hires 18F team members against a position description for Innovation Specialist with an associated GS grade level. 18F team members are Innovation Specialists GS 13, GS 14 and GS 15. Each applicant is required to select the Innovation Specialist position description, which includes the GS grade level for which they wish to be considered.
 
 The qualification requirements for each grade level vary and are based on a number of variables including education, background, accomplishments and experience. Compensation is also determined by the grade level associated with the position description.
 
@@ -36,7 +40,7 @@ The following information can be used to help you decide what grade level for th
 This information is intended as a guideline only. Use this information to help think about how your qualifications and experience align with the descriptions of each different grade level.
 
 |               | **Grade 13**      |**Grade 14**|**Grade 15**|
-| ----------------- |:-------------:| :-----:| :-----:|
+| -----------------:|:-------------:| :-----:| :-----:|
 | **Base Compensation**     | $73,115 to $95,048 | $86,399 to  $112,319 |$101,630 to $132,122|
 | **Supervisory**     | You work with a supervisor to develop deadlines, projects, and work to be done     |  Your supervisor only provides direction in terms of broadly defined missions | Your supervisor only provides direction in terms of broadly defined missions|
 | **Supervisory** | Your supervisor reviews your work from an overall standpoint to ensure its effectiveness in meeting requirements    |    The results of your work are considered are accepted without change | The results of your work are considered technically authoritative and can be used to establish best practices|
