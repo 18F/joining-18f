@@ -41,13 +41,13 @@ New team members can currently join 18F at GS 13, GS 14 and GS 15. Here are the 
 
 **Those ranges are the base rate only; they do not include adjustments for locality pay.** 
 
-Locality pay is the way in which the GS pay system accounts for the variation in cost of living. An example of locality for Washington DC and San Francisco is illustrated below.
+Locality pay is how the GS pay system accounts for regional variation in cost of living. Here are locality pay examples for Washington, D.C. and San Francisco:
 
 | |Base (No Locality) |Washington DC Locality | San Francisco Locality |
 |---:|:---:|:---:|:---:|
 |**Grade 14**| $86,399|$107,325|$116,768|
 
-Here is a [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2015/general-schedule-gs-salary-calculator/) if you would like to see how your locality affects compensation.
+**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2015/general-schedule-gs-salary-calculator/) if you'd like to see how your locality affects compensation.**
 
 Locality pay is a geographic-based percentage rate that reflects pay levels for non-federal workers in certain geographic areas as determined by [surveys conducted by the U.S. Bureau of Labor Statistics](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/bls-data/). There are currently [34 locality pay areas](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/locality-pay-areas/), which cover the lower 48 states and Washington, D.C., plus Alaska, Hawaii, and the U.S. territories and possessions.
 
