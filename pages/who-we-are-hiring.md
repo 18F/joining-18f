@@ -31,6 +31,7 @@ The Director of Outreach drives a comprehensive internal and external communicat
 Acquisition specialists help teams support digital services through procurement efforts, investigate other agencies’ tools and processes to find opportunities to improve results, and work with contracting officers to help procure goods and services for 18F and 18F partner agencies.
 
 **Data Architect**
+
 Data architects on the 18F consulting team help agencies liberate and embrace their data, equip them with profound insights drawn from that data, empowering them to more effectively fulfill their mission. 
 
 **Practical Dev**
