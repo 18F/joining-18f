@@ -17,13 +17,17 @@ The 18F team is made up of Innovation Specialists at GS 13, GS 14 and GS 15. Her
 - Grade 14 – $86,399 to $112,319
 - Grade 15 – $101,630 to $132,122
 
-**Those ranges are the base only; they do not include any adjustments for locality pay.** Here is a [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2015/general-schedule-gs-salary-calculator/) if you would like to see how locality affects salary.
+**Those ranges are the base only; they do not include any adjustments for locality pay.** 
+
+Locality pay is the way in which the GS pay system accounts for the variation in cost of living. An example of locality for Washington DC and San Francisco is illustrated below.
 
 | |Base (No Locality) |Washington DC Locality | San Francisco Locality |
 |---:|:---:|:---:|:---:|
 |**Grade 14**| $86,399|$107,325|$116,768|
 
-Most GS employees are also entitled to locality pay, which is a geographic-based percentage rate that reflects pay levels for non-federal workers in certain geographic areas as determined by [surveys conducted by the U.S. Bureau of Labor Statistics](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/bls-data/). There are currently [34 locality pay areas](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/locality-pay-areas/), which cover the lower 48 states and Washington, D.C., plus Alaska, Hawaii, and the U.S. territories and possessions.
+Here is a [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2015/general-schedule-gs-salary-calculator/) if you would like to see how your locality affects salary.
+
+Locality pay is a geographic-based percentage rate that reflects pay levels for non-federal workers in certain geographic areas as determined by [surveys conducted by the U.S. Bureau of Labor Statistics](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/bls-data/). There are currently [34 locality pay areas](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/locality-pay-areas/), which cover the lower 48 states and Washington, D.C., plus Alaska, Hawaii, and the U.S. territories and possessions.
 
 Each GS grade level also contains a series of 10 steps which also have an impact on compensation. A new GS employee is usually hired at step one of the applicable GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
 
