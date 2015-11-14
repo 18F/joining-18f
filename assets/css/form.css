@@ -47,8 +47,24 @@ header:after {
   visibility: hidden;
 }
 
+.required {
+  color: #cd2026;
+}
+
+form {
+  padding-top: 1em;
+}
+
 form, label {
   max-width: 100%;
+}
+
+fieldset {
+  padding-bottom: 1em;
+}
+
+fieldset h2 {
+  margin: 1em 0 0 0;
 }
 
 input,
@@ -70,6 +86,10 @@ select {
   max-width: 100%;
 }
 
+.contact-information input {
+  max-width: 70%;
+}
+
 ol, ul {
   margin: 0;
 }
@@ -78,8 +98,9 @@ ol li:before, ul li:before {
   content: "";
 }
 
+
 form {
-  width: 530px;
+  max-width: 600px;
   margin: auto;
 }
 
@@ -95,6 +116,10 @@ label {
 }
 .usa-input-error-message li:before {
   padding: 0;
+}
+
+.availability-location .usa-input {
+  padding-top: 1em;
 }
 
 .veteran-status li label {
@@ -113,7 +138,9 @@ label {
   }
 
   header h1 {
-    font-size: 2em;
+    width: 70%;
+    font-size: 1.7em;
+    display: block;
   }
 
   #modal {
