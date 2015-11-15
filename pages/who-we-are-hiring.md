@@ -72,4 +72,4 @@ Visual designers at 18F craft highly usable and beautiful web-based experiences 
 
 ## See also
 
-We also encourage you to consider applying to the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), which includes opportunities at a broader range of agencies.
+We also encourage you to consider applying to the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), which includes opportunities at a broad range of agencies.
