@@ -11,7 +11,7 @@ We’re building a team that looks like the United States, and we don't discrimi
 
 ## Where we are hiring
 
-Everywhere in the United States! Most of our team is distributed across the country in places like Chicago, New York, Raleigh, Tucson, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) If you have no experience working on remote teams or are applying for a role that requires in-person interactions with clients, we'll ask you to work out of our offices in San Francisco or D.C.
+Everywhere in the United States! Most of our team is distributed across the country in places like Chicago, New York, Raleigh, Tucson, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) In some cases we'll ask you to work out of our offices in San Francisco, Chicago or D.C.
 
 ## Roles at 18F
 Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles on a number of different teams across 18F. Below are a few of the roles that Innovation Specialists may fill at 18F. This is not intended to be a comprehensive list but for those that are interested in joining the team, hopefully something on this list excites you!
