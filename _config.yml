@@ -10,6 +10,10 @@ exclude:
 
 permalink: pretty
 
+# Markdown extensions to allow tables
+redcarpet:
+  extensions: ["tables"]
+
 # Author/Organization info to be displayed in the templates
 author:
   name: 18F
