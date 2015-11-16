@@ -34,7 +34,7 @@ The GSA hiring process includes a tentative offer followed by an official offer.
 2.  If you accept the tentative offer, then we move on to the following steps:
 3.  You receive a USAccess email to schedule a time to have your fingerprints taken. [See fingerprint locations here](http://www.fedidcard.gov/centerlocator.aspx).
 4.  You schedule and complete your fingerprint scans.
-5.  You fill out the e-qip questionnaire (see more below). After that is processed, you receive an interim security clearance.
+5.  You fill out the e-QIP questionnaire (see more below). After that is processed, you receive an interim security clearance.
 6.  A GSA HR specialist calls you with a final offer.
 7.  We work with you to set a start date. Candidates start every other Monday, which coincides with the start of the GSA pay period.
 
