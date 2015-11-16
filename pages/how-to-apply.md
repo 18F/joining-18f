@@ -3,17 +3,11 @@ permalink: /how-to-apply/
 title: How to apply
 ---
 
-## Applications will reopen in mid-November
+18F and the U.S. Digital Service are distinct groups working toward the same goals. 18F is a digital consultancy within the General Services Administration (GSA). We develop products for other agencies, and those agencies pay for our services. In contrast, the U.S. Digital Service is headquartered inside the Office of Management and Budget. They support and coordinate the work of various digital service teams housed in agencies across the federal government.
 
-Our call for talented, civic-minded folks to join 18F has been answered loudly, clearly, and in high numbers. To better handle this influx of applications and to better serve the entire 18F team, we’re embarking on an evaluation of our talent selection process. Like the rest of the products built at 18F, this process demands iterating too.
+[<strong>Apply directly to 18F</strong>](/joining-18f/pages/apply.html)! Questions? Email [join18f@gsa.gov](mailto:join18f@gsa.gov).
 
-**We’re currently re-engineering major parts of our talent selection process.** Our goal: to deliver an improved application, interview, and hiring experience.
-
-If you’re interested in joining our team, **please check back in mid-November** for the most up-to-date list of open positions, our new application form, and updated content on our new process and projected hiring timelines.
-
-In the meantime, if you want to hear about the latest at 18F, please follow us on [Twitter](https://www.twitter.com/18F), sign up for our [newsletter](https://18f.gsa.gov/#newsletter), and check out our work on [GitHub](https://www.github.com/18F). 
-
-**If you have applied to 18F recently,** we want to apologize for our slow response time. We haven’t forgotten you — thank you sincerely for your patience. You will receive an email by Friday, November 6 from our Talent Team with an update on your application and next steps.
+If you want to be considered for the full U.S. Digital Service family and other agencies, submit your application on the [USDS website](https://www.whitehouse.gov/digital/united-states-digital-service/apply). Enter "join18F" as the referral code.
 
 If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mailto:join18f@gsa.gov).
 
