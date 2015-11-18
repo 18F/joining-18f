@@ -5,11 +5,9 @@ title: Benefits
 
 ### Insurance
 
-Explore health care plans offered for California: [FEHB - CA](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/plan-codes/2015/states/ca.asp#state).
+Explore health care plans offered: [FEHB](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/plans/).
 
-Explore health care plans offered for [DC](http://www.opm.gov/healthcare-insurance/healthcare/plan-information/plan-codes/2015/states/dc.asp).
-
-Compare optional dental and vision plans at [BENEFEDS](https://www.benefeds.com); just throw in your zip code.
+Explore dental and vision plans at [BENEFEDS](https://www.benefeds.com); just throw in your zip code.
 
 Most new employees are automatically covered by basic life insurance, with the option to elect into additional coverage. Find out more [here](http://www.opm.gov/healthcare-insurance/life-insurance/).
 
