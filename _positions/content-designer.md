@@ -6,7 +6,6 @@ active: false
 ---
 
 ##Position Summary
-
 Content designers are critical members of the 18F Experience Design team. They’re responsible for creating internal and external content of all varieties and organizing that content for maximum user benefit. In essence, content designers are charged with communicating 18F’s core values and partner agencies’ messages in a way that’s accessible, beautiful, and concise. 
 
 ##Key Objectives
