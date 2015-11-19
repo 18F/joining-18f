@@ -2,7 +2,6 @@
 permalink: /how-to-apply/
 title: How to apply
 ---
-If you are interested in joining 18F, use the application link below. This page also contains other information about the application process.
 
 ##[Apply to join 18F](https://pages.18f.gov/joining-18f/pages/apply.html)
 
