@@ -3,19 +3,19 @@ permalink: /interview-process/
 title: Interview process
 ---
 
-### Application Review
+### Application review
 
 The first step of the process will be a review of the information that you have submitted as part of your application. Your application will be evaluated against the Qualification Competencies detailed below.
 
-### Preliminary Screening
+### Preliminary screening
 
 The interview process begins with a preliminary screening, a 30-minute phone or video call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here.
 
-### In-person (or videochat) Interviews
+### In-person (or videochat) interviews
 
 After your phone interview, the 18F member you spoke to will submit their notes to our Talent Team. If we'd like to chat with you more, we'll ask you to come in to one of our office locations or join us somewhere on the internet for a couple of longer interviews. Depending on what position you're applying for, the format will vary, but generally we group interviews with multiple candidates together into bi-weekly hiring sprints, every other Friday. 
 
-### Application Qualification Competencies
+### Application qualification competencies
 During the qualification and evaluation process, we will assess you and your application against the following competencies:
 
 - **Analysis and creative problem solving:** Expertise determining user
