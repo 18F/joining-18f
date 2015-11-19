@@ -1,6 +1,6 @@
 ---
 title: Writer / Content Designer / Content Strategist
-permalink: who-we-are-hiring/positions/content-designer/
+permalink: who-we-are-hiring/positions/content-designer-strategist/
 team: outreach
 active: false
 ---
