@@ -2,7 +2,7 @@
 title: Acquisition Specialist
 permalink: who-we-are-hiring/positions/acquisition-specialist/
 team: consulting
-active: false
+active: true
 ---
 
 As a member of the 18F Consulting team, an Acquisition Specialist
