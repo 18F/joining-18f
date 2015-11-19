@@ -13,7 +13,7 @@ The interview process begins with a preliminary screening, a 30-minute phone or 
 
 ### In-person (or videochat) interviews
 
-After your phone interview, the 18F member you spoke to will submit their notes to our Talent Team. If we'd like to chat with you more, we'll ask you to come in to one of our office locations or join us somewhere on the internet for a couple of longer interviews. Depending on what position you're applying for, the format will vary, but generally we group interviews with multiple candidates together into bi-weekly hiring sprints, every other Friday. 
+After your phone interview, the 18F member you spoke to will submit their notes to our Talent Team. If we'd like to chat with you more, we'll ask you to come in to one of our office locations or join us somewhere on the internet for a couple of longer interviews.
 
 ### Application qualification competencies
 During the qualification and evaluation process, we will assess you and your application against the following competencies:
