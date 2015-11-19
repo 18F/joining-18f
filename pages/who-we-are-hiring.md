@@ -16,7 +16,6 @@ Everywhere in the United States! Most of our team is distributed across the coun
 ## Roles at 18F
 Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles on a number of different teams across 18F. Below are a few of the roles that Innovation Specialists may fill at 18F. This is not intended to be a comprehensive list but for those that are interested in joining the team, hopefully something on this list excites you!
 
-We're currently revamping our application process. When it relaunches in mid-November, we will be hiring for positions **including but not limited to** the following:
 
 ### Comms Team
 
