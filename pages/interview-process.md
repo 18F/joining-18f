@@ -35,7 +35,6 @@ services with a strong user-facing or consumer-oriented element.
 deployment of solutions leveraging current and emergent
 technologies and best practices.
 
-
 ### Interviewing for a specific team? 
 Check out more interviewing information for each of our teams. 
 
