@@ -39,7 +39,7 @@ technologies and best practices.
 Check out more interviewing information for each of our teams. 
 
 <ul>
-{% for interview in site.interviews %}
-<li><a href="{{site.baseurl}}{{ interview.url }}">{{ interview.title }}</a></li>
-{% endfor %}
+  {% for interview in site.interviews %}
+	  <li><a href="{{site.baseurl}}{{ interview.url }}">{{ interview.title }}</a></li>
+  {% endfor %}
 </ul>
