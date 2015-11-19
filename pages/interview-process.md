@@ -3,7 +3,7 @@ permalink: /interview-process/
 title: Interview process
 ---
 
-### Application Review
+### Application review
 
 The first step of the process will be a review of the information that you have submitted as part of your application. If your application is found to be qualified, you will proceed to the interview process.
 
