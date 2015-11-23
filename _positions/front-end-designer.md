@@ -1,6 +1,6 @@
 ---
 title: Front End Designer
-permalink: who-we-are-hiring/positions/front-end-designer/
+permalink: roles-and-teams/positions/front-end-designer/
 team: design
 active: false
 ---
