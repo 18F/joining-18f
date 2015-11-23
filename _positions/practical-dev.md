@@ -1,6 +1,6 @@
 ---
 title: Practical Dev
-permalink: who-we-are-hiring/positions/practical-dev/
+permalink: roles-and-teams/positions/practical-dev/
 team: consulting
 active: false
 ---
