@@ -1,6 +1,6 @@
 ---
 title: User Experience Designer
-permalink: who-we-are-hiring/positions/User-Experience-designer/
+permalink: roles-and-teams/positions/User-Experience-designer/
 team: design
 active: false
 ---
