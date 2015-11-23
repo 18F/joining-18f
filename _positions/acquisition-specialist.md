@@ -1,6 +1,6 @@
 ---
 title: Acquisition Specialist
-permalink: who-we-are-hiring/positions/acquisition-specialist/
+permalink: roles-and-teams/positions/acquisition-specialist/
 team: consulting
 active: false
 ---
