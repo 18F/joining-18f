@@ -1,6 +1,6 @@
 ---
 title: Director of Outreach
-permalink: who-we-are-hiring/positions/director-of-outreach/
+permalink: roles-and-teams/positions/director-of-outreach/
 team: communications
 active: false
 ---
