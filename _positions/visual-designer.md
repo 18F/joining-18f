@@ -1,6 +1,6 @@
 ---
 title: Visual Designer
-permalink: who-we-are-hiring/positions/visual-designer/
+permalink: roles-and-teams/positions/visual-designer/
 team: design
 active: false
 ---
