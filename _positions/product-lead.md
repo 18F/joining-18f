@@ -1,6 +1,6 @@
 ---
 title: Product Lead
-permalink: who-we-are-hiring/positions/product-lead/
+permalink: roles-and-teams/positions/product-lead/
 team: delivery
 active: false
 ---
