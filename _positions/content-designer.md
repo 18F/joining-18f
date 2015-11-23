@@ -1,6 +1,6 @@
 ---
 title: Content Designer
-permalink: who-we-are-hiring/positions/content-designer/
+permalink: roles-and-teams/positions/content-designer/
 team: design
 active: false
 ---
