@@ -1,6 +1,6 @@
 ---
 title: Data Architect
-permalink: who-we-are-hiring/positions/data-architect/
+permalink: roles-and-teams/positions/data-architect/
 team: consulting
 active: false
 ---
