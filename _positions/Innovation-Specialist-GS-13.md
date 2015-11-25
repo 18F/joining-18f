@@ -18,7 +18,7 @@ Typical duties for the fellow include but are not limited to:
 - Demonstrating thought leadership and contributing best practices in a variety of technologies and principles
 - Performing other related duties as assigned
 
-###Qualifications Required
+###Qualifications Required:
 This highly competitive program seeks talented, diverse individuals from the innovation community, and candidates are required to demonstrate expertise in a number of competencies. The position requires diverse knowledge, including:
 - Mastery knowledge of and expertise in a wide variety of technologies and or technical concepts to facilitate the delivery of services to consumers and businesses
 - Comprehensive knowledge of and expertise in user centered design, consumer internet technologies, service delivery, and management approaches, allowing the incumbent to provide sound and authoritative leadership on all issues related to the program
