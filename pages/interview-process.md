@@ -3,9 +3,20 @@ permalink: /interview-process/
 title: Interview process
 ---
 
-### Application review
+### Application Collection
+Applications are collected and grouped in two week intervals. All applications collected within each two week period are treated as a cohort and evaluated against each other.
 
-The first step of the process will be a review of the information that you have submitted as part of your application. Your application will be evaluated against the Qualification Competencies detailed below.
+**Note:** Once an application period ends, no additions or modifications can be made to your application. However, there is no limitation to the number of application periods you apply to.
+
+
+### Application Review (Qualification)
+The first step of the process will be a review of the information that you have submitted as part of your application. Applications are evaluated using the practices of the qualification processes called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-authorities/competitive-hiring/#url=Category-Rating). Your application is evaluated against the competencies listed below and placed in one of the following cataegories: Superior Qualified, Best Qualified, Well Qualified, Qualified or Not Qualified.
+
+Once all applications within the two week cohort have been evaluated, they are given to the selection panel which will review and identify those applicants that they wish to interview.
+
+*Veterans' Preference*
+
+Veterans' Preference is also applied following the practices for the Category Rating system. Information about how the preference is applied can be found [here](http://www.fedshirevets.gov/job/vetpref/index.aspx).
 
 ### Preliminary screening
 
