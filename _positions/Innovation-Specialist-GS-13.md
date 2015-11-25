@@ -7,6 +7,7 @@ active: false
 
 ##Innovation Specialist, GS-0301-13
 **GS Grade Level:** 13
+
 **Basis of Rating:** Category Rating
 
 
