@@ -7,9 +7,7 @@ title: Interview process
 
 The first step of the process will be a review of the information that you have submitted as part of your application. Your application will be evaluated against the Qualification Competencies detailed below.
 
-### Preliminary screening
-
-The interview process begins with a preliminary screening, a 30-minute phone or video call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here.
+**These are the changes that I wantfds gfsdg  to to ersgsergse maek to this file.**
 
 ### In-person (or videochat) interviews
 
