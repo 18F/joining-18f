@@ -8,9 +8,6 @@ active: false
 ##Innovation Specialist, GS-0301-13
 **GS Grade Level:** 13
 
-**Basis of Rating:** Category Rating
-
-
 This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCSIT/18 F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean startup and agile development principles to make easy things easy and hard things possible. As an Innovation Specialist, the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages his/her experience deploying high quality, user centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data. 
 
 ###Major duties:
