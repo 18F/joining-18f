@@ -25,5 +25,5 @@ Visual designers at 18F craft highly usable and beautiful web-based experiences 
 - Utilize 18F’s set of design patterns including palettes, form components, and other re-usable elements.
 - Identify inconsistent or less-than-successful elements of current conventions and modify them to improve their effectiveness and consistency with other 18F work.
 - Regularly participate in group critiques, serving as both “critic” and the “critiqued.”
-- Scour the web for applicable new design solutions, and share findings with the team.
+- Scour the web for applicable new design solutions and share findings with the team.
 - Support the 18F brand by contributing to in-house projects.
