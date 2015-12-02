@@ -8,7 +8,7 @@ active: false
 ##Role: Visual Designer
 
 ###Position Summary
-Visual designers at 18F craft highly usable and beautiful web-based experiences for the benefit of the public. Because our clients are agencies of the U.S. government, our work should reflect and help preserve the integrity of our national image. Our visual designers must collaborate to establish and evolve design patterns which make our work consistent and efficient, and can inform the design of websites for agencies who aren’t our clients. Additionally they should constantly push the boundaries and leverage the best and newest creative approaches and web technologies.
+Visual designers at 18F craft highly usable and beautiful web-based experiences for the benefit of the public. Because our clients are agencies of the U.S. government, our work should reflect and help preserve the integrity of our national image. Our visual designers must collaborate to establish and evolve design patterns which make our work consistent and efficient and can inform the design of websites for agencies who aren’t our clients. Additionally they should constantly push the boundaries and leverage the best and newest creative approaches and web technologies.
 
 ###Key Objectives
 **Objective #1: You will deliver a high-quality, user-centered web-design in an agile environment.**
