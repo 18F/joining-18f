@@ -27,17 +27,7 @@
     <iframe name="hidden_iframe" id="hidden_iframe"
     style="display:none;" onload="if(submitted) {
       $(document).ready(function() {
-        $('#curtain, #modal').fadeIn();
-        $('input[type=submit]').fadeOut();
-        $('body').css('overflow', 'hidden');
-        $('#modal').attr('aria-hidden', 'false').focus();
-        $('form').attr('aria-hidden', 'true');
-        $(document).keydown(function(event){
-          // prevent form tabbing after submission
-          if (event.keyCode === 9) {
-            event.preventDefault();
-          }
-        })
+        window.location.href = './apply-thank-you.html';
       })}"></iframe>
 
     <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="post"
@@ -374,6 +364,13 @@
             return el.$element.closest('.usa-input');
         },
         errorsWrapper: '<ul class="usa-input-error-message"></ul>'
+      });
+
+      $.listen('parsley:form:validated', function(e){
+        if (e.validationResult) {
+          // prevent double form submissions
+          $('input[type=submit]').prop('disabled', true);
+        }
       });
 
     }());
