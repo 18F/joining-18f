@@ -31,9 +31,9 @@ This highly competitive program seeks talented, diverse individuals from the inn
 - Skill in analysis in order to apply a wide range of qualitative and/or quantitative methods for assessing and improving program effectiveness
 
 Candidates are also evaluated for their competencies in key areas, including:
-- Analysis and creative problem solving: expertise determining user needs or identifying market opportunities and designing and deploying solutions
-- Technology acumen: knowledge of standard and emergent web technologies
-- Entrepreneurship and product management: experience delivering products or services from concept to market
-- Approach and methodology: expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
-- Empathy and emotional intelligence: experience in clientfacing roles, navigating bureaucracy, business development, or delivering services with a strong userfacing or consumer oriented element
-- Tools and execution: experience in design, development and deployment of solutions leveraging current and emergent technologies and best practices
+- Analysis and creative problem solving: Expertise determining user needs or identifying market opportunities and designing and deploying solutions
+- Technology acumen: Knowledge of standard and emergent web technologies
+- Entrepreneurship and product management: Experience delivering products or services from concept to market
+- Approach and methodology: Expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
+- Empathy and emotional intelligence: Experience in clientfacing roles, navigating bureaucracy, business development, or delivering services with a strong userfacing or consumer oriented element
+- Tools and execution: Experience in design, development and deployment of solutions leveraging current and emergent technologies and best practices
