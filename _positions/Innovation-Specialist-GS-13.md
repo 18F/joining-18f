@@ -35,5 +35,5 @@ Candidates are also evaluated for their competencies in key areas, including:
 - Technology acumen: knowledge of standard and emergent web technologies
 - Entrepreneurship and product management: experience delivering products or services from concept to market
 - Approach and methodology: expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
-- Empathy and emotional intelligence: experience in clientfacing roles, navigating bureaucracy, business development, or delivering services with a strong userfacing or consumeroriented element
+- Empathy and emotional intelligence: experience in clientfacing roles, navigating bureaucracy, business development, or delivering services with a strong userfacing or consumer oriented element
 - Tools and execution: experience in design, development and deployment of solutions leveraging current and emergent technologies and best practices
