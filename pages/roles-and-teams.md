@@ -2,7 +2,7 @@
 title: Roles and teams
 permalink: /roles-and-teams/
 ---
-Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles on a number of different teams across 18F. Below are a few of the roles that Innovation Specialists may fill at 18F. This is not intended to be a comprehensive list but for those that are interested in joining the team, hopefully something on this list excites you!
+Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles on a number of different teams across 18F. Below are a few of the roles that Innovation Specialists may fill at 18F. This is not intended to be a comprehensive list, but for those that are interested in joining the team, hopefully something on this list excites you!
 
 ### Comms Team
 
