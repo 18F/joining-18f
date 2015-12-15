@@ -1,4 +1,4 @@
-urlbase: "https://pages.18f.gov/joining-18f"
+baseurl: "/joining-18f"
 markdown: redcarpet
 name: Joining 18F
 exclude:
