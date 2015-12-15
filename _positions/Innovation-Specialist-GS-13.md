@@ -14,6 +14,7 @@ As an Innovation Specialist, the incumbent serves the government and makes an im
 
 ###Major duties:
 Typical duties for the fellow include (but are not limited to):
+
 - Conceiving of and recommending projects or studies to advance the state of the art in the specialty area
 - Applying forward-thinking design and development principles such as lean startup, user-centered design, and agile development to product or services development, delivery, and program management
 - Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions 
@@ -23,6 +24,7 @@ Typical duties for the fellow include (but are not limited to):
 
 ###Qualifications required:
 This highly competitive program seeks talented, diverse individuals from the innovation community, and candidates are required to demonstrate expertise in a number of competencies. The position requires diverse knowledge, including:
+
 - Master knowledge of and expertise in a wide variety of technologies and or technical concepts to facilitate the delivery of services to consumers and businesses
 - Comprehensive knowledge of and expertise in user-centered design, consumer internet technologies, service delivery, and management approaches, allowing the incumbent to provide sound and authoritative leadership on all issues related to the program
 - Expert knowledge of and expertise in product delivery, agile development methodologies, and open source software development
@@ -33,6 +35,7 @@ This highly competitive program seeks talented, diverse individuals from the inn
 - Skill in analysis in order to apply a range of qualitative and/or quantitative methods for assessing and improving program effectiveness
 
 Candidates are also evaluated for their competencies in key areas, including:
+
 - Analysis and creative problem solving: Expertise in determining user needs or identifying market opportunities and designing and deploying solutions
 - Technology acumen: Knowledge of standard and emergent web technologies
 - Entrepreneurship and product management: Experience delivering products or services from concept to market
