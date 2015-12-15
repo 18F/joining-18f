@@ -38,4 +38,4 @@ Within the first 6-12 months after hiring, you’ll accomplish these objectives:
 
 [Read more about management and organization structure, environmental
 challenges and needs, and basic employment requirements for this
-position](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/18f-consulting/).
+position](/who-we-are-hiring/positions/18f-consulting/).
