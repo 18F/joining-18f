@@ -95,4 +95,4 @@ objectives:
 
 [Read more about management and organization structure, environmental
 challenges and needs, and basic employment requirements for this
-position](/who-we-are-hiring/positions/18f-consulting/).
+position]({{ site.baseurl }}/who-we-are-hiring/positions/18f-consulting/).

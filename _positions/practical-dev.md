@@ -19,4 +19,4 @@ If you feel comfortable finding an existing repository on GitHub, grokking the c
 - Participate in the open source software community by creating open source tools and contributing upstream to existing open source projects.
 - Develop a keen sense of the maturity and extensibility of important open source projects.
 
-[Read more about management and organization structure, environmental challenges and needs, and basic employment requirements for this position](/who-we-are-hiring/positions/18f-consulting/).
+[Read more about management and organization structure, environmental challenges and needs, and basic employment requirements for this position]({{ site.baseurl }}/who-we-are-hiring/positions/18f-consulting/).
