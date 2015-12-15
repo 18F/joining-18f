@@ -12,6 +12,7 @@ active: false
 ### Key Objectives
 
 **Objective \#1: Represent front end design on multi-disciplinary teams and work with your colleagues to deliver great products.**
+
 - Work with 18F engineers, UX designers, content specialists, and product owners to create meaningful projects for government agencies.
 - Write clean, cohesive, and semantic HTML and CSS through constructive feedback and review sessions.
 - Use tools and approaches that help the team deliver quality work on time, understanding that “perfect is the enemy of done.”
@@ -20,6 +21,7 @@ active: false
 - Work with teams to conduct and analyze user research to inform design decisions.
 
 **Objective \#2: Help 18F and agency partners improve by embodying and advocating for front end design best practices and resources.**
+
 - Attend remote and in-person events with 18F and U.S. Digital Coalition peers.
 - Pair program with peers and teammates to help teach, learn, and maintain front end code standards.
 - Attend and contribute to design critiques to both hone your own design sense and improve team-wide work.
@@ -28,6 +30,7 @@ active: false
 - Use the tools and resources adopted or created by 18F, evangelize them, and make improvements when necessary.
 
 **Objective \#3: You will be a contributing and active member in the open source community.**
+
 -   Develop and design 18F’s open source projects to support the growth and development of 18F’s [open source policy](https://github.com/18F/open-source-policy).
 -   Work with the 18F design team on what it means to “design in the open.”
 -   Contribute to and help maintain 18F’s [front end standards](https://pages.18f.gov/frontend/).
