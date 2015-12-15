@@ -13,7 +13,6 @@ You’re a broad and strategic thinker who can see the interconnectivity between
 
 ###Key Objectives
 **Objective #1: Develop, implement, and evaluate the annual comprehensive communications strategy for 18F.**
-
 - Complete a project and line of business listening tour and document key insights.
 - Build measurability into our programs and analyze data to enable continuous improvement.
 - Communicate vital information to employees using varied channels (Slack, email, blogs, internal newsletter, etc.)
@@ -23,7 +22,6 @@ You’re a broad and strategic thinker who can see the interconnectivity between
 - Track monthly engagement and coordinate reporting to 18F and GSA leadership.
 
 **Objective #2: Develop a high-impact communications team that supports key internal and client initiatives.**
-
 - Identify communications priorities across 18F and guide the team to deliver using an agile, user-focused approach.
 - Conduct portfolio review and retrospectives with team to identify what’s working well and what needs improvement.
 - Provide leadership to team members through weekly checkins and professional development guidance.
