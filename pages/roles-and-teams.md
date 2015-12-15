@@ -2,40 +2,21 @@
 title: Roles and teams
 permalink: /roles-and-teams/
 ---
-Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles on a number of different teams across 18F. Below are a few of the roles that Innovation Specialists may fill at 18F. This is not intended to be a comprehensive list but for those that are interested in joining the team, hopefully something on this list excites you!
+Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles across 18F such as software engineers and product leads to UX and visual designers. Below is a list of our current needs but they change frequently, so check back often!
 
 ### Comms Team
 [**Director of Outreach**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/director-of-outreach/)
 
-
 ### Consulting Team
-[**Acquisition Specialist**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/acquisition-specialist/)
+**Design and Product Strategist** *(Role profile coming soon)*
 
-[**Data Architect**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/data-architect/)
-
-[**Practical Dev**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/practical-dev/)
-
+The Design and Product Strategist is  at the forefront of human-centered design and culture change within the federal government. As a consultant, you’ll affect how agencies, programs, and individuals perceive and examine problems, dream of solutions, and find innovative ways to make those solutions a successful reality. Depending on the methods you use, you can affect change in a few months (or even days)
 
 ### Delivery Team
-[**Product Lead**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/product-lead/)
+**Site Reliability Engineer** *(Role profile coming soon)*
 
-[**Software Developer (Front-End, Back-End, Full-Stack)**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/software-developer/)
-
-**DevOps & Site Reliability Engineer** *(Role profile coming soon)*
-DevOps engineers work tirelessly to arm developers with the best tools and ensure system uptime and performance, helping to bridge gaps with legacy development or operations teams.
-
-
-### Design Team
-[**Content Designer**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/content-designer/)
-
-[**Front End Designer**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/front-end-designer/)
-
-[**User Experience Designer**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/user-experience-designer/)
-
-[**Visual Designer**] (https://pages.18f.gov/joining-18f/roles-and-teams/positions/visual-designer/)
-
+Site Reliability Engineers ensure our platforms and infrastructure systems — and the applications on top of them —  are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in  architecting solutions.
 
 
 ## See also
-
-We also encourage you to consider applying to the [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service), which includes opportunities at a broad range of agencies.
+If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply here](https://www.whitehouse.gov/digital/united-states-digital-service)
