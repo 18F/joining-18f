@@ -4,7 +4,6 @@ permalink: roles-and-teams/positions/front-end-designer/
 team: design
 active: false
 ---
-##Role: Front End Designer
 
 ###Role Summary
 18F is looking for web designers who are excited about using modern web technology to make useful and beautiful products for the American public. You will work with a talented and diverse group of dedicated colleagues and agency partners at each step in the process, from product strategy to user experience, content and visual design to engineering. You will have the opportunity to research and develop new technologies and make meaningful contributions to the open source community. We’re building a new practice within government from the ground up, and this role is an opportunity to inform and shape the way that government web sites are designed and developed for years to come.
