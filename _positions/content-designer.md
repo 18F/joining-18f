@@ -11,6 +11,7 @@ Content designers are critical members of the 18F Experience Design team. Theyâ€
 ##Key Objectives
 
 ###Objective #1: You will deliver high-quality, user-centered content on deadline for agency clients.
+
 - Create content that adheres to project guidelines and that is accessible, concise, and elegant. Examples could include site copy, microcopy, blog posts, one sheets, and newsletters.
 - Perform content inventories, audits, and gap analyses, and make recommendations based on the results of these exercises. 
 - Identify client and team needs through formal user interviews, informal conversations, contextual inquiries, etc.
@@ -20,6 +21,7 @@ Content designers are critical members of the 18F Experience Design team. Theyâ€
 - Maintain regular, respectful contact with clients and team members, and report any miscommunications or other issues to their lead.
 
 ###Objective #2:  You will contribute to the continued success of the content team and to team-wide content resources. 
+
 - Participate in weekly group critiques and offer colleagues actionable insights.
 - Identify systems or practices that are inconsistent or no longer serve the team and share findings with the content lead in an effort to improve team efficiency.
 - Contribute to accessible content resources â€” tutorials, guides, and so on â€” that benefit the team as a whole.
