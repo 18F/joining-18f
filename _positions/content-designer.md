@@ -6,12 +6,12 @@ active: false
 ---
 ##Role: Content Designer
 
-##Role Summary
+###Role Summary
 Content designers are critical members of the 18F Experience Design team. They’re responsible for creating internal and external content of all varieties and organizing that content for maximum user benefit. In essence, content designers are charged with communicating 18F’s core values and partner agencies’ messages in a way that’s accessible, beautiful, and concise.
 
-##Key Objectives
+###Key Objectives
 
-###Objective #1: You will deliver high-quality, user-centered content on deadline for agency clients.
+**Objective #1: You will deliver high-quality, user-centered content on deadline for agency clients.**
 
 - Create content that adheres to project guidelines and that is accessible, concise, and elegant. Examples could include site copy, microcopy, blog posts, one sheets, and newsletters.
 - Perform content inventories, audits, and gap analyses, and make recommendations based on the results of these exercises. 
@@ -21,7 +21,7 @@ Content designers are critical members of the 18F Experience Design team. They�
 - Integrate feedback from the team, leads, and stakeholders by participating in regular critique sessions.
 - Maintain regular, respectful contact with clients and team members, and report any miscommunications or other issues to their lead.
 
-###Objective #2:  You will contribute to the continued success of the content team and to team-wide content resources. 
+**Objective #2:  You will contribute to the continued success of the content team and to team-wide content resources.**
 
 - Participate in weekly group critiques and offer colleagues actionable insights.
 - Identify systems or practices that are inconsistent or no longer serve the team and share findings with the content lead in an effort to improve team efficiency.
