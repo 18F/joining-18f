@@ -7,24 +7,24 @@ active: false
 ##Role: Director of Outreach
 
 ###Role Summary
-The Director of Outreach drives a comprehensive internal and external communications strategy for 18F. This includes editorial and content on our website, social media, events/conferences, messaging, and general community evangelism. As a member of the management team, you'll interact daily with teammates across Design, Product, Development, Operations, Talent, and collaborate to help them tell their stories and share key information across a variety of audiences. You’re a broad and strategic thinker who can see the interconnectivity between the types of work that 18F does, and you possess the skill to weave this into a comprehensive, easy-to-follow story for our stakeholders, partners, and America. 
+The Director of Outreach creates and guides the strategy for all communications, website, social media, and event messaging to consistently articulate 18F’s mission. The director will work closely with a senior peer group as the communications partner, and with teammates across the organization, helping them effectively tell their stories and share key information with varied audiences. 
+
+You’re a broad and strategic thinker who can see the interconnectivity between the types of work 18F’s teams do, with a strong track record as an implementer who can manage a variety of key initiatives. You’re an excellent writer and communicator with the skill to weave these separate narratives into a comprehensive, easy-to-follow, story that resonates with our stakeholders, partners, and the American public
 
 ###Key Objectives
-**Objective #1: Create a “full stack” communications strategy for 2016 that drives information to all team members and creates external awareness.**
-- Go on a project and line of business listening tour.
-- Build measurability into our programs and analyze data in the spirit of continuous improvement.
-- Drive the communication of information to employees using a variety of channels (Slack, email, blogs, and more).
-- Collaborate with multiple stakeholders (GSA comms and staff, outside interests such as federal, state, and local government) to create communication programs.
+**Objective #1: Develop, implement, and evaluate the annual comprehensive communications strategy for 18F.**
+- Complete a project and line of business listening tour and document key insights.
+- Build measurability into our programs and analyze data to enable continuous improvement.
+- Communicate vital information to employees using varied channels (Slack, email, blogs, internal newsletter, etc.)
+- Raise awareness of 18F among external parties (other agencies, tech and government press, other governments, the open source community, and others) using varied channels (18F blog, interviews, fireside chats, events, etc.)
+- Support teammates across the organization with talking points and content for speaking engagements.
+- Collaborate with multiple stakeholders (GSA communications staff, partner agency communications staff, outside interests such as federal, state, and local governments) as a partner and liaison.
+- Track monthly engagement and coordinate reporting to 18F and GSA leadership.
 
-**Objective #2: Design and execute an external communications and interactive experience program (speaking opportunities, media briefings, tours) in service of acquiring talent and building the 18F brand.**
-- Develop 18F's calendar of events and speaker bureau.
-- Ensure all speakers are armed with latest talking points (and communication plans, if product-specific).
-- Review, with CMO, visuals and content for all external speaking gigs.
-- Create and manage the "bench" of available speakers and stories for recruiting and Coalition events.
-
-**Objective #3: Develop a high-impact communications team that supports a number of key internal and client initiatives.**
-- Ramp up knowledge of the org in order to effectively serve as 18F point of contact for and participate in communication meetings for GSA, Digital Coalition, and agency teams.
-- Identify priorities across 18F and guide the team to deliver using an agile, user-focused approach.
+**Objective #2: Develop a high-impact communications team that supports key internal and client initiatives.**
+- Identify communications priorities across 18F and guide the team to deliver using an agile, user-focused approach.
 - Conduct portfolio review and retrospectives with team to identify what’s working well and what needs improvement.
-- Provide leadership and guidance to communications team members.
-- Create team and individual performance metrics and expected business results.
+- Provide leadership to team members through weekly checkins and professional development guidance.
+- Define team and individual performance metrics and expected business results through OKRs and regular calibration of team goals with individual goals.
+
+
