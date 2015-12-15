@@ -7,7 +7,7 @@ active: false
 
 ##Role: Acquisition Specialist
 
-###Position Summary
+###Role Summary
 As an 18F acquisition specialist, you’ll need to possess two key qualities: excellent judgment and an unflinching belief that federal procurement can be not just efficient, but joyful, too. Acquisition specialists contribute to our team and help agency partners in three main ways: First, by helping teams support digital services through their procurement efforts; second, by investigating other agencies’ tools and processes and finding opportunities to improve results; and third, by working with 18F’s assigned contracting officers to help procure goods and services for 18F and 18F's partner agencies. Federal acquisition experience isn’t required, but it would definitely be helpful for this role. Likewise, a technology background isn’t required, but it too would be very helpful. Good humor and empathy are key requirements.
 
 ###Key Objectives
