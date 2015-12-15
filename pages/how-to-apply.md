@@ -3,7 +3,7 @@ permalink: /how-to-apply/
 title: How to apply
 ---
 
-##[Apply to join 18F](pages/apply.html)
+##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
 
 
 If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mailto:join18f@gsa.gov).
@@ -13,7 +13,7 @@ If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mai
 **When you apply, you’ll need to include a current, government-style resume.** Government-style resumes are very different from private-sector resumes. [Here is a guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) and some [example](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf) [resumes](http://www.jobs.irs.gov/downloads/ResumeTips.pdf). Please overexplain, include dates of each engagement, and include everything and the kitchen sink.
 
 **Later, after you’ve passed through the 18F [interview
-phase](/interview-process/)**, your point of contact on the 18F Talent Team will ask you for three professional references (names, titles, and email addresses). Once we hear back from them, the GSA HR Team will ask you for additional documents in order to proceed with the hiring process.  
+phase]({{ site.baseurl }}/interview-process/)**, your point of contact on the 18F Talent Team will ask you for three professional references (names, titles, and email addresses). Once we hear back from them, the GSA HR Team will ask you for additional documents in order to proceed with the hiring process.  
 
 It’s not a bad idea to start to pull these together in advance
 because some of them take time to complete. All documents should be
