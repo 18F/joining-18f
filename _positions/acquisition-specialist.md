@@ -24,4 +24,4 @@ As an 18F acquisition specialist, you’ll need to possess two key qualities: ex
 - Write blog posts on the 18F blog on important acquisition topics and client case studies. (You can see our previous blog posts about procurement [here](https://18f.gsa.gov/tags/procurement/).)
 
 
-[Read more about management and organization structure, environmental challenges and needs, and basic employment requirements for this position](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/18f-consulting/).
+[Read more about management and organization structure, environmental challenges and needs, and basic employment requirements for this position](/who-we-are-hiring/positions/18f-consulting/).
