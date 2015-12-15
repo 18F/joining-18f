@@ -3,19 +3,29 @@ permalink: /interview-process/
 title: Interview process
 ---
 
-### Application review
+## Application collection
+Applications are collected and grouped in two-week intervals. All applications collected within each two-week period are treated as a cohort and evaluated against each other.
 
-The first step of the process will be a review of the information that you have submitted as part of your application. Your application will be evaluated against the Qualification Competencies detailed below.
+**Note:** Once an application period ends, no additions or modifications can be made to your application. However, there is no limitation to the number of application periods you apply to.
 
-### Preliminary screening
+## Application review (Qualification)
+The first step of the process will be a review of the information that you have submitted as part of your application. Applications are evaluated using the practices of the qualification processes called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-authorities/competitive-hiring/#url=Category-Rating). Your application is evaluated against the competencies listed below and placed in one of the following cataegories: Superior Qualified, Best Qualified, Well Qualified, Qualified, or Not Qualified.
 
-The interview process begins with a preliminary screening, a 30-minute phone or video call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here.
+Once all applications within the two-week cohort have been evaluated, they're given to the selection panel, which will review and identify the applicants that they wish to interview.
 
-### In-person (or videochat) interviews
+*Veterans' preference*
+
+Veterans' Preference is also applied following the practices for the Category Rating system. Information about how the preference is applied can be found [here](http://www.fedshirevets.gov/job/vetpref/index.aspx).
+
+## Preliminary screening
+
+The interview process begins with a 30-minute preliminary screening by phone or video call. Plan to talk about your skills and experience, what you're passionate about, and the work we do here.
+
+## In-person (or videochat) interviews
 
 After your phone interview, the 18F member you spoke to will submit their notes to our Talent Team. If we'd like to chat with you more, we'll ask you to come in to one of our office locations or join us somewhere on the internet for a couple of longer interviews.
 
-### Application qualification competencies
+## Application qualification competencies
 During the qualification and evaluation process, we will assess you and your application against the following competencies:
 
 - **Analysis and creative problem solving:** Expertise determining user
@@ -31,7 +41,7 @@ and responsiveness.
 - **Empathy and emotional intelligence:** Experience in client-facing
 roles, navigating bureaucracy, business development, or delivering
 services with a strong user-facing or consumer-oriented element.
-- **Tools and execution:** Experience in design, development and
+- **Tools and execution:** Experience in design, development, and
 deployment of solutions leveraging current and emergent
 technologies and best practices.
 
