@@ -1,4 +1,3 @@
-baseurl: "/joining-18f"
 markdown: redcarpet
 name: Joining 18F
 exclude:
