@@ -12,12 +12,14 @@ As an 18F acquisition specialist, you’ll need to possess two key qualities: ex
 
 ###Key Objectives
 **Objective #1: You will help make the government a better customer by transforming the way we buy digital services.**
+
 - Lead Request for Proposal (RFP) Ghostwriting efforts: Help partner agencies shape their acquisition documents to reflect the leading industry practices in digital-services procurement.
 - Work with cross-functional consulting teams within partner agencies to promote modernization efforts and implementation of agile practices. 
 - Assist, on behalf of 18F and partner agencies, in the acquisition of digital services during the entire procurement lifecycle. 
 - Diversify the government’s buying options by creating new contract vehicles and establishing vendor marketplaces. 
 
 **Objective #2: You will promote the adoption of modern technology practices through research, teaching, coaching, and knowledge sharing.**
+
 - Develop hypotheses and conduct tests, and use your findings to enhance the procurement of digital services.
 - Conduct workshops to facilitate learning about and adoption of agile principles and practices. 
 - Contribute content to the [18F Guides](https://18f.gsa.gov/2015/05/28/18F-guides/). 
