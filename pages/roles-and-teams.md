@@ -26,7 +26,7 @@ The Design and Product Strategist is at the forefront of human-centered design a
 
 **Site Reliability Engineer** *(Role profile coming soon)*
 
-Site Reliability Engineers ensure our platforms and infrastructure systems &mdash; and the applications on top of them &mdash;  are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in  architecting solutions.
+As a Site Reliability Engineer, you will ensure our platforms and infrastructure systems &mdash; and the applications on top of them &mdash;  are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in  architecting solutions.
 
 
 ## See also
