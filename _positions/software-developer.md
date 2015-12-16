@@ -2,7 +2,7 @@
 title: Software Developer
 permalink: roles-and-teams/positions/software-developer/
 team: delivery
-active: false
+active: true
 ---
 
 ###Role Summary
