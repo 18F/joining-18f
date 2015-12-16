@@ -4,7 +4,6 @@ permalink: roles-and-teams/positions/director-of-outreach/
 team: communications
 active: true
 ---
-##Role: Director of Outreach
 
 ###Role Summary
 The Director of Outreach creates and guides the strategy for all communications, website, social media, and event messaging to consistently articulate 18F’s mission. The director will work closely with a senior peer group as the communications partner, and with teammates across the organization, helping them effectively tell their stories and share key information with varied audiences. 
