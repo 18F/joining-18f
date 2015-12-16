@@ -2,7 +2,7 @@
 title: Front End Designer
 permalink: roles-and-teams/positions/front-end-designer/
 team: design
-active: false
+active: true
 ---
 
 ###Role Summary
