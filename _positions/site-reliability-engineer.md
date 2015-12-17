@@ -6,14 +6,14 @@ active: true
 ---
 
 ###Role Summary
-Site Reliability Engineers ensure our platforms and infrastructure systems, and the applications on top of them, are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in architecting solutions.
+Site Reliability Engineers ensure our platforms and infrastructure systems, and the applications on top of them, are reliable and easy to deploy and maintain. As a Site Reliability Engineer, you’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities to get creative in architecting solutions.
 
-This role is best fit for someone who is respectful of others, team oriented, and open to sharing. The platform team and users want to collaborate with you and hear your ideas! 
+This role is best suited to someone who is respectful of others, team oriented, and open to sharing. The platform team and users want to collaborate with you and hear your ideas! 
 
 ###Key Objectives
-**Objective #1: Ensure the platforms are available, performant, and secure.**
+**Objective #1: Ensure the platforms are available, high performing, and secure.**
 
-- Work with internal and external groups to integrate, configure, manage, and support production systems, including monitoring platform and application uptime and maximizing platform reliability.
+- Work with internal and external groups to integrate, configure, manage, and support production systems; monitor platform and application uptime and maximize platform reliability.
 - Identify important metrics for debugging platform problems.
 - Monitor the availability of platforms.
 - Respond to system alerts, troubleshoot system errors, and resolve incidents.
@@ -27,10 +27,10 @@ This role is best fit for someone who is respectful of others, team oriented, an
 - Deploy software in a repeatable and documented way; document specifications, process, systems, and procedures.
 - Take an iterative approach to identifying and removing single points of failure.
 
-**Objective #3: Take a user centered approach to building tools.**
+**Objective #3: Take a user-centered approach to building tools.**
 
-- Help reduce the security and compliance burden on users.
-- Support and empathize with development teams by working closely with them to manage system lifecycles, including change and configuration management.
-- Create tooling to reduce developer workload in deploying and managing their applications.
+- Reduce the security and compliance burden on users.
+- Support and empathize with development teams; work closely with them to manage system lifecycles, including change and configuration management.
+- Create tooling to reduce developer workload in deploying and managing applications.
 - Evangelize the importance of the platform.
 
