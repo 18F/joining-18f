@@ -2,7 +2,7 @@
 title: Visual Designer
 permalink: roles-and-teams/positions/visual-designer/
 team: design
-active: false
+active: true
 ---
 
 ###Role Summary
