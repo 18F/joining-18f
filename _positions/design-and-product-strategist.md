@@ -16,7 +16,7 @@ You’ll work alongside other 18F Consulting specialists,  who are experts in de
 Your projects will come from various federal agencies. Some will improve services that millions of people use, and others may affect processes that shape how government works. In every project you undertake, you will champion the cause of consulting as service design and collaborate with your team to continually improve the services and experiences we provide.
 
 
-###Key Objectives
+###Key objectives
 
 **Objective \#1:** Use human-centered methods, empowering agencies with the process and tools to examine and discover their challenges and opportunities — whether that be for programs, people, products, or policies.
 
@@ -31,7 +31,7 @@ Your projects will come from various federal agencies. Some will improve service
 
 - Help teams discover their internal creative thinkers, champions, and “doers.”
 - Facilitate participatory sketching and design studios with users, stakeholders, and designers.
-- Research  how other public- or private-sector groups have addressed similar challenges.
+- Research how other public- or private-sector groups have addressed similar challenges.
 - Devise low-effort experiments to test and validate different ideas using techniques like prototyping, observation, lean startup, and customer development.
 - Teach agency teams how to mentally take risks, validate ideas, and iterate toward product-market fit to yield solutions that would not have survived using “business as usual” methods.
 
@@ -46,7 +46,7 @@ Your projects will come from various federal agencies. Some will improve service
 
 **Objective \#4:** Ensure successful completion of the contract writing and award processes. 
 
-- Work with 18F Consulting’s acquisition specialists to draft or review procurement documents (e.g., Performance Work Statements) so that a human-centered and agile cross-functional team can perform the work using current best practices.
+- Work with 18F Consulting’s acquisition specialists to draft or review procurement documents (for example, Performance Work Statements) so that a human-centered and agile cross-functional team can perform the work using current best practices.
 - Include insightful research artifacts in procurement documents to help vendors give enthusiastic proposals and realistic cost estimates.
 - Facilitate culture change inside the government contracting industry by educating stakeholders and contracting officers about design and agile processes.
 - Review proposals from vendors and assess them for design, research, usability testing, and product process acumen.
