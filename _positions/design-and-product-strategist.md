@@ -5,8 +5,6 @@ team: consulting
 active: true
 ---
 
-###Role: Design and Product Strategist
-
 ##Role summary
 
 The Design and Product Strategist is  at the forefront of human-centered design and culture change within the federal government. As a consultant, you’ll affect how agencies, programs, and individuals perceive and examine problems, dream of solutions, and find innovative ways to make those solutions a successful reality. Depending on the methods you use, you can affect change in a few months (or even days). 
