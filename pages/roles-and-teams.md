@@ -8,9 +8,7 @@ Although everyone is officially hired into the GSA as an Innovation Specialist, 
 [**Director of Outreach**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/director-of-outreach/)
 
 ### Consulting Team
-**Design and Product Strategist** *(Role profile coming soon)*
-
-The Design and Product Strategist is at the forefront of human-centered design and culture change within the federal government. As a consultant, you’ll affect how agencies, programs, and individuals perceive and examine problems, dream of solutions, and find innovative ways to make those solutions a successful reality. Depending on the methods you use, you can effect change in a few months (or even days).
+[**Design and Product Strategist**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/design-and-product-strategist/)
 
 ### Design Team
 
