@@ -2,7 +2,7 @@
 title: Design and Product Strategist
 permalink: who-we-are-hiring/positions/design-and-product-strategist/
 team: consulting
-active: false
+active: true
 ---
 
 ###Role: Design and Product Strategist
