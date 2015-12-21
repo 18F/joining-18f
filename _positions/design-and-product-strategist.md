@@ -1,6 +1,6 @@
 ---
 title: Design and Product Strategist
-permalink: who-we-are-hiring/positions/design-and-product-strategist/
+permalink: roles-and-teams/positions/design-and-product-strategist/
 team: consulting
 active: true
 ---
