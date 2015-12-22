@@ -16,7 +16,7 @@ This information is intended as a guideline only. Use this information to help t
 
 |               | **Grade 13**      |**Grade 14**|**Grade 15**|
 | -----------------:|:-------------:| :-----:| :-----:|
-| **Base Compensation**     | $73,115 to $95,048 | $86,399 to  $112,319 |$101,630 to $132,122|
+| **Desired Base Compensation**     | $73,115 to $95,048 | $86,399 to  $112,319 |$101,630 to $132,122|
 | **Supervisory**     | You work with a supervisor to develop deadlines, projects, and work to be done     |  Your supervisor only provides direction in terms of broadly defined missions | Your supervisor only provides direction in terms of broadly defined missions|
 | **Supervisory** | Your supervisor reviews your work from an overall standpoint to ensure its effectiveness in meeting requirements    |    The results of your work are accepted without change | The results of your work are considered technically authoritative and can be used to establish best practices|
 | **Supervisory**     | You independently carry out the assignments, resolving issues as they arise and collaborating with others when necessary | You independently plan, design, and execute programs or projects | You independently plan, develop, and execute vital programs that resolve critical problems and lead to the development of new theories|
