@@ -24,10 +24,7 @@ The Design and Product Strategist is at the forefront of human-centered design a
 
 [**Product Lead**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/product-lead/)
 
-**Site Reliability Engineer** *(Role profile coming soon)*
-
-As a Site Reliability Engineer, you will ensure our platforms and infrastructure systems &mdash; and the applications on top of them &mdash;  are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in  architecting solutions.
-
+[**Site Reliability Engineer**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/site-reliability-engineer/)
 
 ## See also
 If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.whitehouse.gov/digital/united-states-digital-service).
