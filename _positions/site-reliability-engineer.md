@@ -1,6 +1,6 @@
 ---
 title: Site Reliability Engineer
-permalink: roles-and-teams/positions/devops-engineer/
+permalink: roles-and-teams/positions/site-reliability-engineer/
 team: delivery
 active: true
 ---
