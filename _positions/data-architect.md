@@ -29,4 +29,4 @@ The federal government has hundreds of thousands of data sets, and managing that
 - Help curate our team’s internal data, focusing on how to collect, maintain, and publish it. 
 - Use data to identify alternative methods of approaching and understanding our clients’ needs.
 
-[Read more about management and organization structure, environmental challenges and needs, and basic employment requirements for this position](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/18f-consulting/).
+[Read more about management and organization structure, environmental challenges and needs, and basic employment requirements for this position]({{ site.baseurl }}/who-we-are-hiring/positions/18f-consulting/)).

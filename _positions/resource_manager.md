@@ -15,7 +15,7 @@ As the Resource Manager for 18F Consulting, you’ll play the critically importa
 -   We have multiple overlapping and highly fluid client engagements, with new ones starting and old ones finishing all the time. Some run as short as three days; others as long as six months. To complicate matters, resources are not fixed throughout an engagement; different resources are needed at different points in the project.
 
 As you can see, this is a challenging role, but one that is essential to 18F Consulting’s financial and client project success.
-You’ll need to work collaboratively with a number of stakeholders, including members of the 18F Consulting team (particularly [engagement managers](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/engagement-manager/) and [business development staff](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/director-of-biz-dev-and-products/)) and the 18F Talent team, which manages 18F’s hiring operations.
+You’ll need to work collaboratively with a number of stakeholders, including members of the 18F Consulting team (particularly [engagement managers]({{ site.baseurl }}/who-we-are-hiring/positions/engagement-manager/) and [business development staff]({{ site.baseurl }}/who-we-are-hiring/positions/director-of-biz-dev-and-products/) and the 18F Talent team, which manages 18F’s hiring operations.
 
 ## Key Objectives
 
@@ -29,4 +29,4 @@ Within the first 6-12 months after hiring, you’ll accomplish these objectives:
 
 [Read more about management and organization structure, environmental
 challenges and needs, and basic employment requirements for this
-position](https://pages.18f.gov/joining-18f/who-we-are-hiring/positions/18f-consulting/).
+position]({{ site.baseurl }}/who-we-are-hiring/positions/18f-consulting/).
