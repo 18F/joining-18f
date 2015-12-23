@@ -2,7 +2,7 @@
 title: Product Lead
 permalink: roles-and-teams/positions/product-lead/
 team: delivery
-active: false
+active: true
 ---
 
 ###Role Summary

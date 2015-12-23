@@ -1,8 +1,8 @@
 ---
 title: Software Developer
-permalink: who-we-are-hiring/positions/software-developer/
+permalink: roles-and-teams/positions/software-developer/
 team: delivery
-active: false
+active: true
 ---
 
 ###Role Summary
