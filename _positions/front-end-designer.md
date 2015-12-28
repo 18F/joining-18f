@@ -34,7 +34,7 @@ active: true
 -   Work with the 18F design team on what it means to “design in the open.”
 -   Contribute to and help maintain 18F’s [front end standards](https://pages.18f.gov/frontend/).
 
-##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
+##[Apply to the Front End Designer role](https://jobs.lever.co/18f/bcb9af9a-460a-48d4-bfaf-a62defe6fb4d/apply)
 
 ## What's the difference between an 18F front end designer and front end developer?
 
