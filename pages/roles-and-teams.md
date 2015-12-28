@@ -22,7 +22,7 @@ Although everyone is officially hired into the GSA as an Innovation Specialist, 
 
 [**Product Lead**]({{ site.baseurl }}/roles-and-teams/positions/product-lead/)
 
-[**Site Reliability Engineer**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/site-reliability-engineer/)
+[**Site Reliability Engineer**]({{ site.baseurl }}roles-and-teams/positions/site-reliability-engineer/)
 
 ## See also
 If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.whitehouse.gov/digital/united-states-digital-service).
