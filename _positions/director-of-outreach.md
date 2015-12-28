@@ -29,5 +29,5 @@ You’re a broad and strategic thinker who can see the interconnectivity between
 - Define team and individual performance metrics and expected business results through OKRs and regular calibration of team goals with individual goals.
 
 
-##[Apply to join 18F](https://jobs.lever.co/18f/1e419ac8-737d-4edb-b5ab-f186775246f1/apply)
+##[Apply to the Director of Outreach role](https://jobs.lever.co/18f/1e419ac8-737d-4edb-b5ab-f186775246f1/apply)
 
