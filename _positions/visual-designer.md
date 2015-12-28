@@ -27,3 +27,5 @@ Visual designers at 18F craft highly usable and beautiful web-based experiences 
 - Regularly participate in group critiques, serving as both “critic” and the “critiqued.”
 - Scour the web for applicable new design solutions and share findings with the team.
 - Support the 18F brand by contributing to in-house projects.
+
+##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
