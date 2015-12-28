@@ -34,3 +34,4 @@ An 18F Product Lead is responsible for managing the development, delivery, and c
 - Mentor others, give constructive criticism, and improve practices and standards on your teams.
 - Actively engage with the team at large — take part in cross-project and cross-domain conversation, skill- and knowledge-sharing, and working groups or guilds.
 
+##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
