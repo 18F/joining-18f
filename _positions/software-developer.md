@@ -32,4 +32,4 @@ Using modern, open source web frameworks and tools, our developers (front end, b
 - Demonstrate resilience in the face of bureaucracy: When faced with a hurdle, determine the root cause and address that in addition to the hurdle itself.
 - Push the boundaries of what is possible within government while maintaining an understanding of the complexities of the organization; push back against the things that can be pushed back against and take a longer view for the things that can't.
 
-##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
+##[Apply to the Software Developer role](https://jobs.lever.co/18f/40d0f4ee-be99-47be-be03-29b2095e51f6/apply)
