@@ -33,4 +33,4 @@ Site Reliability Engineers ensure our platforms and infrastructure systems, as w
 - Create tooling to reduce developer workload in deploying and managing their applications.
 - Evangelize the importance of the platform.
 
-##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
+##[Apply to the Site Reliability Engineer role]({{ site.baseurl }}/pages/apply.html)
