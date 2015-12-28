@@ -48,3 +48,4 @@ Your projects will come from various federal agencies. Some will improve service
 - Facilitate culture change inside the government contracting industry by educating stakeholders and contracting officers about design and agile processes.
 - Review proposals from vendors and assess them for design, research, usability testing, and product process acumen.
 
+## [Apply to join 18F](/joining-18f/pages/apply.html)
