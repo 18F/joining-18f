@@ -28,4 +28,4 @@ Visual designers at 18F craft highly usable and beautiful web-based experiences 
 - Scour the web for applicable new design solutions and share findings with the team.
 - Support the 18F brand by contributing to in-house projects.
 
-##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
+##[Apply to Visual Designer role](https://jobs.lever.co/18f/3c962a62-8bb1-4ae6-84cd-d18f66719b2f/apply)
