@@ -48,4 +48,4 @@ Your projects will come from various federal agencies. Some will improve service
 - Facilitate culture change inside the government contracting industry by educating stakeholders and contracting officers about design and agile processes.
 - Review proposals from vendors and assess them for design, research, usability testing, and product process acumen.
 
-##[Apply to join 18F](https://jobs.lever.co/18f/73bfd32b-ee89-4597-848f-745e58d11efd/apply)
+##[Apply to the Design and Product Strategist role](https://jobs.lever.co/18f/73bfd32b-ee89-4597-848f-745e58d11efd/apply)
