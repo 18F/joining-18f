@@ -7,7 +7,7 @@ active: true
 
 ### Role summary
 
-Site Reliability Engineers ensure our platforms and infrastructure systems, as well as the applications on top of them, are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human-centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in architecting solutions.
+Site Reliability Engineers ensure our platforms and infrastructure systems, as well as the applications on top of them, are reliable and easy to deploy and maintain. You’ll be involved in designing and implementing systems in a human&mdash;centered way, communicating with users, and finding solutions to help people work more smoothly. Along with providing the platform, you seek opportunities and get creative in architecting solutions.
 
 ### Key objectives
 **Objective #1: Ensure the platforms are available, performant, and secure.** 
