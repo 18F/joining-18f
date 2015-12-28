@@ -29,5 +29,5 @@ You’re a broad and strategic thinker who can see the interconnectivity between
 - Define team and individual performance metrics and expected business results through OKRs and regular calibration of team goals with individual goals.
 
 
-## [Apply to join 18F](/joining-18f/pages/apply.html)
+##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
 
