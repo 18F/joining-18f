@@ -3,7 +3,7 @@ permalink: /how-to-apply/
 title: How to apply
 ---
 
-##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
+##[Apply to join 18F]({{ site.baseurl }}/roles-and-teams/)
 
 
 If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mailto:join18f@gsa.gov).
