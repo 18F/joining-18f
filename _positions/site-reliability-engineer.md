@@ -33,4 +33,4 @@ Site Reliability Engineers ensure our platforms and infrastructure systems, as w
 - Create tooling to reduce developer workload in deploying and managing their applications.
 - Evangelize the importance of the platform.
 
-##[Apply to the Site Reliability Engineer role]({{ site.baseurl }}/pages/apply.html)
+##[Apply to the Site Reliability Engineer role](https://jobs.lever.co/18f/690a30dc-0b19-463f-9866-032207412b5f/apply)
