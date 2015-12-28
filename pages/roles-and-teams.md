@@ -8,7 +8,7 @@ Although everyone is officially hired into the GSA as an Innovation Specialist, 
 [**Director of Outreach**]({{ site.baseurl }}/roles-and-teams/positions/director-of-outreach/)
 
 ### Consulting Team
-[**Design and Product Strategist**](https://pages.18f.gov/joining-18f/roles-and-teams/positions/design-and-product-strategist/)
+[**Design and Product Strategist**]({{ site.baseurl }}/roles-and-teams/positions/design-and-product-strategist/)
 
 ### Design Team
 
