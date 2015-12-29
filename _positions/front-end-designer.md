@@ -35,7 +35,7 @@ active: true
 -   Contribute to and help maintain 18F’s [front end standards](https://pages.18f.gov/frontend/).
 
 
-### What's the difference between an 18F front end designer and front end developer?
+## What's the difference between an 18F front end designer and front end developer?
 
 We expect our front end designers to have visual design as well as HTML and CSS, along with some JavaScript experience. They should feel comfortable brainstorming and developing design options to meet user needs; developing wireframes or HTML/CSS prototypes to test their design ideas; and quickly iterating on feedback. However, they are not expected to create, for example, custom illustrations as a pure visual designer might. On the code side, they should feel comfortable working as a front end developer on projects and implementing accessible HTML5 and CSS3. JavaScript experience is a plus, but expertise isn't required.
 
