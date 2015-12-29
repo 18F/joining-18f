@@ -34,11 +34,11 @@ active: true
 -   Work with the 18F design team on what it means to “design in the open.”
 -   Contribute to and help maintain 18F’s [front end standards](https://pages.18f.gov/frontend/).
 
-##[Apply to the Front End Designer role](https://jobs.lever.co/18f/bcb9af9a-460a-48d4-bfaf-a62defe6fb4d/apply)
 
-## What's the difference between an 18F front end designer and front end developer?
+### What's the difference between an 18F front end designer and front end developer?
 
 We expect our front end designers to have visual design as well as HTML and CSS, along with some JavaScript experience. They should feel comfortable brainstorming and developing design options to meet user needs; developing wireframes or HTML/CSS prototypes to test their design ideas; and quickly iterating on feedback. However, they are not expected to create, for example, custom illustrations as a pure visual designer might. On the code side, they should feel comfortable working as a front end developer on projects and implementing accessible HTML5 and CSS3. JavaScript experience is a plus, but expertise isn't required.
 
 By contrast, our front end developers are not expected to have design experience. Instead, they are expected to have much more experience than our front end designers with JavaScript, including strict mode compliance, modularization techniques and tools, and frameworks and libraries. They are expected to be fully comfortable writing vanilla JavaScript, working with APIs, and making front end code perform as efficiently as possible.
 
+##[Apply to the Front End Designer role](https://jobs.lever.co/18f/bcb9af9a-460a-48d4-bfaf-a62defe6fb4d/apply)
