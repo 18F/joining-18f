@@ -2,10 +2,8 @@
 title: Innovation Specialist, GS-0301-13
 permalink: pay-grades/innovation-specialist-gs-13/
 team: 18F
-active: false
+active: true
 ---
-
-##Innovation Specialist, GS-0301-13
 **GS Grade Level:** 13
 
 This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCSIT/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean startup and agile development principles to make easy things easy and hard things possible. 
