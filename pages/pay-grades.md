@@ -12,6 +12,10 @@ It’s important to note that the grade level you select during application subm
 ### Selecting a grade level
 The following information can be used to help you decide what grade level for the Innovation Specialist could be the best fit for you. This language is taken directly from the Innovation Specialist position descriptions against which 18F team members are hired.
 
+- [Innovation Specialist, GS-0301-13]({{ site.baseurl }}/pay-grades/innovation-specialist-gs-13/)
+- [Innovation Specialist, GS-0301-14]({{ site.baseurl }}/pay-grades/innovation-specialist-gs-14/)
+- [Innovation Specialist, GS-0301-15]({{ site.baseurl }}/pay-grades/innovation-specialist-gs-15/)
+
 This information is intended as a guideline only. Use this information to help think about how your qualifications and experience align with the descriptions of each different grade level.
 
 |               | **Grade 13**      |**Grade 14**|**Grade 15**|
