@@ -13,7 +13,7 @@ The first step of the process will be a review of the information that you have 
 
 Once all applications within the two-week cohort have been evaluated, they're given to the selection panel, which will review and identify the applicants that they wish to interview.
 
-*Veterans' preference*
+**Veterans' preference**
 
 Veterans' Preference is also applied following the practices for the Category Rating system. Information about how the preference is applied can be found [here](http://www.fedshirevets.gov/job/vetpref/index.aspx).
 
