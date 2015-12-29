@@ -1,6 +1,6 @@
 ---
 title: Innovation Specialist, GS-0301-13
-permalink: who-we-are-hiring/positions/innovation-specialist-gs-13/
+permalink: pay-grades/innovation-specialist-gs-13/
 team: 18F
 active: false
 ---
