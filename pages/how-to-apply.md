@@ -3,8 +3,7 @@ permalink: /how-to-apply/
 title: How to apply
 ---
 
-##[Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
-
+##[Review current roles and apply to join 18F]({{ site.baseurl }}/roles-and-teams/)
 
 If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mailto:join18f@gsa.gov).
 
@@ -37,9 +36,7 @@ The GSA hiring process includes a tentative offer followed by an official offer.
 
 ### Security clearance
 
-
 All government positions require some kind of background check. Most positions at 18F require a public trust position clearance, which is more thorough than most private-sector background checks but not as intensive as a higher security clearance. The clearance process adds some time and forms to the hiring process, but GSA's human resources team will guide you through it.
-
 
 The questionnaire you'll need to fill out is called [e-QIP](https://www.opm.gov/investigations/e-qip-application/). The questions cover seven years worth of employment and location history, among other things. It may take substantial time to collect contact information for previous employers, as well as old addresses. The e-QIP questionnaire is basically a web version of the [SF-85p](https://www.opm.gov/forms/pdf_fill/sf85p.pdf). This form includes all the questions you'll be asked so you can use it to get a head start.  
 
