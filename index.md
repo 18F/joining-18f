@@ -17,4 +17,4 @@ We will accomplish our mission by:
 * being design-centric, agile, open, and data-driven
 * deploying tools and services early and often
 
-## [Apply to join 18F]({{ site.baseurl }}/roles-and-teams/)
+## [Review current roles and apply to join 18F]({{ site.baseurl }}/roles-and-teams/)
