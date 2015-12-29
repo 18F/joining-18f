@@ -2,7 +2,7 @@
 title: Director of Outreach
 permalink: roles-and-teams/positions/director-of-outreach/
 team: communications
-active: true
+active: false
 ---
 
 ###Role Summary
