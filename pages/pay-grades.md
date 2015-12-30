@@ -10,7 +10,7 @@ The qualification requirements for each position description vary and are based 
 It’s important to note that the grade level you select during application submission will be the grade level at which GSA hires you, should you be found qualified and subsequently selected for hire. If you apply for a grade level and are not found qualified, you can reapply at a different grade level. There is no penalty or restriction to reapplying.
 
 ### Selecting a grade level
-The following information can be used to help you decide what grade level for the Innovation Specialist could be the best fit for you. This language is taken directly from the Innovation Specialist position descriptions against which 18F team members are hired.
+The following information can be used to help you decide what grade level for the Innovation Specialist could be the best fit for you. This language is taken directly from the Innovation Specialist position descriptions against which 18F team members are hired:
 
 - [Innovation Specialist, GS-0301-13]({{ site.baseurl }}/pay-grades/innovation-specialist-gs-13/)
 - [Innovation Specialist, GS-0301-14]({{ site.baseurl }}/pay-grades/innovation-specialist-gs-14/)
