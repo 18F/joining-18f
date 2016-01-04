@@ -7,7 +7,7 @@ active: true
 
 ##Role summary
 
-The Design and Product Strategist is  at the forefront of human&mdash;centered design and culture change within the federal government. As a consultant, you’ll affect how agencies, programs, and individuals perceive and examine problems, dream of solutions, and find innovative ways to make those solutions a successful reality. Depending on the methods you use, you can affect change in a few months (or even days). 
+The Design and Product Strategist is  at the forefront of human-centered design and culture change within the federal government. As a consultant, you’ll affect how agencies, programs, and individuals perceive and examine problems, dream of solutions, and find innovative ways to make those solutions a successful reality. Depending on the methods you use, you can affect change in a few months (or even days). 
 
 You’ll work alongside other 18F Consulting specialists,  who are experts in design, product strategy, technical architecture, software engineering, data science, or procurement. You’ll also be  part of the broader 18F team, which includes more than 100 designers, product strategists, and developers.
 
@@ -16,7 +16,7 @@ Your projects will come from various federal agencies. Some will improve service
 
 ###Key objectives
 
-**Objective \#1: Use human-centered methods, empowering agencies with the process and tools to examine and discover their challenges and opportunities&mdash;whether that be for programs, people, products, or policies.**
+**Objective \#1: Use human-centered methods, empowering agencies with the process and tools to examine and discover their challenges and opportunities &mdash; whether that be for programs, people, products, or policies.**
 
 - Plan and lead user research discovery sprints, and facilitate participatory design workshops; actively listen to all participants.
 - Interview stakeholders to map out relationships and better understand their challenges.
@@ -24,13 +24,13 @@ Your projects will come from various federal agencies. Some will improve service
 - Perform heuristic analysis of existing solutions and teach agency partners design-evaluation methods. 
 - Develop ways to track past challenges and perform ongoing metrics analysis..
 
-**Objective \#2: Explore and propose achievable solutions to well&mdash;scoped problems.** 
+**Objective \#2: Explore and propose achievable solutions to well-scoped problems.** 
 
 - Help teams discover their internal creative thinkers, champions, and &quot;doers.&quot;
 - Facilitate participatory sketching and design studios with users, stakeholders, and designers.
-- Research how other public or private&mdash;sector groups have addressed similar challenges.
-- Devise low&mdash;effort experiments to test and validate different ideas using techniques like prototyping, observation, lean startup, and customer development.
-- Teach agency teams how to mentally take risks, validate ideas, and iterate toward product&mdash;market fit to yield solutions that would not have survived using &quot;business as usual&quot; methods.
+- Research how other public or private-sector groups have addressed similar challenges.
+- Devise low-effort experiments to test and validate different ideas using techniques like prototyping, observation, lean startup, and customer development.
+- Teach agency teams how to mentally take risks, validate ideas, and iterate toward product-market fit to yield solutions that would not have survived using &quot;business as usual&quot; methods.
 
 **Objective \#3: Help agencies move confidently from idea to execution in ways that increase success.**
 
@@ -38,12 +38,12 @@ Your projects will come from various federal agencies. Some will improve service
 - Champion rapid validation and iteration of ideas in a challenging government setting.
 - Lead a product vision session, kickoff, or new project definition session.
 - Teach program managers and key stakeholders how to create a prioritized product roadmap.
-- Teach agile and human&mdash;centered design methods to a product team by facilitating an agile or lean UX workshop.
-- Help agencies create data&mdash;influenced products by measuring user behavior with metrics.
+- Teach agile and human-centered design methods to a product team by facilitating an agile or lean UX workshop.
+- Help agencies create data-influenced products by measuring user behavior with metrics.
 
 **Objective \#4: Ensure successful completion of the contract writing and award processes.**
 
-- Work with 18F Consulting’s acquisition specialists to draft or review procurement documents (for example, Performance Work Statements) so that a human&mdash;centered and agile cross&mdash;functional team can perform the work using current best practices.
+- Work with 18F Consulting’s acquisition specialists to draft or review procurement documents (for example, Performance Work Statements) so that a human-centered and agile cross-functional team can perform the work using current best practices.
 - Include insightful research artifacts in procurement documents to help vendors give enthusiastic proposals and realistic cost estimates.
 - Facilitate culture change inside the government contracting industry by educating stakeholders and contracting officers about design and agile processes.
 - Review proposals from vendors and assess them for design, research, usability testing, and product process acumen.
