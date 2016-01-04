@@ -6,16 +6,12 @@ title: Interview process
 ## Application collection
 Applications are collected and grouped in two-week intervals. All applications collected within each two-week period are treated as a cohort and evaluated against each other.
 
-**Note:** Once an application period ends, no additions or modifications can be made to your application. However, there is no limitation to the number of application periods you apply to.
+**Note:** Once an application period ends, no additions or modifications can be made to your application. However, there is no limit to the number of times you can apply.
 
 ## Application review (Qualification)
-The first step of the process will be a review of the information that you have submitted as part of your application. Applications are evaluated using the practices of the qualification processes called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-authorities/competitive-hiring/#url=Category-Rating). Your application is evaluated against the competencies listed below and placed in one of the following cataegories: Superior Qualified, Best Qualified, Well Qualified, Qualified, or Not Qualified.
+The first step of the process will be a review of the information that you have submitted as part of your application. Applications are evaluated using the practices of the qualification processes called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-authorities/competitive-hiring/#url=Category-Rating). Your application is evaluated against the competencies listed below and placed in one of the following categories: Superior Qualified, Best Qualified, Well Qualified, Qualified, or Not Qualified. We also apply [Veterans' Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx).
 
 Once all applications within the two-week cohort have been evaluated, they're given to the selection panel, which will review and identify the applicants that they wish to interview.
-
-**Veterans' preference**
-
-Veterans' Preference is also applied following the practices for the Category Rating system. Information about how the preference is applied can be found [here](http://www.fedshirevets.gov/job/vetpref/index.aspx).
 
 ## Preliminary screening
 
@@ -54,4 +50,4 @@ Check out more interviewing information for each of our teams.
 	{% endfor %}
 </ul>
 
-Don't see the team you're interviewing with? Design, content, and operations information will be added soon.
+Don't see the team you're interviewing with? Design and operations information will be added soon.
