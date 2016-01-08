@@ -2,7 +2,7 @@
 title: Design and Product Strategist
 permalink: roles-and-teams/positions/design-and-product-strategist/
 team: consulting
-active: true
+active: false
 ---
 
 ##Role summary
