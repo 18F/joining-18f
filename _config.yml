@@ -55,7 +55,7 @@ navigation:
   internal: true
 
 repos:
-- name: Guides Template
+- name: Joining 18F
   description: Main repository
   url: https://github.com/18F/joining-18f
 
