@@ -1,7 +1,7 @@
 
 ---
 title: Technical Account Manager — Cloud.gov 
-permalink:
+permalink: roles-and-teams/positions/technical-account-manager-cloud-dot-gov/
 team: Infrastructure
 active: false
 ---
