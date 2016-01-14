@@ -24,7 +24,7 @@ This position is actually a hybrid between a technical account manager and a bus
 
 
 **Objective \#2: Practice an exceptional level of customer service with all partners, providing a unique, tailored experience.**
-- Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
+— Explain the product to people who have varying levels of technical knowledge — always meet the client where they’re at. 
 - Express empathy through the long compliance and security processes.  
 - Skillfully map specific inquiries to product capabilities, identifying the product that best meets the partner’s needs.
 - Finalize partnerships with other government agencies
