@@ -1,0 +1,77 @@
+/* Initial example from http://codepen.io/andreasmb/pen/tGbyA */
+p {
+  margin: 0 0 1em 0;
+  line-height: 1.4em;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.container {
+  margin: 1em auto;
+}
+.job {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  padding: 40px 30px;
+}
+h1 {
+  font-size: 48px;
+  color: #454545;
+  padding: 0 30px;
+}
+.job-title {
+  font-size: 24px;
+  text-decoration: none;
+  color: #454545;
+}
+
+.job-title:hover {
+  color: #00A0DF;
+}
+
+.tags span {
+  color: #999;
+  font-size: 12px;
+  color: grayMediumDark;
+}
+.tags span:after {
+  content: ', ';
+}
+.tags span:last-of-type:after {
+  content: '';
+}
+.description {
+  color: #999;
+}
+a.btn {
+  display: inline-block;
+  padding: 7px 15px;
+  text-decoration: none;
+  font-weight: normal;
+  color: #fff;
+  font-weight: 700;
+  -webkit-border-radius: 0.3rem;
+  border-radius: 0.3rem;
+  background-color: #5b616b;
+}
+a.btn:hover {
+  background-color: #323a45;
+}
+.jobs-teams {
+  margin-bottom: 40px;
+  padding: 0 30px
+}
+.jobs-teams .btn {
+  margin: 0 8px 8px 0;
+}
+.jobs-teams a.btn:first-of-type {
+  margin-left: 0;
+}
+.jobs-teams a.btn:last-of-type {
+  margin-right: 0;
+}
