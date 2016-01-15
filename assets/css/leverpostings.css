@@ -1,9 +1,4 @@
 /* Initial example from http://codepen.io/andreasmb/pen/tGbyA */
-body {
-  font-family: 'Lato', sans-serif;
-  overflow-y: scroll;
-}
-
 p {
   margin: 0 0 1em 0;
   line-height: 1.4em;
@@ -15,13 +10,8 @@ p {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-section {
-  position: relative;
-  padding: 30px;
-}
 .container {
-  max-width: 960px;
-  margin: 0 auto;
+  margin: 1em auto;
 }
 .job {
   display: inline-block;
@@ -58,25 +48,19 @@ h1 {
 .description {
   color: #999;
 }
-.btn {
+a.btn {
   display: inline-block;
   padding: 7px 15px;
   text-decoration: none;
   font-weight: normal;
-  color: #999;
-  border: 2px solid #ebebeb;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
-  background: #f9f9f9;
-}
-.btn:hover {
-  background: #ebebeb;
-  color: #555;
-}
-.btn.active {
-  background: #454545;
-  border-color: #454545;
   color: #fff;
+  font-weight: 700;
+  -webkit-border-radius: 0.3rem;
+  border-radius: 0.3rem;
+  background-color: #5b616b;
+}
+a.btn:hover {
+  background-color: #323a45;
 }
 .jobs-teams {
   margin-bottom: 40px;
@@ -85,9 +69,9 @@ h1 {
 .jobs-teams .btn {
   margin: 0 8px 8px 0;
 }
-.jobs-teams .btn:first-of-type {
+.jobs-teams a.btn:first-of-type {
   margin-left: 0;
 }
-.jobs-teams .btn:last-of-type {
+.jobs-teams a.btn:last-of-type {
   margin-right: 0;
 }
