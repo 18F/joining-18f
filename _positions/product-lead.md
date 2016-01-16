@@ -10,7 +10,6 @@ An 18F Product Lead is responsible for managing the development, delivery, and c
 
 At this time, we are only hiring Product Leads who are able to work out of our offices in Chicago, D.C. or San Francisco or our coworking space in New York City.
 
-
 ###Key Objectives
 **Objective #1: You will assemble and lead a cross-functional team to deliver the right product for an agency partner client using agile-based methodologies.**
 
