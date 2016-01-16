@@ -8,7 +8,7 @@ active: true
 ###Role Summary
 An 18F Product Lead is responsible for managing the development, delivery, and continuous improvement of products while establishing and managing our relationship with our partners (clients). As a product lead, you’ll work with the 18F intake team to evaluate potential work and communicate to potential clients, partner with the finance and contracts team to close deals, and work with cross-functional teams to deliver the right product in the right way.
 
-At this time, we are only hiring Product Leads who are able to work out of our offices in Chicago, D.C., San Francisco or able to work out of our coworking space in NYC. 
+At this time, we are only hiring Product Leads who are able to work out of our offices in Chicago, D.C. or San Francisco or our coworking space in New York City.
 
 
 ###Key Objectives
