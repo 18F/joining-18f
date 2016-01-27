@@ -61,9 +61,6 @@ repos:
 
 # Collections
 collections:
-  positions:
-    permalink: /positions/:title/
-    output: true
   interviews:
     permalink: /interviews/:title/
     output: true
