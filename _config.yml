@@ -64,6 +64,8 @@ collections:
   interviews:
     permalink: /interviews/:title/
     output: true
+  positions:
+    output: true
 
 google_analytics_ua: UA-48605964-19
 
