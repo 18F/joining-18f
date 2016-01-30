@@ -55,17 +55,16 @@ navigation:
   internal: true
 
 repos:
-- name: Guides Template
+- name: Joining 18F
   description: Main repository
   url: https://github.com/18F/joining-18f
 
 # Collections
 collections:
-  positions:
-    permalink: /positions/:title/
-    output: true
   interviews:
     permalink: /interviews/:title/
+    output: true
+  positions:
     output: true
 
 google_analytics_ua: UA-48605964-19
