@@ -19,4 +19,4 @@ We will accomplish our mission by:
 
 We know, there is a lot of information on this site, which can be intimidating. Federal hiring processes are more complex than most other places, so we want to make sure you have all the information you need. We're happy you're interested in joining the team!
 
-## [Review current roles and apply to join 18F]({{ site.baseurl }}/roles-and-teams/)
+## [Review open positions and apply to join 18F]({{ site.baseurl }}/roles-and-teams/)
