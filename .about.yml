@@ -1,0 +1,28 @@
+---
+name: joining-18f
+full_name: Joining 18F
+type: app
+owner_type: project
+status: active
+stage: live
+testable: false
+description: >
+  A guide for anyone interested in joining the 18F team.
+impact: >
+  Improving the experience of applying to 18F; helping to grow the team.
+stack:
+- Jekyll
+licenses:
+  .joining-18f:
+    name: CC0
+    url: https://github.com/18F/joining-18f/blob/18f-pages/LICENSE.md
+contact:
+- url: https://github.com/18F/joining-18f/issues
+team:
+- github: fureigh
+  role: technical lead
+- github: rooneywp
+  role: product lead
+- github: jme
+links:
+- https://join.18f.gov
