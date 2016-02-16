@@ -20,7 +20,7 @@ This information is intended as a guideline only. Use this information to help t
 
 |               | **Grade 13**      |**Grade 14**|**Grade 15**|
 | -----------------:|:-------------:| :-----:| :-----:|
-| **Base Compensation**     | $73,115 to $95,048 | $86,399 to  $112,319 |$101,630 to $132,122|
+| **Base Compensation**     | $73,846 to $96,004 | $87,263 to $113,444 |$102,646 to $133,444|
 | **Supervisory**     | You work with a supervisor to develop deadlines, projects, and work to be done     |  Your supervisor only provides direction in terms of broadly defined missions | Your supervisor only provides direction in terms of broadly defined missions|
 | **Supervisory** | Your supervisor reviews your work from an overall standpoint to ensure its effectiveness in meeting requirements    |    The results of your work are accepted without change | The results of your work are considered technically authoritative and can be used to establish best practices|
 | **Supervisory**     | You independently carry out the assignments, resolving issues as they arise and collaborating with others when necessary | You independently plan, design, and execute programs or projects | You independently plan, develop, and execute vital programs that resolve critical problems and lead to the development of new theories|
@@ -36,12 +36,12 @@ Find out more about the GS system from the [Office of Personnel Management (OPM)
 ### Compensation in the GS pay system
 GS grade levels specify a fixed compensation range for a particular position within the federal government. This is also true for 18F, so understanding the relationship between GS grade level and compensation is important when considering applying to our organization.
 
-**Please note:** the annual **base** salary cap for all federal employees is $158,700. You cannot be offered more than this under any circumstance. See below for more information about how locality pay affects your actual salary.
+**Please note:** the annual **base** salary cap for all federal employees is $160,300. You cannot be offered more than this under any circumstance. See below for more information about how locality pay affects your actual salary.
 
-New team members can currently join 18F at GS 13, GS 14 and GS 15. Here are the base compensation ranges for each grade level taken from the [OPM SALARY TABLE 2015-GS](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/15Tables/html/GS.aspx):
-- Grade 13 – $73,115 to $95,048
-- Grade 14 – $86,399 to $112,319
-- Grade 15 – $101,630 to $132,122
+New team members can currently join 18F at GS 13, GS 14 and GS 15. Here are the base compensation ranges for each grade level taken from the [OPM SALARY TABLE 2015-GS](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/16Tables/html/GS.aspx):
+- Grade 13 – $73,846 to $96,004
+- Grade 14 – $87,263 to $113,444
+- Grade 15 – $102,646 to $133,444
 
 **Those ranges are the base rate only; they do not include adjustments for locality pay.** 
 
@@ -49,9 +49,9 @@ Locality pay is how the GS pay system accounts for regional variation in cost of
 
 | |Base (No Locality) |Washington DC Locality | San Francisco Locality |
 |---:|:---:|:---:|:---:|
-|**Grade 14**| $86,399|$107,325|$116,768|
+|**Grade 14**| $87,263|$108,887|$118,460|
 
-**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2015/general-schedule-gs-salary-calculator/) if you'd like to see how your locality affects compensation.**
+**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/) if you'd like to see how your locality affects compensation.**
 
 Locality pay is a geographic-based percentage rate that reflects pay levels for non-federal workers in certain geographic areas as determined by [surveys conducted by the U.S. Bureau of Labor Statistics](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/bls-data/). There are currently [34 locality pay areas](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/locality-pay-areas/), which cover the lower 48 states and Washington, D.C., plus Alaska, Hawaii, and the U.S. territories and possessions.
 
