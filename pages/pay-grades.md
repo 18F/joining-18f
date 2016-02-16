@@ -36,7 +36,7 @@ Find out more about the GS system from the [Office of Personnel Management (OPM)
 ### Compensation in the GS pay system
 GS grade levels specify a fixed compensation range for a particular position within the federal government. This is also true for 18F, so understanding the relationship between GS grade level and compensation is important when considering applying to our organization.
 
-**Please note:** the annual **base** salary cap for all federal employees is $158,700. You cannot be offered more than this under any circumstance. See below for more information about how locality pay affects your actual salary.
+**Please note:** the annual **base** salary cap for all federal employees is $160,300. You cannot be offered more than this under any circumstance. See below for more information about how locality pay affects your actual salary.
 
 New team members can currently join 18F at GS 13, GS 14 and GS 15. Here are the base compensation ranges for each grade level taken from the [OPM SALARY TABLE 2015-GS](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/16Tables/html/GS.aspx):
 - Grade 13 – $73,846 to $96,004
