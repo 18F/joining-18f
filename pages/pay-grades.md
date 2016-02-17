@@ -31,7 +31,7 @@ This information is intended as a guideline only. Use this information to help t
 ### General Schedule – Grade Levels
 Federal employees are hired at a general schedule (GS) grade from 1 to 15. GS grades are based on the combination of a number of variables including education, background, accomplishments, experience, etc. Inside each grade is a series of 10 steps. Employees typically start at step 1 of whatever GS grade they are assigned. 
 
-Find out more about the GS system from the [Office of Personnel Management (OPM)] (https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).
+Find out more about the GS system from the [Office of Personnel Management (OPM)](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).
 
 ### Compensation in the GS pay system
 GS grade levels specify a fixed compensation range for a particular position within the federal government. This is also true for 18F, so understanding the relationship between GS grade level and compensation is important when considering applying to our organization.
