@@ -19,6 +19,12 @@ p {
   width: 50%;
   padding: 40px 30px;
 }
+@media screen and (max-width: 45em) {
+  .job {
+      width: 100%;
+      padding: 20px 0px;
+    }
+}
 h1 {
   font-size: 48px;
   color: #454545;
