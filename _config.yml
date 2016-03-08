@@ -32,8 +32,8 @@ navigation:
 - text: Who we are hiring
   url: who-we-are-hiring/
   internal: true
-- text: Roles and teams
-  url: roles-and-teams/
+- text: Open positions
+  url: open-positions/
   internal: true
 - text: How to apply
   url: how-to-apply/
