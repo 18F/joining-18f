@@ -1,7 +1,6 @@
 ---
-title: Open positions
-permalink: /open-positions/
-redirect_from: /roles-and-teams
+title: Roles and teams
+permalink: /roles-and-teams/
 styles: assets/css/leverpostings.css
 scripts: assets/js/leverpostings.js
 ---
