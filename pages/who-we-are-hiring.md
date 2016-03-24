@@ -14,4 +14,11 @@ We’re building a team that looks like the United States, and we don't discrimi
 
 Everywhere in the United States! Most of our team is distributed across the country in places like Chicago, New York, Raleigh, Tucson, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) In some cases we'll ask you to work out of our offices in San Francisco, Chicago, or D.C. Unfortunately, we can't provide relocation assistance.
 
+## Okay, but who works at 18F?
+
+To get a better sense, see how some of us answered:
+ * [What project have you loved working on?](https://18f.gsa.gov/2016/03/23/what-have-you-loved-working-on/)
+ * [What was your path to 18F?](https://18f.gsa.gov/2016/03/22/what-was-your-path-to-18f/) and
+ * [Why did you join 18F?](https://18f.gsa.gov/2016/03/21/we-asked-100-of-our-coworkers-why-did-you-join-18f/)
+
 {% include apply-link.md %}
