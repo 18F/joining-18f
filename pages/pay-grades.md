@@ -40,7 +40,7 @@ The annual salary cap for all GS employees is $160,300 per year. You cannot be o
 
 Each GS grade level contains a series of 10 steps which also have an impact on compensation. A new GS employee is usually hired at step 1 of the applicable GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
 
-**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/) if you'd like to see how GS leve, step, and locality affects compensation.**
+**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/) if you'd like to see how GS level, step, and locality affects compensation.**
 
 ### What does this "not to exceed two years" mean? 
 
