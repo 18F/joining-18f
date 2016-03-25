@@ -34,28 +34,13 @@ Federal employees are hired at a general schedule (GS) grade from 1 to 15. GS gr
 Find out more about the GS system from the [Office of Personnel Management (OPM)](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/).
 
 ### Compensation in the GS pay system
-GS grade levels specify a fixed compensation range for a particular position within the federal government. This is also true for 18F, so understanding the relationship between GS grade level and compensation is important when considering applying to our organization.
+GS grade levels specify a fixed compensation range for a particular position, in particular geographic localities, within the federal government. This is also true for 18F, so understanding the relationship between GS grade level, location, and compensation is important when considering applying to our organization.
 
-**Please note:** the annual **base** salary cap for all federal employees is $133,444. You cannot be offered more than this under any circumstance. See below for more information about how locality pay affects your actual salary.
-
-New team members can currently join 18F at GS 13, GS 14 and GS 15. Here are the base compensation ranges for each grade level taken from the [OPM SALARY TABLE 2015-GS](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/16Tables/html/GS.aspx):
-- Grade 13 – $73,846 to $96,004
-- Grade 14 – $87,263 to $113,444
-- Grade 15 – $102,646 to $133,444
-
-**Those ranges are the base rate only; they do not include adjustments for locality pay.** 
-
-Locality pay is how the GS pay system accounts for regional variation in cost of living. Here are locality pay examples for Washington, D.C. and San Francisco:
-
-| |Base (No Locality) |Washington DC Locality | San Francisco Locality |
-|---:|:---:|:---:|:---:|
-|**Grade 14**| $87,263|$108,887|$118,460|
-
-**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/) if you'd like to see how your locality affects compensation.**
-
-Locality pay is a geographic-based percentage rate that reflects pay levels for non-federal workers in certain geographic areas as determined by [surveys conducted by the U.S. Bureau of Labor Statistics](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/bls-data/). There are currently [34 locality pay areas](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/fact-sheets/tabs/locality-pay-areas/), which cover the lower 48 states and Washington, D.C., plus Alaska, Hawaii, and the U.S. territories and possessions.
+The annual salary cap for all GS employees is $160,300 per year. You cannot be offered more than this under any circumstance. 
 
 Each GS grade level contains a series of 10 steps which also have an impact on compensation. A new GS employee is usually hired at step 1 of the applicable GS grade. However, in special circumstances, agencies may authorize a higher step rate for a newly-appointed federal employee based on a [special need of the agency or superior qualifications of the prospective employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/superior-qualifications-and-special-needs-pay-setting-authority/).
+
+**Try the [GS Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/) if you'd like to see how GS leve, step, and locality affects compensation.**
 
 ### What does this "not to exceed two years" mean? 
 
