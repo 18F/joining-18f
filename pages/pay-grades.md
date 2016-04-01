@@ -55,9 +55,7 @@ Each GS grade level contains a series of 10 steps which also have an impact on c
 
 ### What does this "not to exceed two years" mean? 
 
-Most 18F members are "not to exceed" (NTE) employees. NTE is  the hiring mechanism we've chosen to use, and it’s part of what has allowed us to grow so fast. The "not to exceed" guidance means you cannot work at 18F in the same  position description for more than four years total. Both your tentative and final offer letters state that you can work at 18F for two years, but you’re also eligible to extend your term for another two years (provided you meet certain performance criteria). The only reason your position would not be automatically extended is if you failed to adequately perform your job duties.
-
-
+Most 18F members are "not to exceed" (NTE) employees. NTE is  the hiring mechanism we've chosen to use, and it’s part of what has allowed us to grow so fast. The "not to exceed" guidance means you cannot work at 18F in the same position description for more than four years total. Both your tentative and final offer letters state that you can work at 18F for two years, but you’re also eligible to extend your term for another two years, provided you meet certain performance criteria. The only reason your position would not be automatically extended is if you failed to adequately perform your job duties.
 
 ### When will I get a step increase?
 
