@@ -5,7 +5,7 @@ redirect_from: /roles-and-teams/
 styles: assets/css/leverpostings.css
 scripts: assets/js/leverpostings.js
 ---
-Although everyone is officially hired into the GSA as an Innovation Specialist, our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.** The application form will specify any location restrictions.
+Our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.** The application form will specify any location restrictions.
 
 Below is a list of our current needs. They change frequently, so check back often!
 
