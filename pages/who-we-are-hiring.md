@@ -8,7 +8,7 @@ Any individual who is not currently a GSA employee or contractor and who is a U.
 
 ## 18F is an Equal Opportunity Employer
 
-We’re building a team that looks like the United States, and we don't discriminate based on race, color, religion, sex, gender identity or expression, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor. If you have the skills we need, that’s all that matters.
+We’re building a team that looks like the United States, and we don't discriminate based on race, color, religion, sex, gender identity or expression, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factors. If you have the skills we need, that’s all that matters.
 
 ## Where we are hiring
 
