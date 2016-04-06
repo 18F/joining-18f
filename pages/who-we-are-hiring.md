@@ -17,6 +17,7 @@ Everywhere in the United States! Most of our team is distributed across the coun
 ## Okay, but who works at 18F?
 
 To get a better sense, see how some of us answered:
+
  * [What project have you loved working on?](https://18f.gsa.gov/2016/03/23/what-have-you-loved-working-on/)
  
  * [What was your path to 18F?](https://18f.gsa.gov/2016/03/22/what-was-your-path-to-18f/) and
