@@ -7,9 +7,9 @@ scripts: assets/js/leverpostings.js
 ---
 
 ###Important Announcement###
-On May 1, we’ll be taking down our open positions for a short application intake hiatus. During that time, we’ll be evolving how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June. However, if that changes, we’ll update you accordingly.  
+On May 1, we’ll be taking down our open positions for a short application intake hiatus. During that time, we’ll be evolving how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June and suggest that you check back here at that time.
 
-Before May 1, we encourage you to submit an application to one of our open positions. All applications that are submitted before that date will be considered.
+If you are thinking of applying, we encourage you to submit an application as soon as possible, as we will consider all applications submitted **before May 1**.
 
 During our short intake hiatus, we would still love to hear from you. If you’re interested in joining our team or want to know more about what it’s like to be part of 18F, please send us a note at join18F@gsa.gov and the talent team will respond. 
 
