@@ -23,7 +23,7 @@ If you would like to recieve a notification when we resume application intake, p
 <form action="//gsa.us9.list-manage.com/subscribe/post?u=6f1977de9eff4c384dc8d6527&amp;id=a78bd73141" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
    <div id="mc_embed_signup_scroll">
     <h2>Subscribe to receive updates about open roles</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">&#42;</span> indicates required</div>
 <div class="mc-field-group">
     <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
