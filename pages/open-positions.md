@@ -11,7 +11,7 @@ On May 1, we’ll be taking down our open positions for a short application inta
 
 If you are thinking of applying, we encourage you to submit an application as soon as possible, as we will consider all applications submitted **on or before May 1**.
 
-During our short intake hiatus, we would still love to hear from you. If you’re interested in joining our team or want to know more about what it’s like to be part of 18F, please send us a note at join18F@gsa.gov and the Talent Team will respond. 
+During our short intake hiatus, we would still love to hear from you. If you’re interested in joining our team or want to know more about what it’s like to be part of 18F, please send us a note at join18F@gsa.gov and the talent team will respond. 
 
 ---
 Our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.** The application form will specify any location restrictions.
