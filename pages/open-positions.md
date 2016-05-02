@@ -2,8 +2,6 @@
 title: Open positions
 permalink: /open-positions/
 redirect_from: /roles-and-teams/
-styles: assets/css/leverpostings.css
-scripts: assets/js/leverpostings.js
 ---
 
 We're pausing applications while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
