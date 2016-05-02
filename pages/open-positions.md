@@ -8,12 +8,12 @@ scripts: assets/js/leverpostings.js
 
 Our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.**
 
-###Important Announcement###
-We have taken down our open positions for a short application intake hiatus. During this time, we’ll be evolving how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June and suggest that you check back here at that time.
+###Important announcement###
+We're taking a short application intake hiatus while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
 
-If you would like to receive a notification when we resume application intake, please fill out the form below.
+To receive a notification once we're accepting applications again, please fill out the form below.
 
-During our short intake hiatus, we'd still love to hear from you. If you’re interested in joining our team or want to know more about what it’s like to be part of 18F, please send a note to join18f@gsa.gov and the Talent Team will respond.
+We'd still love to hear from you during this short hiatus. If you’re interested in joining the team or want to know more about what it’s like to be part of 18F, please send a note to join18f@gsa.gov.
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
