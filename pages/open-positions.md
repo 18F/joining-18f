@@ -6,9 +6,6 @@ styles: assets/css/leverpostings.css
 scripts: assets/js/leverpostings.js
 ---
 
-Our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.**
-
-###Important announcement###
 We're taking a short application intake hiatus while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
 
 To receive a notification once we're accepting applications again, please fill out the form below.
