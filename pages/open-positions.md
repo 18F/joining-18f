@@ -6,7 +6,7 @@ styles: assets/css/leverpostings.css
 scripts: assets/js/leverpostings.js
 ---
 
-We're taking a short application intake hiatus while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
+We're pausing applications while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
 
 To receive a notification once we're accepting applications again, please fill out the form below.
 
