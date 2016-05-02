@@ -6,9 +6,7 @@ redirect_from: /roles-and-teams/
 
 We're pausing applications while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
 
-To receive a notification once we're accepting applications again, please fill out the form below.
-
-We'd still love to hear from you during this short hiatus. If you’re interested in joining the team or want to know more about what it’s like to be part of 18F, please send a note to join18f@gsa.gov.
+If you’re interested in joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to join18f@gsa.gov.
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
