@@ -14,6 +14,10 @@ We’re building a team that looks like the United States, and we don't discrimi
 
 **Everywhere in the United States!** Most of our team is distributed across the country in places like Chicago, New York, Raleigh, Tucson, Austin, Dayton, Philadelphia, San Diego, Seattle, and Portland. [Read more about how our work culture supports distributed teams.](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/) In some cases we'll ask you to work out of our offices in San Francisco, Chicago, or D.C. Unfortunately, we can't provide relocation assistance.
 
+## What roles we're hiring
+
+Our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.**
+
 ## Okay, but who works at 18F?
 
 To get a better sense, see how some of us answered:
