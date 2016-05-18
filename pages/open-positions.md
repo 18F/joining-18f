@@ -37,7 +37,6 @@ If you’re interested in joining the team, please leave your name and email bel
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>
     </div>
-   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6f1977de9eff4c384dc8d6527_a78bd73141" tabindex="-1" value=""></div>
    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
    </div>
 </form>
