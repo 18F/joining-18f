@@ -4,7 +4,7 @@ permalink: /open-positions/
 redirect_from: /roles-and-teams/
 ---
 
-We're pausing applications while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June.
+We're pausing applications while we evolve how 18F plans for open roles. We estimate that we’ll post new open positions at the end of June.
 
 If you’re interested in joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
