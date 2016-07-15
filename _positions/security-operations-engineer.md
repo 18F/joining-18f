@@ -5,8 +5,6 @@ team: 18F
 active: true
 ---
 
-# Security Operations Engineer
-
 18F is looking for talented security engineers to join our team and help us build secure applications. This is a unique opportunity to help re-define how the government builds secure software. You’ll be a key contributor in helping to secure the tools and technology that the American people use to interact with the government. [18F is an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
 
 **This role is perfect for you if you love building and improving infrastructure systemically.** You should be excited to build automated systems that address security issues before they happen.
