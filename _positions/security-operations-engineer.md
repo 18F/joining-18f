@@ -15,10 +15,10 @@ active: true
 
 ### You will:
 
-° Develop and operate process and tools around cloud-based solutions, particularly AWS and Cloud Foundry.
-° Detect, respond to and lead the remediation for security events.
-° Develop and implement tools and/or procedures for detecting and remediating malicious activity.
-° Work in partnership with teams at 18F and/or other agencies to improve their security posture and detection/response capabilities.
+* Develop and operate process and tools around cloud-based solutions, particularly AWS and Cloud Foundry.
+* Detect, respond to and lead the remediation for security events.
+* Develop and implement tools and/or procedures for detecting and remediating malicious activity.
+* Work in partnership with teams at 18F and/or other agencies to improve their security posture and detection/response capabilities.
 * Collaborate with 18F’s infrastructure and fellow engineering staff to develop operational security best practices.
 
 ### Requirements:
