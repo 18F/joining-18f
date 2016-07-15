@@ -7,6 +7,7 @@ redirect_from: /roles-and-teams/
 We're briefly pausing applications while we evolve how 18F plans for open roles.
 
 Three positions remain open during this time:
+
 - [Application Security Engineer]({{ site.baseurl }}/infosec/application-security-engineer/)
 - [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
 - [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
