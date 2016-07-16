@@ -6,7 +6,13 @@ redirect_from: /roles-and-teams/
 
 We're briefly pausing applications while we evolve how 18F plans for open roles.
 
-If you’re interested in joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
+Three positions remain open during this time:
+
+- [Application Security Engineer]({{ site.baseurl }}/infosec/application-security-engineer/)
+- [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
+- [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
+
+If you’re interested in otherwise joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
