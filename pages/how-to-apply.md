@@ -9,7 +9,7 @@ If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mai
 
 ## Documents required for the hiring process
 
-**When you apply, you’ll need to include a current, government-style resume.** Government-style resumes are very different from private-sector resumes. [Here is a guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) and some [example](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf) [resumes](http://www.jobs.irs.gov/downloads/ResumeTips.pdf). Please overexplain, include dates of each engagement, and include everything and the kitchen sink.
+**When you apply, you’ll need to include a current, government-style resume.** Government-style resumes are very different from private-sector resumes. [Here is a guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) and some [example](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf) [resumes](https://www.fws.gov/workforwildlife/documents/FedResHandbook.pdf). Please overexplain, include dates of each engagement, and include everything and the kitchen sink.
 
 **Later, after you’ve passed through the 18F [interview
 phase]({{ site.baseurl }}/interview-process/)**, your point of contact on the 18F Talent Team will ask you for three professional references (names, titles, and email addresses). Once we hear back from them, the GSA HR Team will ask you for additional documents in order to proceed with the hiring process.  
