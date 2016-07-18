@@ -3,6 +3,7 @@ title: Penetration Tester
 permalink: infosec/penetration-tester/
 team: 18F
 active: true
+description: "18F is hiring a Penetration Tester to help re-define how the government builds secure software. This role is perfect for you if you love 'breaking' systems to make them better. You should be excited to get to find exploits in our software — and then work with us to fix them!"
 ---
 
 18F is looking for talented security engineers to join our team and help us build secure applications. This is a unique opportunity to help re-define how the government builds secure software. You’ll be a key contributor in helping to secure the tools and technology that the American people use to interact with the government. [18F is an open source team](https://18f.gsa.gov/2014/07/29/18f-an-open-source-team/), so most of what you work on will be open source.
