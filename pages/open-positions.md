@@ -12,7 +12,7 @@ These are the only roles that we are hiring for; as new roles become available t
 - [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
 - [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
 
-If you’re interested in otherwise joining the team, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a> and we'll let you know when new roles open up.
+If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
 ## See also
 If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.whitehouse.gov/digital/united-states-digital-service).
