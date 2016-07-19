@@ -1,3 +1,9 @@
+# Site metadata.
+title: Joining 18F
+url: https://pages.18f.gov/joining-18f
+description: Information on open positions at 18F, and how to join.
+
+
 markdown: redcarpet
 name: Joining 18F
 exclude:

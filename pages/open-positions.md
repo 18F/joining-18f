@@ -2,6 +2,7 @@
 title: Open positions
 permalink: /open-positions/
 redirect_from: /roles-and-teams/
+description: "Open positions at 18F."
 ---
 
 We're briefly pausing applications while we evolve how 18F plans for open roles.
