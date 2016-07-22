@@ -12,7 +12,7 @@ These are the only roles that we are hiring for; as new roles become available t
 - [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
 - [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
 
-If you'd like, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter), which also includes updates about open roles. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
+If you'd like, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter), which also includes updates about open roles.
 
 We know that the application and hiring process for the federal government can be confusing at times, if you have questions or need a little guidance, please feel free to contact us at <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
