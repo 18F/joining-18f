@@ -4,17 +4,51 @@ permalink: /open-positions/
 redirect_from: /roles-and-teams/
 description: "Open positions at 18F."
 ---
-The positions that we currently have available at 18F are posted here. These positions utilize a [Direct Hiring Authority](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/#url=Fact-Sheet). This differs slightly from the usual 18F process listed on our site but our talent team staff will guide you through the process. 
 
-These are the only roles that we are hiring for; as new roles become available they'll be listed here.
+We're briefly pausing applications while we evolve how 18F plans for open roles.
+
+Three positions remain open during this time:
 
 - [Application Security Engineer]({{ site.baseurl }}/infosec/application-security-engineer/)
 - [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
 - [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
 
-If you'd like, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter), which also includes updates about open roles. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
+If you’re interested in otherwise joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
-We know that the application and hiring process for the federal government can be confusing at times, if you have questions or need a little guidance, please feel free to contact us at <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//gsa.us9.list-manage.com/subscribe/post?u=6f1977de9eff4c384dc8d6527&amp;id=a78bd73141" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+   <div id="mc_embed_signup_scroll">
+    <h2>Subscribe to receive updates about open roles</h2>
+<div class="mc-field-group">
+    <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+</label>
+    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+    <label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
+</label>
+    <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+</div>
+<div class="mc-field-group">
+    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>
+   <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+   </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 ## See also
 If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.whitehouse.gov/digital/united-states-digital-service).
