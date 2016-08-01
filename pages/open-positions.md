@@ -4,7 +4,9 @@ permalink: /open-positions/
 redirect_from: /roles-and-teams/
 description: "Open positions at 18F."
 ---
+The positions that we currently have available at 18F are posted here. These positions utilize a [Direct Hiring Authority](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/#url=Fact-Sheet). This differs slightly from the usual 18F process listed on our site but our talent team staff will guide you through the process. 
 
+<<<<<<< HEAD
 We're briefly pausing applications while we evolve how 18F plans for open roles.
 
 If you’re interested in otherwise joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
@@ -43,6 +45,17 @@ If you’re interested in otherwise joining the team, please leave your name and
 </form>
 </div>
 <script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+=======
+These are the only roles that we are hiring for; as new roles become available they'll be listed here.
+
+- [Application Security Engineer]({{ site.baseurl }}/infosec/application-security-engineer/)
+- [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
+- [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
+
+If you'd like, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter), which also includes updates about open roles.
+
+We know that the application and hiring process for the federal government can be confusing at times, if you have questions or need a little guidance, please feel free to contact us at <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
+>>>>>>> 18f-pages
 
 ## See also
 If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.usds.gov/join).
