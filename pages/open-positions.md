@@ -7,12 +7,6 @@ description: "Open positions at 18F."
 
 We're briefly pausing applications while we evolve how 18F plans for open roles.
 
-Three positions remain open during this time:
-
-- [Application Security Engineer]({{ site.baseurl }}/infosec/application-security-engineer/)
-- [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
-- [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
-
 If you’re interested in otherwise joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -22,7 +16,7 @@ If you’re interested in otherwise joining the team, please leave your name and
        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//gsa.us9.list-manage.com/subscribe/post?u=6f1977de9eff4c384dc8d6527&amp;id=a78bd73141" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://gsa.us9.list-manage.com/subscribe/post?u=6f1977de9eff4c384dc8d6527&amp;id=a78bd73141" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
    <div id="mc_embed_signup_scroll">
     <h2>Subscribe to receive updates about open roles</h2>
 <div class="mc-field-group">
@@ -48,7 +42,7 @@ If you’re interested in otherwise joining the team, please leave your name and
    </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 ## See also
-If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.whitehouse.gov/digital/united-states-digital-service).
+If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.usds.gov/join).
