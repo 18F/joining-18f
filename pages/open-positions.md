@@ -4,13 +4,9 @@ permalink: /open-positions/
 redirect_from: /roles-and-teams/
 description: "Open positions at 18F."
 ---
-The positions that we currently have available at 18F are posted here. These positions utilize a [Direct Hiring Authority](https://www.opm.gov/policy-data-oversight/hiring-information/direct-hire-authority/#url=Fact-Sheet). This differs slightly from the usual 18F process listed on our site but our talent team staff will guide you through the process. 
+We're briefly pausing applications while we evolve how 18F plans for open roles.
 
-These are the only roles that we are hiring for; as new roles become available they'll be listed here.
-
-- [Application Security Engineer]({{ site.baseurl }}/infosec/application-security-engineer/)
-- [Penetration Tester]({{ site.baseurl }}/infosec/penetration-tester/)
-- [Security Operations Engineer]({{ site.baseurl }}/infosec/security-operations-engineer/)
+If you’re interested in joining the team, please leave your name and email below and we'll let you know when we're hiring again. If you want to know more about what it’s like to be part of 18F, please send a note to <a href="mailto:join18f@gsa.gov">join18f@gsa.gov</a>.
 
 If you'd like, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter), which also includes updates about open roles.
 
