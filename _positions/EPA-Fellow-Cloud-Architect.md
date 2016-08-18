@@ -16,7 +16,7 @@ In addition to having a technical skills and experience in modern cloud computin
 
 You must also understand enterprise and industry (DevOps) best practices for managing and streamlining change management processes. You will be a critical component of the team responsible for delivering strategic services and deploying capabilities in the cloud. You will work alongside executive leadership as well as our users to provide technical thought leadership to deliver new cloud infrastructure and ensure new and existing applications are matured to include to new cloud infrastructure capabilities.
 
-As an cloud architect and solutions engineer, the you will be responsible for providing the technical support and expertise to analyze requirements, in conjunction with the current network topology and infrastructure architecture to deliver technical solutions to enhance and mature the delivery of agency services, utilizing modern cloud-based services.
+As an cloud architect and solutions engineer, you will be responsible for providing the technical support and expertise to analyze requirements, in conjunction with the current network topology and infrastructure architecture to deliver technical solutions to enhance and mature the delivery of agency services, utilizing modern cloud-based services.
 
 ###Key Objectives:
 **You will serve as the innovative technical leader in the modernization efforts for the the highly complex and significant systems and services provided by NCC.**
