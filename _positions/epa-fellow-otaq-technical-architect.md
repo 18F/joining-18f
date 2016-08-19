@@ -3,6 +3,7 @@ title: EPA Innovation Fellow - OTAQ - Technical Architect
 permalink: raas/epa/otaq-technical-architect/
 team: epa
 active: true
+descrition: Job posting for the EPA fellow role of OTAQ Technical Architect.
 ---
 
 *Please Note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
