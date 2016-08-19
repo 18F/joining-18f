@@ -1,6 +1,6 @@
 ---
 title: EPA Innovation Fellow - Cloud Architect/Infrastructure Engineer
-permalink: raas/epa/cloud-architect
+permalink: raas/epa/cloud-architect/
 team: epa
 active: true
 ---
