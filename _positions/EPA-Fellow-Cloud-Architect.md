@@ -1,14 +1,32 @@
 ---
 title: EPA Innovation Fellow - Cloud Architect/Infrastructure Engineer
-permalink:
-team: RaaS
+permalink: raas/epa/cloud-architect
+team: epa
 active: true
 ---
 
-*Please Note: This role is for the Environmental Protection Agency's Innovation Fellowship Program, not 18F.*
+*Please Note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
 
 #Cloud Architect/Infrastructure Engineer
 
+###Basic Information:
+
+**Agency:** [Environmental Protection Agency (EPA)](https://www3.epa.gov/)
+
+**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+
+**Compensation/Grade Level:** GS-14.GS-15
+- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
+- [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
+
+**Key Requirements:** U.S. Citizenship is required.
+
+**Security Clearance:** Public Trust - Background Investigation Required
+
+**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+
+Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like working at the EPA
+ 
 ###Role Summary:
 We are looking for a technical leader to seize on a unique opportunity to develop, implement and support both private, public and hybrid cloud hosting services for the organization. You will be providing the technical leadership for the design, planning, integration, testing and delivery of key modernization initiatives in order to promote improvements in the security, agility, responsiveness, and capital efficiency of EPA’s IT infrastructure and customer delivery services.
 
@@ -23,15 +41,12 @@ As an cloud architect and solutions engineer, you will be responsible for provid
 - Lead a technical integrated project team through design, development, automation, and integration of systems and applications selected for migration to cloud-based services
 - Perform hands-on solution design, solution architectures, architecture roadmaps, prototyping, proof-of-concepts, and development tasks
 - Manage the design and development with an API first mindset using reusable components and operational strategies leveraging cloud services to support scalability, availability, performance, monitoring, backup, etc, to improve the security, resiliency, and agility of infrastructure and applications
-- Ensure strategic alignment of technical design/architecture to meet business growth and direction.
+- Ensure strategic alignment of technical design/architecture to meet business growth and direction
 - Leverage native cloud capabilities such as data storage, performance, and security enhancements, as well as auto-scaling and performance/capacity management to promote technical improvements in the defendability and cost efficiency of the agency infrastructure services
 - Contribute high-quality, well-tested, maintainable infrastructure configurations, including code-based automation, to successfully impact the efficiency and effectiveness across the entire project lifecycle, using modern software development, open source, and industry best practices
 
 **You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.**
-- Practice and enthusiastically share agile and DevOps methodologies throughout all stages of the project lifecycle and infrastructure maintenance.
-- Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices.
-- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams.
+- Practice and enthusiastically share agile and DevOps methodologies throughout all stages of the project lifecycle and infrastructure maintenance
+- Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
+- Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Contribute content to documentation, blogs, newsletters, etc.
-
-
-
