@@ -3,6 +3,7 @@ title: EPA Innovation Fellow - TAPD - Technical Architect
 permalink: raas/epa/tapd-technical-architect/
 team: epa
 active: true
+descrition: Job posting for the EPA fellow role of TAPD Technical Architect.
 ---
 
 *Please Note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
