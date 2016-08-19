@@ -9,7 +9,7 @@ active: true
 
 #Cloud Architect/Infrastructure Engineer
 
-###Basic Information:
+##Basic Information:
 
 **Agency:** [Environmental Protection Agency (EPA)](https://www3.epa.gov/)
 
@@ -27,7 +27,7 @@ active: true
 
 Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like working at the EPA
  
-###Role Summary:
+##Role Summary:
 We are looking for a technical leader to seize on a unique opportunity to develop, implement and support both private, public and hybrid cloud hosting services for the organization. You will be providing the technical leadership for the design, planning, integration, testing and delivery of key modernization initiatives in order to promote improvements in the security, agility, responsiveness, and capital efficiency of EPA’s IT infrastructure and customer delivery services.
 
 In addition to having a technical skills and experience in modern cloud computing platforms an ideal candidate must also have a broad understanding of open source software and standards to promote cost-effective adoption of commodity services as well as promote interoperability and automation within and across the full technology stack (applications and infrastructure).
@@ -36,7 +36,7 @@ You must also understand enterprise and industry (DevOps) best practices for man
 
 As an cloud architect and solutions engineer, you will be responsible for providing the technical support and expertise to analyze requirements, in conjunction with the current network topology and infrastructure architecture to deliver technical solutions to enhance and mature the delivery of agency services, utilizing modern cloud-based services.
 
-###Key Objectives:
+##Key Objectives:
 **You will serve as the innovative technical leader in the modernization efforts for the the highly complex and significant systems and services provided by NCC.**
 - Lead a technical integrated project team through design, development, automation, and integration of systems and applications selected for migration to cloud-based services
 - Perform hands-on solution design, solution architectures, architecture roadmaps, prototyping, proof-of-concepts, and development tasks
