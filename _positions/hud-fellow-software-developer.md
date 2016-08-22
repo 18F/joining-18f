@@ -48,7 +48,7 @@ As a software developer, you will be a builder, contributor, and a catalyst. Wit
 - Work towards constantly improving a culture of openness, transparency, and mutual assistance within the engineering team, and the federal government as a whole
 
 **You will act as an agent of culture change.**
-- Participate in or lead (as necessary) an open dialogue with agency representatives  in implementing modern development standards, including transparency, user centered design, and agile methodologies. Understand and communicate the "why" of these standards, not just the "what."
+- Participate in or lead (as necessary) an open dialogue with agency representatives in implementing modern development standards, including transparency, user-centered design, and agile methodologies. Understand and communicate the "why" of these standards, not just the "what."
 - Demonstrate resilience in the face of bureaucracy. When faced with a hurdle, determine the root cause and address that in addition to the hurdle itself.
 - Push the boundaries of what is possible within government, while maintaining an understanding of the complexities of the organization.
 - Push back against the things that can be pushed back against and take a longer view for the things that can't.
