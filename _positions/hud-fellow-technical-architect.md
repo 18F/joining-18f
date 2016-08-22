@@ -6,7 +6,7 @@ active: true
 description: Technical Architect job posting for HUD's innovation fellowship program.
 ---
 
-*Please Note: This role is for the US Department of Housing and Urban Development's innovation fellowship program, not 18F.*
+*Please note: This role is for the US Department of Housing and Urban Development's innovation fellowship program, not 18F.*
 
 #Technical Architect
 
@@ -24,9 +24,9 @@ description: Technical Architect job posting for HUD's innovation fellowship pro
 
 **Security Clearance:** Public Trust - Background Investigation Required
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
 
-Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like working at HUD
+Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like to work at HUD.
  
 ##Role Summary:
 As a member of the Digital Service team, the technical architects will provide technical leadership to bridge modernization efforts at HUD. Your challenge as a technical architect is to help those agencies that have come to depend on legacy technology stacks, transition to more modern technologies such as Node,js, Ruby on Rails and cloud platforms. You will work to understand the needs and the desires of client, design systems to meet those needs and work cross functionally to implement those solutions. 
@@ -52,4 +52,3 @@ By doing so, you’ll greatly increase the government’s overall capacity to sp
 **You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.**
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Share your wins and findings across government and the tech industry
-
