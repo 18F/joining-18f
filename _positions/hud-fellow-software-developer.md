@@ -20,7 +20,7 @@ description: Software Developer job posting for HUD's innovation fellowship prog
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
-**Key Requirements:** U.S. Citizenship is required.
+**Key Requirements:** U.S. citizenship is required.
 
 **Security Clearance:** Public Trust - Background Investigation Required
 
@@ -49,8 +49,6 @@ As a software developer, you will be a builder, contributor, and a catalyst. Wit
 
 **You will act as an agent of culture change.**
 - Participate in or lead (as necessary) an open dialogue with agency representatives  in implementing modern development standards, including transparency, user centered design, and agile methodologies. Understand and communicate the "why" of these standards, not just the "what."
-- Demonstrate resilience in the face of bureaucracy. When faced with a hurdle, determine the root cause and address that in addition to the hurdle itself
+- Demonstrate resilience in the face of bureaucracy. When faced with a hurdle, determine the root cause and address that in addition to the hurdle itself.
 - Push the boundaries of what is possible within government, while maintaining an understanding of the complexities of the organization.
-- Push back against the things that can be pushed back against and take a longer view for the things that can't
-
-
+- Push back against the things that can be pushed back against and take a longer view for the things that can't.
