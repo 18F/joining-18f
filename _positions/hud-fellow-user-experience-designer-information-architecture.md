@@ -6,7 +6,7 @@ active: true
 description: UX designer job posting for HUD's innovation fellowship program.
 ---
 
-*Please Note: This role is for the US Department of Housing and Urban Development's innovation fellowship program, not 18F.*
+*Please note: This role is for the U.S. Department of Housing and Urban Development's innovation fellowship program, not 18F.*
 
 #User Experience Designer, Information Architecture
 
@@ -14,25 +14,25 @@ description: UX designer job posting for HUD's innovation fellowship program.
 
 **Agency:** [Department of Housing and Urban Development (HUD)](http://portal.hud.gov/hudportal/HUD)
 
-**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
-**Compensation/Grade Level:** GS-14.GS-15
+**Compensation/Grade Level:** GS-14/GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
-**Key Requirements:** U.S. Citizenship is required.
+**Key Requirements:** U.S. citizenship is required.
 
-**Security Clearance:** Public Trust - Background Investigation Required
+**Security Clearance:** Public Trust - background investigation required.
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
 
-Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like working at HUD
+Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like to work at HUD.
  
 ##Role Summary:
 User experience designers research, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build them. No one can be equally expert at each phase, but we expect strong skills in craft, confidence, and sophistication in information architecture for this position. (research and interaction design skills are a bonus.) Part of the UX designer’s role is to help teams who are doing user-centered design improve their practice — and teams who are not get started. Our commitment to improving the EPA’s services is a commitment to building products and services with the user in mind.
 
 ##Key Objectives:
-**You will make strong technical contributions in the UX discipline of information architecture to help deliver projects for the US department of housing and urban development (HUD).**
+**You will make strong technical contributions in the UX discipline of information architecture to help deliver projects for the U.S. Department of Housing and Urban Development (HUD).**
 - Communicate ideas clearly in visual form using wireframes, site maps, flowcharts, storyboards, or other methods to guide development
 - Organize and label software to support usability
 - Pursue continuing engagement with actual users
