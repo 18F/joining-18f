@@ -3,10 +3,10 @@ title: EPA Innovation Fellow - TAPD - Technical Architect
 permalink: raas/epa/tapd-technical-architect/
 team: epa
 active: true
-descrition: Job posting for the EPA fellow role of TAPD Technical Architect.
+description: Job posting for the EPA fellow role of TAPD Technical Architect.
 ---
 
-*Please Note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
+*Please note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
 
 #Technical Architect
 
@@ -14,19 +14,19 @@ descrition: Job posting for the EPA fellow role of TAPD Technical Architect.
 
 **Agency:** [Environmental Protection Agency (EPA)](https://www3.epa.gov/)
 
-**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
-**Compensation/Grade Level:** GS-14.GS-15
+**Compensation/Grade Level:** GS-14/GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
-**Key Requirements:** U.S. Citizenship is required.
+**Key Requirements:** U.S. citizenship is required.
 
-**Security Clearance:** Public Trust - Background Investigation Required
+**Security Clearance:** Public Trust - background investigation required.
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees.
 
-Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like working at the EPA
+Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like to work at the EPA.
  
 ##Role Summary:
 The Technical Architecture & Planning Division (TAPD) provides technical and architecture planning services for EPA as well as acquisition services related to Agile planning and development work and digital transformation services. 
@@ -50,4 +50,3 @@ You must also understand enterprise and industry (DevOps) best practices for man
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Contribute content to documentation, blogs, newsletters, etc.
-
