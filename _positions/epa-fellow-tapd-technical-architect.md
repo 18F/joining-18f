@@ -53,3 +53,5 @@ You must also understand enterprise and industry (DevOps) best practices for man
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Contribute content to documentation, blogs, newsletters, etc.
+
+###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
