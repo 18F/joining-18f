@@ -6,7 +6,7 @@ active: true
 description: UX designer job posting for HUD's innovation fellowship program.
 ---
 
-*Please note: This role is for the US Department of Housing and Urban Development's innovation fellowship program, not 18F.*
+*Please note: This role is for the U.S. Department of Housing and Urban Development's innovation fellowship program, not 18F.*
 
 #User Experience Designer, Research
 
