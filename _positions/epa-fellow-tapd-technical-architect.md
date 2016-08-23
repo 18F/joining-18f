@@ -45,7 +45,7 @@ You must also understand enterprise and industry (DevOps) best practices for man
 - Leverage native cloud capabilities such as data storage, performance, and security enhancements, as well as auto-scaling and performance/capacity management to promote technical improvements in the defendability and cost efficiency of the agency infrastructure services
 - Contribute high-quality, well-tested, maintainable infrastructure configurations, including code-based automation, to successfully impact the efficiency and effectiveness across the entire project lifecycle, using modern software development, open source, and industry best practices
 
-**You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.
+**You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.**
 - Practice and enthusiastically share agile and DevOps methodologies throughout all stages of the project lifecycle and infrastructure maintenance
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
