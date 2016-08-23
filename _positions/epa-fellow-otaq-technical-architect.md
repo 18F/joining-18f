@@ -39,6 +39,7 @@ Your challenge is to help the EV-CIS program to transition from legacy technolog
 
 ##Key Objectives:
 **You will serve as the innovative technical leader in the modernization efforts for the the highly complex and significant Engines and Vehicles Compliance Information System (EV-CIS).**
+
 - Establish and lead an EV-CIS technical integrated project team consisting of all EV-CIS developers to share information and to define the current software architecture
 - Architect system to be as simple as possible, elegantly delivering on client need and embracing opportunities for improvement through re-engineering or refactoring
 - Analyze current system architecture and existing products (developed by numerous external vendors and internal teams since 2006) to identify the functionality and capabilities that can be leveraged and areas requiring refactoring to develop an integration plan to create a seamless technology ecosystem with a consistent user experience
@@ -47,6 +48,7 @@ Your challenge is to help the EV-CIS program to transition from legacy technolog
 - Drive planning and delivery by utilizing agile tools such as product roadmaps, backlogs, measurable success criteria, and write user stories
 
 **You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.**
+
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Serve as member of the EV-CIS Product Owner Team as the technical advisor
