@@ -24,7 +24,8 @@ If you’re interested in these opportunities, please email join18f@gsa.gov and 
 
 **Department of Housing and Urban Development (HUD) Roles**
 
-- [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/) - [User Experience Designer, Research]({{ site.baseurl }}/raas/hud/user-experience-designer-research/)
+- [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/)
+- [User Experience Designer, Research]({{ site.baseurl }}/raas/hud/user-experience-designer-research/)
 - [Product Lead]({{ site.baseurl }}/raas/hud/product-lead/)
 - [Developer, Data]({{ site.baseurl }}/raas/hud/software-developer/)
 - [Technical Architect, Data]({{ site.baseurl }}/raas/hud/technical-architect/)
