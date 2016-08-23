@@ -24,7 +24,7 @@ description: Job posting for the EPA fellow role of TAPD Technical Architect.
 
 **Security Clearance:** Public Trust - background investigation required.
 
-**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees.
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (https://www.epa.gov/careers/salaries-and-benefits) offered to most federal employees.
 
 Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like to work at the EPA.
  
