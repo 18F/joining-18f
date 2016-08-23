@@ -25,7 +25,7 @@ description: UX designer job posting for HUD's innovation fellowship program.
 
 **Security Clearance:** Public Trust - background investigation required
 
-**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers/hudbenefits) offered to most federal employees. 
 
 Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like to work at HUD.
  
