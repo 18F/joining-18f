@@ -18,8 +18,8 @@ If you’re interested in these opportunities, please email join18f@gsa.gov and 
 
 **Environmental Protection Agency (EPA) Roles**
 - [Cloud Architect/Infrastructure Engineer](https://pages.18f.gov/joining-18f/raas/epa/cloud-architect/) 
-- [Technincal Architect, TAPD](https://pages.18f.gov/joining-18f/raas/epa/tapd-technical-architect/) 
-- [Technincal Architect, OTAQ](https://pages.18f.gov/joining-18f/raas/epa/otaq-technical-architect/) 
+- [Technical Architect, TAPD](https://pages.18f.gov/joining-18f/raas/epa/tapd-technical-architect/) 
+- [Technical Architect, OTAQ](https://pages.18f.gov/joining-18f/raas/epa/otaq-technical-architect/) 
 
 **Department of Housing and Urban Development (HUD) Roles**
 - [User Experience Designer, Information Architecture](https://pages.18f.gov/joining-18f/raas/hud/user-experience-designer-information-architecture/) 
