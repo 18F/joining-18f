@@ -33,6 +33,7 @@ User experience designers research, derive insights, generate concepts, communic
 
 ##Key Objectives:
 **You will make strong technical contributions in the UX discipline of information architecture to help deliver projects for the U.S. Department of Housing and Urban Development (HUD).**
+
 - Communicate ideas clearly in visual form using wireframes, site maps, flowcharts, storyboards, or other methods to guide development
 - Organize and label software to support usability
 - Pursue continuing engagement with actual users
@@ -43,6 +44,7 @@ User experience designers research, derive insights, generate concepts, communic
 - Shadow, perform contextual interviews, and otherwise interact with members of the public who rely on government services
 
 **You will advance the UX practice at HUD.**
+
 - Guide and coach the team on UX, especially colleagues who are taking on new tasks and roles within user-centered design and research
 - Promote empathy not just towards members of the public, but also our co-workers
 - Clearly explain user-centered design methods and their value to non-designers, including newcomers to the idea of iterative design
@@ -50,6 +52,7 @@ User experience designers research, derive insights, generate concepts, communic
 - Apply user-centered perspectives and processes to everything we do, including internal projects
 - Identify potential or current problems for UX that aren’t being addressed, and take the responsibility to address them
 
-**You will balance multiple organizational objectives and values.** 
+**You will balance multiple organizational objectives and values.**
+
 - Effectively manage time, whether timelines speed up or hit unexpected slow-downs
 - Set realistic expectations for recruiting research participants and conducting research clearly and explicitly with collaborators. Ask for help before a crisis sets in
