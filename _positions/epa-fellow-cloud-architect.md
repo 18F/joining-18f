@@ -24,7 +24,7 @@ description: Job posting for the EPA fellow role of Cloud Architect.
 
 **Security Clearance:** Public Trust - Background Investigation Required
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (https://www.epa.gov/careers/salaries-and-benefits) offered to most Federal employees. 
 
 Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like working at the EPA
  
