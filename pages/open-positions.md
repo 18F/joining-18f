@@ -17,13 +17,14 @@ We’re currently supporting other agencies’ recruiting efforts to build digit
 If you’re interested in these opportunities, please email join18f@gsa.gov and reference the position you are interested in. You may apply to more than one role.
 
 **Environmental Protection Agency (EPA) Roles**
+
 - [Cloud Architect/Infrastructure Engineer]({{ site.baseurl }}/raas/epa/cloud-architect/) 
 - [Technical Architect, TAPD]({{ site.baseurl }}/raas/epa/tapd-technical-architect/) 
 - [Technical Architect, OTAQ]({{ site.baseurl }}/raas/epa/otaq-technical-architect/) 
 
 **Department of Housing and Urban Development (HUD) Roles**
-- [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/) 
-- [User Experience Designer, Research]({{ site.baseurl }}/raas/hud/user-experience-designer-research/)
+
+- [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/) - [User Experience Designer, Research]({{ site.baseurl }}/raas/hud/user-experience-designer-research/)
 - [Product Lead]({{ site.baseurl }}/raas/hud/product-lead/)
 - [Developer, Data]({{ site.baseurl }}/raas/hud/software-developer/)
 - [Technical Architect, Data]({{ site.baseurl }}/raas/hud/technical-architect/)
