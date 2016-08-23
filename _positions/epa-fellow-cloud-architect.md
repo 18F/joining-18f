@@ -6,7 +6,7 @@ active: true
 description: Job posting for the EPA fellow role of Cloud Architect.
 ---
 
-*Please Note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
+*Please note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
 
 #Cloud Architect/Infrastructure Engineer
 
