@@ -3,10 +3,10 @@ title: EPA Innovation Fellow - OTAQ - Technical Architect
 permalink: raas/epa/otaq-technical-architect/
 team: epa
 active: true
-descrition: Job posting for the EPA fellow role of OTAQ Technical Architect.
+description: Job posting for the EPA fellow role of OTAQ Technical Architect.
 ---
 
-*Please Note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
+*Please note: This role is for the Environmental Protection Agency's innovation fellowship program, not 18F.*
 
 #Technical Architect
 
@@ -14,22 +14,22 @@ descrition: Job posting for the EPA fellow role of OTAQ Technical Architect.
 
 **Agency:** [Environmental Protection Agency (EPA)](https://www3.epa.gov/)
 
-**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
-**Compensation/Grade Level:** GS-14.GS-15
+**Compensation/Grade Level:** GS-14/GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
-**Key Requirements:** U.S. Citizenship is required.
+**Key Requirements:** U.S. citizenship is required.
 
-**Security Clearance:** Public Trust - Background Investigation Required
+**Security Clearance:** Public Trust - background investigation required.
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
 
-Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like working at the EPA
+Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like to work at the EPA.
  
 ##Role Summary:
-The Compliance Division within EPA’s Office of Transportation of Air Quality is responsible for ensuring Clean Air through the compliance of vehicles and engines emissions including greenhouse gasses, and vehicle and truck fuel economy. We collect information and work directly with regulated industries. We are looking for a technical lead to bridge the gap between the evolving states of technology within the federal government. 
+The Compliance Division within EPA’s Office of Transportation of Air Quality is responsible for ensuring Clean Air through the compliance of vehicles and engines emissions, including greenhouse gasses, and vehicle and truck fuel economy. We collect information and work directly with regulated industries. We are looking for a technical lead to bridge the gap between the evolving states of technology within the federal government. 
 
 We are looking for an IT Solutions Architect to help us modernize the Engines and Vehicles Compliance Information System (EV-CIS) which has over 19,000 registered users from 13 industries and 38 countries and many stakeholders and partners including engine and vehicle manufacturers, external federal/state agencies such as DOE, DOT (co-regulators), Treasury, DHS and the California Air Resource Board (co-regulator).
 
