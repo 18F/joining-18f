@@ -17,14 +17,14 @@ description: Job posting for the EPA fellow role of OTAQ Technical Architect.
 **Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
 **Compensation/Grade Level:** GS-14/GS-15
-- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
+- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
 **Key Requirements:** U.S. citizenship is required.
 
 **Security Clearance:** Public Trust - background investigation required.
 
-**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (https://www.epa.gov/careers/salaries-and-benefits) offered to most federal employees. 
 
 Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like to work at the EPA.
  

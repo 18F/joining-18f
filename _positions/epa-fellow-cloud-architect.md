@@ -14,17 +14,19 @@ description: Job posting for the EPA fellow role of Cloud Architect.
 
 **Agency:** [Environmental Protection Agency (EPA)](https://www3.epa.gov/)
 
-**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+**Position Type:** Excepted Service - time-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
 
-**Compensation/Grade Level:** GS-14.GS-15
-- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
+**Location:** Washington, D.C.
+
+**Compensation/Grade Level:** GS-14/GS-15
+- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
-**Key Requirements:** U.S. Citizenship is required.
+**Key Requirements:** U.S. Citizenship is required
 
-**Security Clearance:** Public Trust - Background Investigation Required
+**Security Clearance:** Public Trust - background investigation equired
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (https://www.epa.gov/careers/salaries-and-benefits) offered to most Federal employees. 
 
 Please visit [EPA Careers](https://www.epa.gov/careers) for more information about what it’s like working at the EPA
  

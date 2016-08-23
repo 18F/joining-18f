@@ -17,14 +17,14 @@ description: Software Developer job posting for HUD's innovation fellowship prog
 **Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
 
 **Compensation/Grade Level:** GS-14.GS-15
-- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
+- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
 **Key Requirements:** U.S. citizenship is required.
 
 **Security Clearance:** Public Trust - Background Investigation Required
 
-**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most Federal employees. 
+**Benefits:** The Federal Government offers a comprehensive benefits package. [Explore the major benefits] (http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers/hudbenefits) offered to most Federal employees. 
 
 Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like working at HUD
  
