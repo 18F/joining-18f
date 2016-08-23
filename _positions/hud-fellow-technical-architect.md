@@ -37,6 +37,7 @@ By doing so, you’ll greatly increase the government’s overall capacity to sp
 
 ##Key Objectives:
 **You will serve as the innovative technical leader on a highly complex and significant digital project.**
+
 - Architect systems to be as simple as possible, elegantly delivering on client need and embracing opportunities for improvement through reengineering or refactoring
 - Use the open source community to support the deployment of services and to stay on top of innovative technologies
 - Ensure strategic alignment of technical design/architecture to meet business growth and direction
@@ -45,6 +46,7 @@ By doing so, you’ll greatly increase the government’s overall capacity to sp
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multidisciplinary team
 
 **You will develop and support the implementation of an enterprisewide, technology modernization strategy.**
+
 - Understand the client’s needs and business objectives
 - Assess the client’s current technical environment to find opportunities to simplify, refactor, and use existing investments in IT
 - Determine the future state architecture based on where the client needs to be in order to meet its objectives
@@ -52,5 +54,6 @@ By doing so, you’ll greatly increase the government’s overall capacity to sp
 - Provide consulting and hands-on support for the migration to IaaS providers, including assessment, proof of concept, data migration, application migration, and optimization
 
 **You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.**
+
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Share your wins and findings across government and the tech industry
