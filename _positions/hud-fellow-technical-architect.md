@@ -18,7 +18,7 @@ description: Technical Architect job posting for HUD's innovation fellowship pro
 
 **Location:** Washington, D.C.
 
-**Compensation/Grade Level:** GS-14, GS-15
+**Compensation/Grade Level:** GS-14/GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
@@ -26,7 +26,7 @@ description: Technical Architect job posting for HUD's innovation fellowship pro
 
 **Security Clearance:** Public Trust - background investigation required
 
-**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers/hudbenefits) offered to most federal employees. 
 
 Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like to work at HUD.
  
