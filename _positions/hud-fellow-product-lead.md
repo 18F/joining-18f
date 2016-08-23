@@ -8,21 +8,23 @@ description: Product Lead job posting for HUD's innovation fellowship program.
 
 *Please note: This role is for the U.S. Department of Housing and Urban Development's innovation fellowship program, not 18F.*
 
-#User Experience Designer, Information Architecture
+#Product Lead
 
 ##Basic Information:
 
 **Agency:** [Department of Housing and Urban Development (HUD)](http://portal.hud.gov/hudportal/HUD)
 
-**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
+**Position Type:** Excepted Service - time-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
-**Compensation/Grade Level:** GS-14.GS-15
+**Location:** Washington, D.C.
+
+**Compensation/Grade Level:** GS-14, GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
 **Key Requirements:** U.S. citizenship is required.
 
-**Security Clearance:** Public Trust - Background Investigation Required
+**Security Clearance:** Public Trust - background investigation required
 
 **Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
 
@@ -33,7 +35,7 @@ The Product Lead tech fellow at the U.S. Department of Housing and Urban Develop
 
 ##Key Objectives:
 **You will lead a cross-functional team to deliver the right product using agile-based methodologies.**
-- Build meaningful relationships with partners at HUD and help them understand user centered, iterative approach to understanding the problem and building the solution
+- Build meaningful relationships with partners at HUD and help them understand user-centered, iterative approach to understanding the problem and building the solution
 - Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
 - Believe in and practice agile as a philosophy, not necessarily agile as a dogma, and apply user-centered design methods to ensure the right product is built
 - Manage QA and testing to make sure the team is building to the right level of quality. Establish the bar for quality and the definition of done
