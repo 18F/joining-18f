@@ -16,6 +16,8 @@ description: Job posting for the EPA fellow role of Cloud Architect.
 
 **Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
 
+**Location:** Washington, D.C.
+
 **Compensation/Grade Level:** GS-14.GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
