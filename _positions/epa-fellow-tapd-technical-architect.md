@@ -39,6 +39,7 @@ You must also understand enterprise and industry (DevOps) best practices for man
 
 ##Key Objectives:
 **You will serve as the innovative technical leader in the development of agency modernization strategies for the the highly complex and significant systems across the EPA.**
+
 - Perform hands-on solution design, solution architectures, architecture roadmaps, prototyping, proof-of-concepts, and development tasks
 - Deliver strategies with an API first mindset using reusable components and operational strategies leveraging cloud services to support scalability, availability, performance, monitoring, backup, etc, to improve the security, resiliency, and agility of infrastructure and applications
 - Ensure strategic alignment of technical design/architecture to meet business growth and direction
@@ -46,6 +47,7 @@ You must also understand enterprise and industry (DevOps) best practices for man
 - Contribute high-quality, well-tested, maintainable infrastructure configurations, including code-based automation, to successfully impact the efficiency and effectiveness across the entire project lifecycle, using modern software development, open source, and industry best practices
 
 **You will promote the adoption of modern technology practices through teaching, coaching, and knowledge sharing.**
+
 - Practice and enthusiastically share agile and DevOps methodologies throughout all stages of the project lifecycle and infrastructure maintenance
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
