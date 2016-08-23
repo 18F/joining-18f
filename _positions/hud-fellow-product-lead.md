@@ -35,6 +35,7 @@ The Product Lead tech fellow at the U.S. Department of Housing and Urban Develop
 
 ##Key Objectives:
 **You will lead a cross-functional team to deliver the right product using agile-based methodologies.**
+
 - Build meaningful relationships with partners at HUD and help them understand user-centered, iterative approach to understanding the problem and building the solution
 - Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law”
 - Believe in and practice agile as a philosophy, not necessarily agile as a dogma, and apply user-centered design methods to ensure the right product is built
@@ -42,12 +43,14 @@ The Product Lead tech fellow at the U.S. Department of Housing and Urban Develop
 - Work with other teams at HUD to ensure compliance with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508
 
 **You will be the holder of the product vision, deftly managing relationships and being the communication to ensure alignment.**
+
 - Establish a shared vision and understanding across the team. Ensure all members of the immediate and broader teams have a shared understanding of the project’s objectives and goals
 - Navigate complex bureaucratic relationships to bring stakeholders together around a common goal
 - Focus team efforts towards current goals and priorities
 - Revisit and revise project direction based on the outcome of experiments and user-based learning
 
 **You will promote best practices and shared processes, tools, etc. across teams.**
+
 - Reinforce values of building in the open, using open source, being transparent, and having a priority for user-centered design
 - Explore new tools, methodologies, etc. and share lessons with other team members and tech fellows
 - Mentor others, give constructive criticism, and improve practices and standards on your teams
