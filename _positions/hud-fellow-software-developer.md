@@ -6,7 +6,7 @@ active: true
 description: Software Developer job posting for HUD's innovation fellowship program.
 ---
 
-*Please Note: This role is for the US Department of Housing and Urban Development's innovation fellowship program, not 18F.*
+*Please note: This role is for the US Department of Housing and Urban Development's innovation fellowship program, not 18F.*
 
 #Software Developer
 
