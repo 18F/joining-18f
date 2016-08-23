@@ -17,21 +17,16 @@ We’re currently supporting other agencies’ recruiting efforts to build digit
 If you’re interested in these opportunities, please email join18f@gsa.gov and reference the position you are interested in. You may apply to more than one role.
 
 **Environmental Protection Agency (EPA) Roles**
-- [Cloud Architect/Infrastructure Engineer](raas/epa/cloud-architect/) 
-- [Technincal Architect, TAPD]() 
-- [Technincal Architect, OTAQ]() 
+- [Cloud Architect/Infrastructure Engineer](https://pages.18f.gov/joining-18f/raas/epa/cloud-architect/) 
+- [Technincal Architect, TAPD](https://pages.18f.gov/joining-18f/raas/epa/tapd-technical-architect/) 
+- [Technincal Architect, OTAQ](https://pages.18f.gov/joining-18f/raas/epa/otaq-technical-architect/) 
 
 **Department of Housing and Urban Development (HUD) Roles**
-- [User Experience Designer, Information Architecture]() 
-- [User Experience Designer, Research]()
-- [Product Lead]()
-- [Developer, Data]()
-- [Technical Architect, Data]()
-
-**General Services Administration (GSA) - Technology Transformation Service (TTS) Roles**
-
-
-
+- [User Experience Designer, Information Architecture](https://pages.18f.gov/joining-18f/raas/hud/user-experience-designer-information-architecture/) 
+- [User Experience Designer, Research](https://pages.18f.gov/joining-18f/raas/hud/user-experience-designer-research/)
+- [Product Lead](https://pages.18f.gov/joining-18f/raas/hud/product-lead/)
+- [Developer, Data](https://pages.18f.gov/joining-18f/raas/hud/software-developer/)
+- [Technical Architect, Data](https://pages.18f.gov/joining-18f/raas/hud/technical-architect/)
 
 ## See also
 
