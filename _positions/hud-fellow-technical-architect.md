@@ -44,7 +44,7 @@ By doing so, you’ll greatly increase the government’s overall capacity to sp
 - Engage in the solicitation, evaluation and selection and management of external vendors
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multidisciplinary team
 
-**You will develop and support the implementation of an enterprise wide, technology modernization strategy.**
+**You will develop and support the implementation of an enterprisewide, technology modernization strategy.**
 - Understand the client’s needs and business objectives
 - Assess the client’s current technical environment to find opportunities to simplify, refactor, and use existing investments in IT
 - Determine the future state architecture based on where the client needs to be in order to meet its objectives
