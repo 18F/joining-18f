@@ -33,6 +33,7 @@ As a software developer, you will be a builder, contributor, and a catalyst. Wit
 
 ##Key Objectives:
 **You will provide leadership in the creation of high-quality, well-tested, maintainable code across an entire project lifecycle, using modern software development best practices.**
+
 - Practice and enthusiastically share agile methodologies throughout all stages of the project lifecycle
 - Use usability research, analytics, and other metrics to influence project planning and design
 - Participate in code review, architecture discussions, and feature prioritization
@@ -41,6 +42,7 @@ As a software developer, you will be a builder, contributor, and a catalyst. Wit
 - Deliver projects that are easy to deploy, update, and monitor by ensuring the tooling for this is present early in the project development cycle
 
 **You will be active in the development of the engineering team culture at the agency  through high levels of empathy, communication, and collaboration.**
+
 - Work with other members of the distributed team to identify and solve complex technical, cultural, and organizational issues
 - Use past experience and knowledge to mentor (and learn from) your peers throughout the federal government around software engineering best practices
 - Contribute to and maintain a positive team culture based on mutual communication, constructive criticism, and knowledge sharing
@@ -48,6 +50,7 @@ As a software developer, you will be a builder, contributor, and a catalyst. Wit
 - Work towards constantly improving a culture of openness, transparency, and mutual assistance within the engineering team, and the federal government as a whole
 
 **You will act as an agent of culture change.**
+
 - Participate in or lead (as necessary) an open dialogue with agency representatives in implementing modern development standards, including transparency, user-centered design, and agile methodologies. Understand and communicate the "why" of these standards, not just the "what."
 - Demonstrate resilience in the face of bureaucracy. When faced with a hurdle, determine the root cause and address that in addition to the hurdle itself.
 - Push the boundaries of what is possible within government, while maintaining an understanding of the complexities of the organization.
