@@ -14,15 +14,17 @@ description: Technical Architect job posting for HUD's innovation fellowship pro
 
 **Agency:** [Department of Housing and Urban Development (HUD)](http://portal.hud.gov/hudportal/HUD)
 
-**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+**Position Type:** Excepted Service - time-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
 
-**Compensation/Grade Level:** GS-14.GS-15
+**Location:** Washington, D.C.
+
+**Compensation/Grade Level:** GS-14, GS-15
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule/0)
 - [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
 
-**Key Requirements:** U.S. Citizenship is required.
+**Key Requirements:** U.S. citizenship is required.
 
-**Security Clearance:** Public Trust - Background Investigation Required
+**Security Clearance:** Public Trust - background investigation required
 
 **Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc) offered to most federal employees. 
 
