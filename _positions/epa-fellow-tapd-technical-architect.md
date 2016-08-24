@@ -16,6 +16,8 @@ description: Job posting for the EPA fellow role of TAPD Technical Architect.
 
 **Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
+**Location:* Washington, D.C.
+
 **Compensation/Grade Level:** GS-14/GS-15
 
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
@@ -54,4 +56,4 @@ You must also understand enterprise and industry (DevOps) best practices for man
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Contribute content to documentation, blogs, newsletters, etc.
 
-###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
+###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.
