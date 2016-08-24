@@ -21,8 +21,9 @@ If you’re interested in these opportunities, please email [join18f@gsa.gov](ma
 **Environmental Protection Agency (EPA) Roles**
 
 - [Cloud Architect/Infrastructure Engineer]({{ site.baseurl }}/raas/epa/cloud-architect/) 
-- [Technical Architect, TAPD]({{ site.baseurl }}/raas/epa/tapd-technical-architect/) 
 - [Technical Architect, OTAQ]({{ site.baseurl }}/raas/epa/otaq-technical-architect/) 
+- [Technical Architect-Cloud, TAPD]({{ site.baseurl }}/raas/epa/tapd-technical-architect/) 
+- [Technical Architect-User Experience, OSIM]({{ site.baseurl }}raas/epa/osim-technical-architect/)
 
 **Department of Housing and Urban Development (HUD) Roles**
 
