@@ -13,6 +13,11 @@ The maximum annual leave you can carry over from calendar year to calendar year 
 
 Sick leave accrues at four hours per pay period for all federal employees, regardless of how long they've worked for the federal government. There is no maximum amount of sick leave you can accrue, and all unused hours carry over to the next calendar year. If you transfer from another federal agency, your sick leave transfers with you.
 
+### Unpaid leave
+
+Employees can request a supervisor for unpaid leave of less than four weeks at
+any time. They do not have to have been employed for 12 months.
+
 ### Parental leave 
 
 For complete details, see [this recent guidance](http://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/handbook-on-leave-and-workplace-flexibilities-for-childbirth-adoption-and-foster-care.pdf). For a human, readable summary:
