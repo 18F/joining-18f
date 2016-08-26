@@ -14,7 +14,7 @@ description: UX designer job posting for HUD's innovation fellowship program.
 
 **Agency:** [Department of Housing and Urban Development (HUD)](http://portal.hud.gov/hudportal/HUD)
 
-**Position Type:** Excepted Service - lime-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
+**Position Type:** Excepted Service - time-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
 
 **Location:** Washington, D.C.
 
