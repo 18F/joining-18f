@@ -2,54 +2,37 @@
 title: Open positions
 permalink: /open-positions/
 redirect_from: /roles-and-teams/
-styles: assets/css/leverpostings.css
-scripts: assets/js/leverpostings.js
+description: "Open positions at 18F."
 ---
 
-###Important Announcement###
-We have taken down our open positions for a short application intake hiatus. During this time, we’ll be evolving how 18F plans for open roles. We estimate that we’ll post new open positions in the beginning of June and suggest that you check back here at that time.
+We're briefly pausing accepting new applications while we evolve how 18F plans for open roles.
 
-If you would like to recieve a notification when we resume application intake, please send an email to join18f@gsa.gov including your name and preferred contact email address.
+If you'd like to learn about open roles as they come available, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter).
 
-During our short intake hiatus, we would still love to hear from you. If you’re interested in joining our team or want to know more about what it’s like to be part of 18F, please send us a note at join18f@gsa.gov and the Talent Team will respond.
+## Opportunities with 18F partners
+We’re currently supporting other agencies’ recruiting efforts to build digital service and innovation teams. Below you’ll find a list of the current positions along with their associated agencies. For all of these opportunities, please note:
 
-Our Innovation Specialists fill a wide range of roles across 18F, from software engineers and product leads to UX and visual designers. **Most roles can be done remotely or from any of our offices.** The application form will specify any location restrictions.
+- Deadline for priority consideration for these roles is Friday, September 9, 2016.
+- You must have availbility to interview prior to Friday, September 23, 2016.
+- You must be in the D.C. area or willing to relocate to D.C. Unfortunately, we can’t provide relocation assistance.
 
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//gsa.us9.list-manage.com/subscribe/post?u=6f1977de9eff4c384dc8d6527&amp;id=a78bd73141" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-   <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to receive updates about open roles</h2>
-<div class="mc-field-group">
-    <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
-</label>
-    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
-</label>
-    <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
-</div>
-<div class="mc-field-group">
-    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
-    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>
-   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6f1977de9eff4c384dc8d6527_a78bd73141" tabindex="-1" value=""></div>
-   <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-   </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+If you’re interested in these opportunities, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference the position you are interested in. You may apply to more than one role.
+
+**Environmental Protection Agency (EPA) Roles**
+
+- [Cloud Architect/Infrastructure Engineer]({{ site.baseurl }}/raas/epa/cloud-architect/) 
+- [Technical Architect, OTAQ]({{ site.baseurl }}/raas/epa/otaq-technical-architect/) 
+- [Technical Architect, TAPD]({{ site.baseurl }}/raas/epa/tapd-technical-architect/) 
+- [Technical Architect-User Experience, OSIM]({{ site.baseurl }}/raas/epa/osim-technical-architect/)
+
+**Department of Housing and Urban Development (HUD) Roles**
+
+- [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/)
+- [User Experience Designer, Research]({{ site.baseurl }}/raas/hud/user-experience-designer-research/)
+- [Product Lead]({{ site.baseurl }}/raas/hud/product-lead/)
+- [Developer, Data]({{ site.baseurl }}/raas/hud/software-developer/)
+- [Technical Architect, Data]({{ site.baseurl }}/raas/hud/technical-architect/)
 
 ## See also
-If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.whitehouse.gov/digital/united-states-digital-service).
+
+If you're interested in opportunities within the U.S. Digital Service, our sister organization, we encourage you to [apply to USDS directly](https://www.usds.gov/join).
