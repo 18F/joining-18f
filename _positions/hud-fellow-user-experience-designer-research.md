@@ -30,7 +30,7 @@ description: UX designer job posting for HUD's innovation fellowship program.
 Please visit [HUD Careers](http://portal.hud.gov/hudportal/HUD?src=/program_offices/administration/careers) for more information about what it’s like to work at HUD.
  
 ##Role Summary:
-User experience designers research, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build them. No one can be equally expert at each phase, but we expect strong skills in craft, confidence, and sophistication in user research for this position. (Information architecture and interaction design skills are a bonus.) Part of the UX designer’s role is to help teams who are doing user-centered design improve their practice — and teams who are not get started. Our commitment to improving the EPA’s services is a commitment to building products and services with the user in mind.
+User experience designers research, derive insights, generate concepts, communicate those concepts visually, and work with developers and product managers to build them. No one can be equally expert at each phase, but we expect strong skills in craft, confidence, and sophistication in user research for this position. (Information architecture and interaction design skills are a bonus.) Part of the UX designer’s role is to help teams who are doing user-centered design improve their practice — and teams who are not get started. Our commitment to improving the HUD’s services is a commitment to building products and services with the user in mind.
 
 ##Key Objectives:
 **You will make strong technical contributions in the UX discipline of research to help deliver projects for the US department of housing and urban development (HUD).**
