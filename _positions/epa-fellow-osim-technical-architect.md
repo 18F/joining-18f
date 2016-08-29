@@ -14,7 +14,7 @@ description: Job posting for the EPA fellow role of OSIM Technical Architect.
 
 **Agency:** [Environmental Protection Agency (EPA)](https://www3.epa.gov/)
 
-**Position Type:** Excepted Service - lime-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
+**Position Type:** Excepted Service - time-limited appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total.
 
 **Location:** Washington, D.C.
 
