@@ -59,4 +59,4 @@ By doing so, you’ll greatly increase the government’s overall capacity to sp
 - Deliver educational workshops to accelerate learning and adoption of agile development and DevOps principles and practices
 - Share your wins and findings across government and the tech industry
 
-###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
+###If you would like to apply to this opportunity, please email your detailed resume to [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
