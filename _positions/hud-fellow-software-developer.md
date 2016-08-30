@@ -16,6 +16,8 @@ description: Software Developer job posting for HUD's innovation fellowship prog
 
 **Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 24 months; may be extended for a maximum of 4 years total
 
+**Location:** Washington, D.C. 
+
 **Compensation/Grade Level:** GS-14/GS-15
 
 - [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
