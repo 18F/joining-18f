@@ -57,4 +57,4 @@ As an cloud architect and solutions engineer, you will be responsible for provid
 - Inspire honesty and integrity through open communication and liberal knowledge sharing across a multi-disciplinary teams
 - Contribute content to documentation, blogs, newsletters, etc.
 
-###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
+###If you would like to apply to this opportunity, please email a detailed resume to [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
