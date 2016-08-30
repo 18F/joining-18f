@@ -55,4 +55,4 @@ Your challenge is to help the EV-CIS program to transition from legacy technolog
 - Serve as member of the EV-CIS Product Owner Team as the technical advisor
 - Contribute content to documentation, blogs, newsletters, etc.
 
-###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
+###If you would like to apply to this opportunity, please email your detailed resume to [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
