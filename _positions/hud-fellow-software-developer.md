@@ -57,4 +57,4 @@ As a software developer, you will be a builder, contributor, and a catalyst. Wit
 - Push the boundaries of what is possible within government, while maintaining an understanding of the complexities of the organization.
 - Push back against the things that can be pushed back against and take a longer view for the things that can't.
 
-###If you would like to apply to this opportunity, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
+###If you would like to apply to this opportunity, please email your detailed resume to [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference this position.###
