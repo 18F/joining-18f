@@ -16,7 +16,7 @@ We’re currently supporting other agencies’ recruiting efforts to build digit
 - You must have availability to interview prior to Friday, September 23, 2016.
 - You must be in the D.C. area or willing to relocate to D.C. Unfortunately, we can’t provide relocation assistance.
 
-If you’re interested in these opportunities, please email [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference the position you are interested in. You may apply to more than one role.
+If you’re interested in these opportunities, please email a detailed resume to [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference the position you are interested in. You may apply to more than one role.
 
 **Environmental Protection Agency (EPA) Roles**
 
