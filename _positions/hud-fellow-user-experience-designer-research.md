@@ -50,7 +50,7 @@ User experience designers research, derive insights, generate concepts, communic
 - Guide and coach the team on UX, especially colleagues who are taking on new tasks and roles within user-centered design and research
 - Promote empathy not just towards members of the public, but also our co-workers
 - Clearly explain user-centered design methods and their value to non-designers, including newcomers to the idea of iterative design
-- Write content to share what the EPA digital services team makes and how we make it
+- Write content to share what the HUD digital services team makes and how we make it
 - Apply user-centered perspectives and processes to everything we do, including internal projects
 - Identify potential or current problems for UX that aren’t being addressed, and take the responsibility to address them
 
