@@ -1,5 +1,5 @@
 ---
-title: Program Manager, 
+title: Program Manager, Feedback Analytics
 permalink: _positions/program-manager-feedback-analytics.MD
 team: gsa feedback analytics
 active: true
