@@ -1,30 +1,38 @@
-# **Program Manager - Feedback Analytics**
+---
+title: Program Manager, 
+permalink: _positions/program-manager-feedback-analytics.MD
+team: gsa feedback analytics
+active: true
+description: Job posting for the GSA Feedback Analytics Program Manager.
+---
 
-**Agency:** General Services Administration
+*Please note: This role is for the General Services Administration's Feedback Analytics Program, not 18F.*
 
-**Position Type:** 
-Excepted Service - term appointment for one-year, with extension for another year 
+#Program Manager
 
-**Compensation/Grade Level:**
-GS-13/14/15
+##Basic Information:
 
-**Key Requirements:**
-U.S. Citizenship is required.
+**Agency:** [General Services Administration (GSA)](http://www.gsa.gov/portal/category/100000)
 
-**Security Clearance:**
-MBI - Moderate Background Investigation
+**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 12 months; may be extended for a maximum of 2 years total.
 
-**Benefits:**
-The Federal Government offers a comprehensive benefits package. Explore the major benefits offered to most Federal employees at http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc
+**Location:* Washington, D.C.
 
-For more information about what it’s like working for GSA, please visit 
-http://www.gsa.gov/portal/content/105314
+**Compensation/Grade Level:** GS-14/GS-15
 
-**Agency & Division Information**
-This position is part of the Data Services Portfolio within GSA’s Technology Transformation Service
+- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
+- [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
+
+**Key Requirements:** U.S. citizenship is required.
+
+**Security Clearance:** Public Trust - background investigation required.
+
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.gsa.gov/portal/content/105121) offered to most federal employees.
+
+Please visit [EPA Careers](http://www.gsa.gov/portal/content/105311) for more information about what it’s like to work at the GSA.
 
 **General Service Administration**
-**Mission:** We help agencies buy smarter, reduce their real estate footprint, and create a better, faster government.  At GSA, you can be a part of a team that’s at the forefront of initiatives that shape where and how the government does work.  
+**Mission:** We help agencies deliver the best value in real estate, acquisition, and technology services to government and the American people. At GSA, you can be a part of a team that’s at the forefront of initiatives that shape where and how the government does work.  
 
 **Technology Transformation Service**
 
@@ -47,11 +55,11 @@ Manage customer feedback projects, including:
 - developing feedback/research materials based on scientific best practices
 - supervise project execution
 - conducting trainings for agency points of contact
-- interpreting and summarizing insights to stakeholders.
+- interpreting and summarizing insights to stakeholders
 
 Serve as a Subject Matter Expert (SME) on customer feedback programs, social science methodology and research practices, which will require the applicant to: 
 - remain current on new research methods and designs
-- offer guidance and recommendations on questions of research methodologies as needed.
+- offer guidance and recommendations on questions of research methodologies as needed
 
 Consult with agency stakeholders and manage client relationships, including:
 - defining feedback measure/research requirements in terms of business objectives;
@@ -67,5 +75,3 @@ Other responsibilities may include ensuring technical quality and timeliness of 
 * [Data.gov](http://data.gov)
 * [feedback.usa.gov](feedback.usa.gov)
 * [DAP Github repo](https://github.com/digital-analytics-program/gov-wide-code)
-
-
