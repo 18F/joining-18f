@@ -29,7 +29,7 @@ description: Job posting for the GSA Feedback Analytics Program Manager.
 
 **Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.gsa.gov/portal/content/105121) offered to most federal employees.
 
-Please visit [EPA Careers](http://www.gsa.gov/portal/content/105311) for more information about what it’s like to work at the GSA.
+Please visit [GSA Careers](http://www.gsa.gov/portal/content/105311) for more information about what it’s like to work at the GSA.
 
 **General Service Administration**
 **Mission:** We help agencies deliver the best value in real estate, acquisition, and technology services to government and the American people. At GSA, you can be a part of a team that’s at the forefront of initiatives that shape where and how the government does work.  
@@ -48,18 +48,18 @@ As the Feedback Analytics Program Manager for GSA’s Data Services Portfolio, y
 **Key Objectives:** 
 
 Manage customer feedback projects, including: 
-- developing research proposals and/or feedback programs
-- designing customer experience efforts to address specific business needs
-- evaluating existing feedback tools against best practices and agency requirements
-- monitoring projects and reporting regularly on progress
-- developing feedback/research materials based on scientific best practices
-- supervise project execution
-- conducting trainings for agency points of contact
-- interpreting and summarizing insights to stakeholders
+- developing research proposals and/or feedback programs;
+- designing customer experience efforts to address specific business needs;
+- evaluating existing feedback tools against best practices and agency requirements;
+- monitoring projects and reporting regularly on progress;
+- developing feedback/research materials based on scientific best practices;
+- supervise project execution;
+- conducting trainings for agency points of contact;
+- interpreting and summarizing insights to stakeholders.
 
 Serve as a Subject Matter Expert (SME) on customer feedback programs, social science methodology and research practices, which will require the applicant to: 
-- remain current on new research methods and designs
-- offer guidance and recommendations on questions of research methodologies as needed
+- remain current on new research methods and designs;
+- offer guidance and recommendations on questions of research methodologies as needed.
 
 Consult with agency stakeholders and manage client relationships, including:
 - defining feedback measure/research requirements in terms of business objectives;
