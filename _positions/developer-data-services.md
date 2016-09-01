@@ -8,8 +8,6 @@ description: Job posting for the GSA Data Services Developer.
 
 *Please note: This role is for the General Services Administration's Feedback Analytics Program, not 18F.*
 
-#Program Manager
-
 ##Basic Information:
 
 **Agency** [General Services Administration (GSA)](http://www.gsa.gov/portal/category/100000)
