@@ -1,9 +1,9 @@
 ---
-title: Developer 
-permalink: _positions/developer-data-services.MD
-team: gsa feedback analytics
+title: Data Services Developer
+permalink: raas/gsa/developer-data-services/
+team: gsa
 active: true
-description: Job posting for the GSA Feedback Analytics Program Manager.
+description: Job posting for the GSA Data Services Developer.
 ---
 
 *Please note: This role is for the General Services Administration's Feedback Analytics Program, not 18F.*
