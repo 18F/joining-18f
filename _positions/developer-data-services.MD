@@ -1,32 +1,45 @@
-# Developer - Data Services
+---
+title: Developer 
+permalink: _positions/developer-data-services.MD
+team: gsa feedback analytics
+active: true
+description: Job posting for the GSA Feedback Analytics Program Manager.
+---
 
-**Agency:** General Services Administration
+*Please note: This role is for the General Services Administration's Feedback Analytics Program, not 18F.*
 
-**Position Type:** Excepted Service - term appointment for one-year, with extension for another year 
+#Program Manager
 
-**Compensation/Grade Level:** GS-13/14/15
+##Basic Information:
 
-**Key Requirements:**
-U.S. Citizenship is required.
+**Agency:** [General Services Administration (GSA)](http://www.gsa.gov/portal/category/100000)
 
-**Security Clearance:**
-MBI - Moderate Background Investigation
+**Position Type:** Excepted Service - Time-Limited Appointment - Not to exceed 12 months; may be extended for a maximum of 2 years total.
 
-**Benefits:**
-The Federal Government offers a comprehensive benefits package. Explore the major benefits offered to most Federal employees [here](http://www.usajobs.gov/ResourceCenter/Index/Interactive/Benefits#icc)
+**Location:* Washington, D.C.
 
-For more information about what it’s like working for GSA, please visit 
-http://www.gsa.gov/portal/content/105314
-Agency & Division Information
-This position is part of the Data Services Portfolio within GSA’s Technology Transformation Service
+**Compensation/Grade Level:** GS-14/GS-15
+
+- [Information regarding the General Schedule Grade Levels](https://www.opm.gov/policy-data-oversight/pay-leave/pay-systems/general-schedule)
+- [General Schedule Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2016/general-schedule-gs-salary-calculator/)
+
+**Key Requirements:** U.S. citizenship is required.
+
+**Security Clearance:** Public Trust - background investigation required.
+
+**Benefits:** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.gsa.gov/portal/content/105121) offered to most federal employees.
+
+Please visit [GSA Careers](http://www.gsa.gov/portal/content/105311) for more information about what it’s like to work at the GSA.
 
 **General Service Administration**
-**Mission:** We help agencies buy smarter, reduce their real estate footprint, and create a better, faster government.  At GSA, you can be a part of a team that’s at the forefront of initiatives that shape where and how the government does work.  
+**Mission:** We help agencies deliver the best value in real estate, acquisition, and technology services to government and the American people. At GSA, you can be a part of a team that’s at the forefront of initiatives that shape where and how the government does work.  
 
 **Technology Transformation Service**
+
 **Mission:** Improve the public’s experience with the government by helping agencies build, buy and share technology that allows them to better serve the public.
 The new Technology Transformation Service applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. The Service builds, provides, and shares technology applications, platforms, processes, personnel, and software solutions to federal agencies in an effort to help them better serve the public.
-Data Services Portfolio
+
+**Data Services Portfolio**
 The Data Services Portfolio seeks to empower the public and agencies by making government information more open and discoverable and leveraging data as a strategic asset for decision-making, continual improvement, and creative solutions. The primary programs in the portfolio are Data.gov and the Digital Analytics Program (DAP). Feedback Analytics is being established as the portfolio’s third program to mature and expand pilot projects that collect and analyze customer experience data: Feedback USA and the DAP customer satisfaction survey tool, and potential future tools that measure related data. 
 
 ## **Role Summary:**
@@ -36,24 +49,24 @@ The Data Services Portfolio seeks to empower the public and agencies by making g
 
 **Key Objectives:**
 - Create and maintain a javascript-based customer satisfaction survey tool that can be offered across multiple platforms and agencies. This may entail but is not limited to:
-- Front-end appearance and deployment methods
-- Data infrastructure and framework creation 
-- Development of reporting interface
-- Research and design of a method to integrate with Google Analytics
+- Front-end appearance and deployment methods;
+- Data infrastructure and framework creation; 
+- Development of reporting interface;
+- Research and design of a method to integrate with Google Analytics.
 
 **Additional Data Services Portfolio responsibilities including but not limited to:**
-- Maintenance, feature additions, bug fixes for DAP javascript code.
-- Agency customer support for implementation of custom events/features, troubleshooting, and implementation of the DAP script.
-- Work on expansion of the open source - analytics.usa.gov - data,visualization, design, et
-- Grow into leading DAP use of a tag management system to deploy analytics tools
+- Maintenance, feature additions, bug fixes for DAP javascript code;
+- Agency customer support for implementation of custom events/features, troubleshooting, and implementation of the DAP script;
+- Work on expansion of the open source - analytics.usa.gov - data,visualization, design, etc.;
+- Grow into leading DAP use of a tag management system to deploy analytics tools.
 
 **Desired skills:**
-- Proficient in front-end web development, solid grasp of Javascript 
-- Back-end experience preferable
-- Experience with analytics products, Google Analytics preferred
-- Experience with digital feedback tools preferred
-- Knowledge of GitHub desired
-- Previous work with government a plus
+- Proficient in front-end web development, solid grasp of Javascript;
+- Back-end experience preferable;
+- Experience with analytics products, Google Analytics preferred;
+- Experience with digital feedback tools preferred;
+- Knowledge of GitHub desired;
+- Previous work with government a plus.
 
 **Other info**
 * [Analytics.usa.gov](Analytics.usa.gov)
