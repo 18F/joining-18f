@@ -27,7 +27,7 @@ description: Job posting for the GSA Feedback Analytics Program Manager.
 
 **Security Clearance** Public Trust - background investigation required.
 
-**Benefits** The federal government offers a comprehensive benefits package. [Explore the major benefits] (http://www.gsa.gov/portal/content/105121) offered to most federal employees.
+**Benefits** The federal government offers a comprehensive benefits package. [Explore the major benefits](http://www.gsa.gov/portal/content/105121) offered to most federal employees.
 
 Please visit [GSA Careers](http://www.gsa.gov/portal/content/105311) for more information about what it’s like to work at the GSA.
 
