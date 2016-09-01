@@ -1,7 +1,7 @@
 ---
 title: Program Manager, Feedback Analytics
-permalink: _positions/program-manager-feedback-analytics.MD
-team: gsa feedback analytics
+permalink: raas/gsa/program-manager-feedback-analytics/
+team: gsa
 active: true
 description: Job posting for the GSA Feedback Analytics Program Manager.
 ---
