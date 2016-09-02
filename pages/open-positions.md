@@ -27,8 +27,8 @@ If you’re interested in these opportunities, please email a detailed resume to
 
 **General Services Administration (GSA) Feedback Analytics Roles**
 
-- [Program Manager, Feedback Analytics]({{ site.baseurl }}/raas/gsa/program-manager-feedback-analytics/)
-- [Data Services Developer, Feedback Analytics]({{ site.baseurl }}/raas/gsa/developer-data-services/)
+- [Program Manager]({{ site.baseurl }}/raas/gsa/program-manager-feedback-analytics/)
+- [Developer – Data Services]({{ site.baseurl }}/raas/gsa/developer-data-services/)
 
 **Department of Housing and Urban Development (HUD) Roles**
 
