@@ -25,6 +25,11 @@ If you’re interested in these opportunities, please email a detailed resume to
 - [Technical Architect, TAPD]({{ site.baseurl }}/raas/epa/tapd-technical-architect/) 
 - [Technical Architect-User Experience, OSIM]({{ site.baseurl }}/raas/epa/osim-technical-architect/)
 
+**General Services Administration (GSA) Feedback Analytics Roles**
+
+- [Program Manager, Feedback Analytics]({{ site.baseurl }}/raas/gsa/program-manager-feedback-analytics/)
+- [Data Services Developer, Feedback Analytics]({{ site.baseurl }}/raas/gsa/developer-data-services/)
+
 **Department of Housing and Urban Development (HUD) Roles**
 
 - [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/)
