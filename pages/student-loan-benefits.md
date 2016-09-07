@@ -22,4 +22,4 @@ You don't need to work for the federal government to qualify for the PSLF. If yo
 
 ## The federal Student Loan Repayment Program
 
-The [Student Loan Repayment Program](https://www.opm.gov/policy-data-oversight/pay-leave/student-loan-repayment/) is an option for federal agencies to repay a certain amount of an employee's loans while they are employed it requires a 3 year commitment from the employee. Since we are on 2 + 2 year terms, at this time **most 18F employees do not qualify for this program.** As such, 18F is not offering this benefit to any candidates.
+The [Student Loan Repayment Program](https://www.opm.gov/policy-data-oversight/pay-leave/student-loan-repayment/) is an option for federal agencies to repay a certain amount of an employee's loans while they are employed. It requires a 3 year commitment from the employee. Since we are on 2 + 2 year terms, at this time **most 18F employees do not qualify for this program.** As such, 18F is not offering this benefit to any candidates.
