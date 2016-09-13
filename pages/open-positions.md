@@ -12,7 +12,6 @@ If you'd like to learn about open roles as they come available, you can sign up 
 ## Opportunities with 18F partners
 We’re currently supporting other agencies’ recruiting efforts to build digital service and innovation teams. Below you’ll find a list of the current positions along with their associated agencies. For all of these opportunities, please note:
 
-- Deadline for priority consideration for these roles is Friday, September 9, 2016.
 - You must have availability to interview prior to Friday, September 23, 2016.
 - You must be in the D.C. area or willing to relocate to D.C. Unfortunately, we can’t provide relocation assistance.
 
@@ -32,8 +31,6 @@ If you’re interested in these opportunities, please email a detailed resume to
 
 **Department of Housing and Urban Development (HUD) Roles**
 
-- [User Experience Designer, Information Architecture]({{ site.baseurl }}/raas/hud/user-experience-designer-information-architecture/)
-- [User Experience Designer, Research]({{ site.baseurl }}/raas/hud/user-experience-designer-research/)
 - [Product Lead]({{ site.baseurl }}/raas/hud/product-lead/)
 - [Developer, Data]({{ site.baseurl }}/raas/hud/software-developer/)
 - [Technical Architect, Data]({{ site.baseurl }}/raas/hud/technical-architect/)
