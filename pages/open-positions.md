@@ -17,23 +17,10 @@ We’re currently supporting other agencies’ recruiting efforts to build digit
 
 If you’re interested in these opportunities, please email a detailed resume to [join18f@gsa.gov](mailto:join18f@gsa.gov) and reference the position you are interested in. You may apply to more than one role.
 
-**Environmental Protection Agency (EPA) Roles**
-
-- [Cloud Architect/Infrastructure Engineer]({{ site.baseurl }}/raas/epa/cloud-architect/) 
-- [Technical Architect, OTAQ]({{ site.baseurl }}/raas/epa/otaq-technical-architect/) 
-- [Technical Architect, TAPD]({{ site.baseurl }}/raas/epa/tapd-technical-architect/) 
-- [Technical Architect-User Experience, OSIM]({{ site.baseurl }}/raas/epa/osim-technical-architect/)
-
 **General Services Administration (GSA) Feedback Analytics Roles**
 
 - [Program Manager]({{ site.baseurl }}/raas/gsa/program-manager-feedback-analytics/)
 - [Developer – Data Services]({{ site.baseurl }}/raas/gsa/developer-data-services/)
-
-**Department of Housing and Urban Development (HUD) Roles**
-
-- [Product Lead]({{ site.baseurl }}/raas/hud/product-lead/)
-- [Developer, Data]({{ site.baseurl }}/raas/hud/software-developer/)
-- [Technical Architect, Data]({{ site.baseurl }}/raas/hud/technical-architect/)
 
 ## See also
 
