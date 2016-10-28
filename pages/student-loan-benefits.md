@@ -18,7 +18,7 @@ The PSLF bases the forgiveness benefit on the number of _qualified payments_ you
 
 ### Pre- and post-18F work
 
-You don't need to work for the federal government to qualify for the PSLF. If you came here from a non-profit, school, or [any other qualifying employer[(https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service#qualifying-employment) make sure you get your tenure there to count as well. Likewise, if you go to work for one of those places after your term ends, make sure to re-apply through your new employer.
+You don't need to work for the federal government to qualify for the PSLF. If you came here from a non-profit, school, or [any other qualifying employer](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service#qualifying-employment) make sure you get your tenure there to count as well. Likewise, if you go to work for one of those places after your term ends, make sure to re-apply through your new employer.
 
 ## The federal Student Loan Repayment Program
 
