@@ -10,7 +10,7 @@ If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mai
 
 **When you apply, you’ll need to submit a government-style resume.** A government-style resume is very different from a private sector resume; one major difference is the depth of detail required throughout the entire resume. Because of the level of detail required, it is completely acceptable for your government-style resume to be several pages long. 
 
-The web has many guides to building a government-style resume and no two resources are alike. **This guide** is most relevant to applying to 18F. It also shows how to format a government-styled resume and shares the key pieces to include. 
+The web has many guides to building a government-style resume and no two resources are alike. [This guide]({{ site.baseurl }}/assets/18F-GovernmentResumeGuide.pdf) is most relevant to applying to 18F. It also shows how to format a government-styled resume and shares the key pieces to include. 
 
 Here are additional resources from other organizations, in case you'd like to refer to them: 
 - [GoGovernment's Create Your Federal Resume Guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) 
