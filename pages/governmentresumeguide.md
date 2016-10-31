@@ -4,6 +4,7 @@ title: Government-style Resume Guide
 ---
 
 **Full legal name (First Middle Last)** <br>
+**Preferred name <br>
 **City, state of current residence** <br>
 **Email address** <br>
 **Phone number** <br>
@@ -33,7 +34,7 @@ highlighted, as those are relevant skills.* <br>
 **Role/title, Company name** <br>
 **City, State if within US or City, Country if outside of US** <br>
 **Duration of employment (Start MM/YYYY - End MM/YYYY or “Present”)** <br>
-**“Full-Time” or “Part-Time,” Number of hours per week: ##** <br>
+**“Full-Time” or “Part-Time,” Number of hours per week: __ ** <br>
 *Include a one sentence description of the company, including the mission. This is to understand
 the scope of work, context of your accomplishments and contributions, scale of the company,
 and your role in the organization.* <br>
