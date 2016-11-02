@@ -3,8 +3,7 @@ permalink: /government-style-resume-guide/
 title: Government-style Resume Guide
 ---
 
-**Full legal name (First Middle Last)** <br>
-**Preferred name <br>
+**Name** <br>
 **City, state of current residence** <br>
 **Email address** <br>
 **Phone number** <br>
