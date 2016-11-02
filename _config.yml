@@ -53,6 +53,9 @@ navigation:
 - text: Government pay grades explained
   url: pay-grades/
   internal: true
+- text: Government-style resume guide
+  url: government-style-resume-guide/
+  internal: true
 - text: Leave policies
   url: leave-policies/
   internal: true
