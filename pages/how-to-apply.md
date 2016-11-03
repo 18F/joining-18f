@@ -8,14 +8,18 @@ If you have any questions, please reach our Talent Team at [join18f@gsa.gov](mai
 
 ## Documents required for the hiring process
 
-**When you apply, you’ll need to include a current, government-style resume.** Government-style resumes are very different from private-sector resumes. [Here is a guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) and an [example resume](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf). Please overexplain, include dates of each engagement, and include everything and the kitchen sink.
+**When you apply, you’ll need to submit a government-style resume.** A government-style resume is very different from a private sector resume; one major difference is the depth of detail required throughout the entire resume. Because of the level of detail required, it is completely acceptable for your government-style resume to be several pages long. 
+
+The web has many guides to building a government-style resume and no two resources are alike. [This guide]({{ site.baseurl }}/government-style-resume-guide/) is most relevant to applying to 18F. It also shows how to format a government-style resume and shares the key pieces to include.
+
+Here are additional resources from other organizations, in case you'd like to refer to them: 
+- [GoGovernment's Create Your Federal Resume Guide](http://gogovernment.org/how_to_apply/write_your_federal_resume/create_your_resume.php) 
+- [Food and Drug Administration (FDA)'s Federal Resume Template](http://www.fda.gov/downloads/AboutFDA/WorkingatFDA/UCM279014.pdf)
 
 **Later, after you’ve passed through the 18F [interview
 phase]({{ site.baseurl }}/interview-process/)**, your point of contact on the 18F Talent Team will ask you for three professional references (names, titles, and email addresses). Once we hear back from them, the GSA HR Team will ask you for additional documents in order to proceed with the hiring process.
 
-It’s not a bad idea to start to pull these together in advance
-because some of them take time to complete. All documents should be
-submitted as a PDF to your point of contact on the GSA HR Team.
+It’s not a bad idea to start to pull these together in advance because some of them take time to complete. All documents should be submitted as a PDF to your point of contact on the GSA HR Team.
 
 -   **Security clearance**
     -   [OF306 — Declaration for Federal Employment](https://www.opm.gov/Forms/pdf_fill/of0306.pdf)
