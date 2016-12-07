@@ -1,4 +1,5 @@
 ---
+permalink: /student-loan-benefits/
 title: Student loan benefits
 ---
 ## Public Service Loan Forgiveness
