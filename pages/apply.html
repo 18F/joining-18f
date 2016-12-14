@@ -30,7 +30,7 @@
         window.location.href = './apply-thank-you.html';
       })}"></iframe>
 
-    <form action="https://docs.google.com/a/gsa.gov/forms/d/1OCtPVLMP8O5nfDnGTJZngxFxZR4EvFcYSqJ-thHxojc/formResponse" method="post"
+    <form action="https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfbe4KAEqQFp07f8zfD6xWAfdFTAaZ04tpDQRJnNPeBHoW6RQ/viewform" method="post"
     target="hidden_iframe" onsubmit="submitted=true;">
 
       Fields that are marked with <span class="required">*</span> are required.
@@ -42,9 +42,12 @@
 
         <div class="usa-input">
           <input type="checkbox" name="entry.1377828897" value="Verify that you meet the above eligibility requirements" id="group_1377828897_1" role="checkbox" class="ss-q-checkbox">
-          <label for="group_1377828897_1">Verify that you meet the above eligibility requirements</label>
+          <label for="group_1377828897_1">I, the applicant, verify that I meet the above eligibility requirements.</label>
+          <label for="group_1377828897_2">I, the applicant, verify that I do not meet the above eligibility requirements and will not be completing the rest of this application.</label>
         </div>
 
+    
+        
       </fieldset>
 
       <fieldset class="contact-information">
@@ -52,8 +55,18 @@
         <h2><legend>Contact Information:</legend></h2>
 
         <div class="usa-input name">
-          <label class="ss-q-item-label" for="entry_1741264393">Name <span class="required">*</span></label>
-          <input type="text" name="entry.1741264393" value="" class="ss-q-short" id="entry_1741264393" dir="auto" aria-label="Name  " aria-required="true" title="" required />
+                 
+          <p>
+          <label class="ss-q-item-label" for="entry_1741264393">First Middle Last Name <span class="required">*</span></label>
+          <br/>
+            If no middle name (NMN), write "NMN" between your first and last name. 
+          </p>
+            <input type="text" name="entry.1741264393" value="" class="ss-q-short" id="entry_1741264393" dir="auto" aria-label="First Middle Last Name  " aria-required="true" title="" required />
+        </div>
+        
+        <div class="usa-input preferredname">
+          <label class="ss-q-item-label" for="entry_732113689">Preferred Name <span class="required">*</span></label>
+          <input type="text" name="entry.732113689" value="" class="ss-q-short" id="entry_732113689" dir="auto" aria-label="Preferred Name" aria-required="true"  data-parsley-trigger="change"  title="Preferred Name" required />
         </div>
 
         <div class="usa-input email">
@@ -62,7 +75,7 @@
         </div>
 
         <div class="usa-input phone">
-          <label class="ss-q-item-label" for="entry_1557983315">Phone</label>
+          <label class="ss-q-item-label" for="entry_1557983315">Best Phone Number</label>
           <input type="text" name="entry.1557983315" value="" class="ss-q-short" id="entry_1557983315" dir="auto" aria-label="Phone  " title="">
         </div>
 
@@ -152,26 +165,27 @@
         <div class="usa-input">
 
           <input type="checkbox" name="entry.1263390573" value="Verify your ability to work full-time" id="group_1263390573_1" role="checkbox" class="ss-q-checkbox">
-          <label for="group_1263390573_1">Verify your ability to work full-time</label>
+          <label for="group_1263390573_1">I am able to work full time (40 hours/week).</label>
+          <label for="group_1263390573_2">I am not able to work full time.</label>
 
         </div>
 
         <div class="usa-input">
 
-          <p><label class="ss-q-item-label" for="entry_1402744878">Select your preferred work location:</label></p>
+          <p><label class="ss-q-item-label" for="entry_1402744878">Select your preferred work location(s):</label></p>
 
           <ul class="usa-unstyled-list">
             <li>
-              <input id="group_449208752_1" type="checkbox" name="entry.449208752" value="Chicago" tabindex="0">
-              <label for="group_449208752_1">Chicago</label>
+              <input id="group_449208752_1" type="checkbox" name="entry.449208752" value="Chicago, IL" tabindex="0">
+              <label for="group_449208752_1">Chicago, IL</label>
             </li>
             <li>
-              <input id="group_449208752_2" type="checkbox" name="entry.449208752" value="New York" tabindex="0">
-              <label for="group_449208752_2">New York</label>
+              <input id="group_449208752_2" type="checkbox" name="entry.449208752" value="New York, NY" tabindex="0">
+              <label for="group_449208752_2">New York, NY</label>
             </li>
             <li>
-              <input id="group_449208752_3" type="checkbox" name="entry.449208752" value="San Francisco" tabindex="0">
-              <label for="group_449208752_3">San Francisco</label>
+              <input id="group_449208752_3" type="checkbox" name="entry.449208752" value="San Francisco, CA" tabindex="0">
+              <label for="group_449208752_3">San Francisco, CA</label>
             </li>
             <li>
               <input id="group_449208752_4" type="checkbox" name="entry.449208752" value="Washington, DC" tabindex="0">
@@ -188,7 +202,7 @@
         <div class="usa-input">
           <label for="entry_422263110">Where did you learn about 18F?</label>
           <p>If applicable, please include a name or referral code.</p>
-          <textarea name="entry.422263110" rows="8" cols="0" class="ss-q-long" id="entry_422263110" dir="auto" aria-label="Where did you learn about 18F?  "></textarea>
+          <textarea name="entry.422263110" rows="8" cols="0" class="ss-q-long" id="entry_422263110" dir="auto" aria-label="Where did you learn about 18F? If someone referred you to us, please include their name. "></textarea>
         </div>
 
 
@@ -201,15 +215,14 @@
 
         <div class="usa-input">
 
-          <label class="ss-q-item-label" for="entry_227038756">What position (grade level) are you applying to? <span class="required">*</span></label>
+          <label class="ss-q-item-label" for="entry_227038756">What position and GS level are you applying to? <span class="required">*</span></label>
 
-          <p>Please see: <a href="https://pages.18f.gov/joining-18f/pay-grades/">Government pay grades explained</a></p>
+          <p>GS level is the pay grade. Please see: <a href="https://pages.18f.gov/joining-18f/pay-grades/">Government pay grades explained</a></p>
 
-          <select name="entry.227038756" id="entry_227038756" aria-label="What position (grade level) are you applying to? Please see &quot;Government pay grades explained:&quot; https://pages.18f.gov/joining-18f/pay-grades/ " aria-required="true" required=>
+          <select name="entry.227038756" id="entry_227038756" aria-label="What position and GS level are you applying to? GS level is the pay grade. Please see &quot;Government pay grades explained:&quot; https://pages.18f.gov/joining-18f/pay-grades/ " aria-required="true" required=>
             <option value=""></option>
-            <option value="Innovation Specialist (Grade Level 13)">Innovation Specialist (Grade Level 13)</option>
-            <option value="Innovation Specialist (Grade Level 14)">Innovation Specialist (Grade Level 14)</option>
-            <option value="Innovation Specialist (Grade Level 15)">Innovation Specialist (Grade Level 15)</option>
+            <option value="Product Manager (GS 14)">Product Manager (GS 14)</option>
+            <option value="Product Manager (GS 15)">Product Manager (GS 15)</option>
           </select>
 
         </div>
@@ -217,53 +230,7 @@
 
       </fieldset>
 
-
-      <fieldset class="skillset">
-
-        <h2><legend>Skillset:</legend></h2>
-
-        <div class="usa-input">
-
-          <label class="ss-q-item-label" for="entry_1452897538">Please indicate your primary skillset. <span class="required">*</span></label>
-          <p>Your response here will be used primarily in assigning reviewers for your application.</p>
-
-          <select name="entry.1452897538" id="entry_1452897538" aria-label="Please indicate your primary skillset. Your response here will be used primarily in assigning reviewers for your application. " aria-required="true" required>
-            <option value=""></option>
-            <option value="Acquisition, Contracts">Acquisition, Contracts</option> <option value="Business Development">Business Development</option> <option value="Communications, Marketing">Communications, Marketing</option> <option value="Consulting">Consulting</option> <option value="Cybersecurity">Cybersecurity</option> <option value="Design: Visual">Design: Visual</option> <option value="Design: Content">Design: Content</option> <option value="Design: Front End">Design: Front End</option> <option value="Design: UX, Research">Design: UX, Research</option> <option value="Operations, Recruiting">Operations, Recruiting</option> <option value="Product Management">Product Management</option> <option value="Project Management">Project Management</option> <option value="Software Dev: Front End">Software Dev: Front End</option> <option value="Software Dev: Back End">Software Dev: Back End</option> <option value="Software Dev: DevOps, SRE">Software Dev: DevOps, SRE</option>
-          </select>
-
-        </div>
-
-        <div class="usa-input">
-
-          <label class="ss-q-item-label" for="entry_153251914">Please indicate your secondary skillset.</label>
-          <select name="entry.153251914" id="entry_153251914" aria-label="Please indicate your secondary skillset. Option]al. Your response here will be used primarily in assigning reviewers for your application. ">
-            <option value=""></option>
-            <option value="Acquisition, Contracts">Acquisition, Contracts</option> <option value="Business Development">Business Development</option> <option value="Communications, Marketing">Communications, Marketing</option> <option value="Consulting">Consulting</option> <option value="Cybersecurity">Cybersecurity</option> <option value="Design: Visual">Design: Visual</option> <option value="Design: Content">Design: Content</option> <option value="Design: Front End">Design: Front End</option> <option value="Design: UX, Research">Design: UX, Research</option> <option value="Operations, Recruiting">Operations, Recruiting</option> <option value="Product Management">Product Management</option> <option value="Project Management">Project Management</option> <option value="Software Dev: Front End">Software Dev: Front End</option> <option value="Software Dev: Back End">Software Dev: Back End</option> <option value="Software Dev: DevOps, SRE">Software Dev: DevOps, SRE</option>
-          </select>
-
-        </div>
-
-        <div class="usa-input">
-
-          <label class="ss-q-item-label" for="entry_677498968">Please indicate your tertiary skillset.</label>
-          <select name="entry.677498968" id="entry_677498968" aria-label="Please indicate your tertiary skillset. Optional. Your response here will be used primarily in assigning reviewers for your application. ">
-            <option value=""></option>
-            <option value="Acquisition, Contracts">Acquisition, Contracts</option> <option value="Business Development">Business Development</option> <option value="Communications, Marketing">Communications, Marketing</option> <option value="Consulting">Consulting</option> <option value="Cybersecurity">Cybersecurity</option> <option value="Design: Visual">Design: Visual</option> <option value="Design: Content">Design: Content</option> <option value="Design: Front End">Design: Front End</option> <option value="Design: UX, Research">Design: UX, Research</option> <option value="Operations, Recruiting">Operations, Recruiting</option> <option value="Product Management">Product Management</option> <option value="Project Management">Project Management</option> <option value="Software Dev: Front End">Software Dev: Front End</option> <option value="Software Dev: Back End">Software Dev: Back End</option> <option value="Software Dev: DevOps, SRE">Software Dev: DevOps, SRE</option>
-          </select>
-
-        </div>
-
-        <div class="usa-input">
-
-          <label class="ss-q-item-label" for="entry_189037147">Other skills you have</label>
-          <textarea name="entry.189037147" rows="8" cols="0" class="ss-q-long" id="entry_189037147" dir="auto" aria-label="Other skills you have  "></textarea>
-
-        </div>
-
-      </fieldset>
-
-
+      
       <fieldset>
 
         <h2><legend>Where can we find you online?</legend></h2>
@@ -290,15 +257,15 @@
 
       <fieldset class="resume">
 
-        <h2><legend>R&eacute;sum&eacute;:</legend></h2>
+        <h2><legend>Resume:</legend></h2>
 
         <div class="usa-input">
 
-          <label class="ss-q-item-label" for="entry_710467749">Résumé <span class="required">*</span></label>
+          <label class="ss-q-item-label" for="entry_710467749">Resume <span class="required">*</span></label>
 
-          <p>Please copy and paste your r&eacute;sum&eacute; (or a link to it) below. Do NOT include your Social Security Number. Please be aware that cutting and pasting will remove most formatting. Be sure to include the number of years of experience for any given position.</p>
+          <p>Please copy and paste your resume (or a link to it) below. Do not include your Social Security Number. For guidance on how to build a government style resume, please visit this link: <a href="https://www.google.com/url?q=https://pages.18f.gov/joining-18f/government-style-resume-guide/&amp;sa=D&amp;ust=1481737893327000&amp;usg=AFQjCNG-pdCtJ0G4YQ5X3w1-lzjUTVy3QA">https://pages.18f.gov/joining-18f/government-style-resume-guide/</a></p>
 
-          <textarea name="entry.710467749" rows="8" cols="0" class="ss-q-long" id="entry_710467749" dir="auto" aria-label="Résumé: Please copy and paste your résumé (or a link to it) below. Do NOT include your Social Security Number. Be sure to include the number of years of experience for any given position." aria-required="true" required></textarea>
+          <textarea name="entry.710467749" rows="8" cols="0" class="ss-q-long" id="entry_710467749" dir="auto" aria-label="Resume: Please copy and paste your résumé (or a link to it) below. Do NOT include your Social Security Number. Please be aware that cutting and pasting will remove most formatting." aria-required="true" required></textarea>
 
         </div>
 
@@ -316,28 +283,11 @@
 
         </div>
 
+     
         <div class="usa-input">
 
-          <label class="ss-q-item-label" for="entry_976680464">Please select the role to which you&#39;d like to apply: <span class="required">*</span></label>
-          <p>For more information about available roles, please refer to <a href="https://pages.18f.gov/joining-18f/who-we-are-hiring/">this page</a>. If you don&#39;t see a role that is a good fit for you, please check back soon as our needs change frequently.</p>
-          <select name="entry.976680464" id="entry_976680464" aria-label="Please select the role to which you&#39;d like to apply. For more information about available roles, please refer to https://pages.18f.gov/joining-18f/who-we-are-hiring. If you don&#39;t see a role that is a good fit for you, please check back soon as our needs change frequently. " aria-required="true" required="">
-
-            <option value=""></option>
-            <option value="Design and Product Strategist">Design and Product Strategist</option>
-            <option value="Director of Outreach">Director of Outreach</option>
-            <option value="Front End Designer">Front End Designer</option>
-            <option value="Product Lead">Product Lead</option>
-            <option value="Site Reliability Engineer">Site Reliability Engineer</option>
-            <option value="Software Developer">Software Developer</option>
-            <option value="Visual Designer">Visual Designer</option>
-          </select>
-
-        </div>
-
-        <div class="usa-input">
-
-          <label class="ss-q-item-label" for="entry_1108678713">Tell us why you&#39;re interested in this role.</label>
-          <textarea name="entry.1108678713" rows="8" cols="0" class="ss-q-long" id="entry_1108678713" dir="auto" aria-label="Tell us why you&#39;re interested in this role. "></textarea>
+          <label class="ss-q-item-label" for="entry_1108678713">Tell us why you&#39;re interested in the role you're applying for.</label>
+          <textarea name="entry.1108678713" rows="8" cols="0" class="ss-q-long" id="entry_1108678713" dir="auto" aria-label="Tell us why you&#39;re interested in the role you're applying for. "></textarea>
 
         </div>
 
@@ -364,7 +314,7 @@
    <div class="usa-alert usa-alert-success">
       <div class="usa-alert-body">
         <h1 class="usa-alert-heading">Thank you!</h1>
-        <p class="usa-alert-text">Your form submission has been successfully submitted.</p>
+        <p class="usa-alert-text">Thank you for your application. We'll be in touch if there is a fit. For questions, please email us at join18f@gsa.gov.</p>
       </div>
     </div>
   </div>
