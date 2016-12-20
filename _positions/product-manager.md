@@ -1,6 +1,6 @@
 ---
 title: Product Manager
-permalink: pay-grades/product-manager/
+permalink: positions/product-manager/
 team: 18F
 active: true
 ---
