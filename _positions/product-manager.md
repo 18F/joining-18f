@@ -1,6 +1,6 @@
 ---
-title: Product Lead
-permalink: pay-grades/product-lead/
+title: Product Manager
+permalink: pay-grades/product-manager/
 team: 18F
 active: true
 ---
