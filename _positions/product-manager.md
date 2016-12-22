@@ -4,39 +4,112 @@ permalink: positions/product-manager/
 team: 18F
 active: true
 ---
-**GS Grade Level:** 13
+##Basic Information:
+**Title:** Product Manager  <br>
+**Series & Grade Level:** GS-2210-14/15 <br>
+**Salary Range:** Base Salary GS-14 - $87,263 to $113,444; Base Salary GS-15 - $102,646 to $133,444. Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/ <br>
+**Work Schedule:** Full Time<br>
 
-This position is located in the General Services Administration (GSA), Office of Citizen Services Innovation and Technology & 18F (OCSIT/18F). The 18F office is charged with developing innovative digital tools and services. 18F uses lean startup and agile development principles to make easy things easy and hard things possible.
+**Job Announcement Number:** 17001-Product Manager<br>
+**Open:** DATE<br>
+**Close:** DATE<br>
 
-As an Innovation Specialist, the incumbent serves the government and makes an impact on a truly massive scale. The position requires that fellows perform work of an exceptional degree of difficulty across a wide range of topics at the convergence of technology, policy, and delivery. The incumbent leverages their experience deploying high-quality, user-centric platforms and services to lead major initiatives, consult on systems and policy proposals, and provide technical, policy, and programmatic guidance to government. The position involves access to PII data.
+**Who May Apply:**
+Any individual who is not currently a GSA employee or contractor and who is a U.S. Citizen, a non-citizen national of the U.S., or has been admitted to the U.S. for permanent residence and holds a valid green card is eligible to apply.
 
-###Major duties:
-Typical duties for the fellow include (but are not limited to):
+**Position Type:** Excepted Service - Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.<br>
+**Number of Vacancies:** 1 (At this time, we are only filling one vacancy however additional vacancies may be filled from this announcement as needed)<br>
+**Location:** Anywhere in the United States<br>
+**Travel Required:** Occasional Travel<br>
+**Supervisory Status:** No<br>
+**Security Clearance:** Public Trust - background investigation required.<br>
 
-- Conceiving of and recommending projects or studies to advance the state of the art in the specialty area
-- Applying forward-thinking design and development principles such as lean startup, user-centered design, and agile development to product or services development, delivery, and program management
-- Analyzing and scoping the technical and policy requirements needed to implement complex digital solutions
-- Assessing the state of digital services provided by the federal government and working to align strategies and practice; conferring with key government/private officials and top experts in the field; representing the GSA at technical symposia and/or conferences
-- Demonstrating thought leadership in and contributing best practices to varied technologies and principles
-- Performing other related duties as assigned
+Do you have a passion for public service? The General Services Administration (GSA) is looking for you! GSA is a federal government agency whose mission is to bring the best value in real estate, acquisition, and technology services to the American people.<br>
 
-###Qualifications required:
-This highly competitive program seeks talented, diverse individuals from the innovation community, and candidates are required to demonstrate expertise in a number of competencies. The position requires diverse knowledge, including:
+##Role Summary:<br>
+An 18F Product Manager is the steward who guides a product from concept to delivery. As a Product Manager, you’ll lead cross-functional teams to deliver user-centered products using agile methodologies.  You will build collaborative relationships with our partners and customers to help meet the needs of their mission and users, and to achieve lasting transformation in the way they build and buy digital services.<br>
 
-- Master knowledge of and expertise in a wide variety of technologies and or technical concepts to facilitate the delivery of services to consumers and businesses
-- Comprehensive knowledge of and expertise in user-centered design, consumer internet technologies, service delivery, and management approaches, allowing the incumbent to provide sound and authoritative leadership on all issues related to the program
-- Expert knowledge of and expertise in product delivery, agile development methodologies, and open source software development
-- Knowledge of and expertise in driving and implementing technology solutions that overcome significant challenges resulting from complex or bureaucratic environments, or technically difficult problems
-- Comprehensive knowledge of and expertise in all stages of product or business development, and ability to lead complex technology and policy initiatives from inception to implementation
-- Knowledge of and expertise in frameworks for evaluating a range of qualitative and quantitative metrics around user needs, resource prioritization, and program management
-- Skill in oral communication to present sensitive recommendations to higher authority, to obtain compliance with policies from activities nationwide, to articulate positions/policies of vast technical complexity, and to represent the agency on task forces
-- Skill in analysis in order to apply a range of qualitative and/or quantitative methods for assessing and improving program effectiveness
+##Duties:<br>
+The duties of this position include, but are not limited to, the following objectives:<br>
 
-Candidates are also evaluated for their competencies in key areas, including:
+**Objective #1: You will own the product vision and lead end-to-end product development.**<br>
+- Establish a shared vision and understanding across the team. 
+- Ensure all members of the 18F and partner teams have a shared understanding of the project’s objectives and goals. 
+- Navigate complex bureaucratic relationships to bring stakeholders together around a common goal.
+- Apply user centered design methods to ensure we’re building the right product.
+- Revisit and revise project direction based on the outcome of experiments and user-based learning. 
+- Analyze market fit and make build vs. buy recommendations.
+- Use evidence (user research, analytics, and other metrics) to make product decisions, ask “why” a lot, and recognize the difference between “we can’t do that because of bureaucracy” and “we can’t do that because of the law.”
+- Work with other teams at 18F, GSA, and partner organizations to ensure compliance with federal regulations such as Authority to Operate, the Paperwork Reduction Act, and Section 508.
 
-- Analysis and creative problem solving: Expertise in determining user needs or identifying market opportunities and designing and deploying solutions
-- Technology acumen: Knowledge of standard and emergent web technologies
-- Entrepreneurship and product management: Experience delivering products or services from concept to market
-- Approach and methodology: Expertise applying frameworks that emphasize delivery, iteration, quantitative and qualitative learnings, and responsiveness
-- Empathy and emotional intelligence: Experience in client-facing roles, navigating bureaucracy, business development, or delivering services with a strong user-facing or consumer-oriented element
-- Tools and execution: Experience in design, development, and deployment of solutions leveraging current and emergent technologies and best practices
+**Objective #2: You will assemble and lead a cross-functional team to deliver the right product using agile-based methodologies.**<br>
+- Determine the size, skills, and roles necessary for a team to deliver and help identify those team members.
+- Lead and manage a cross-functional delivery team and focus team efforts towards current goals and priorities.
+- Believe in and practice agile as a philosophy, not necessarily agile as a dogma.
+- Establish the bar for quality and the definition of done.
+- Identify and proactively address project risks.
+- Explore new tools, methodologies, processes, etc. and share lessons with other product leads.
+- Mentor others, give constructive criticism, and improve practices and standards on your teams.
+- Actively engage with the team at large — take part in cross-project and cross-domain conversation, skill- and knowledge-share, and working groups or guilds.
+
+**Objective #3: You will manage relationships with 18F’s agency partners.**<br>
+- Build trusted relationships with agency partners and help them understand 18F’s user centered, iterative approach to understanding the problem and building a solution.
+- Reinforce 18F’s “way we work” values (building in the open, using open source, etc.).
+- Make sure agency partners are fully engaged members of the team and help them manage expectations with their stakeholders.
+- Give agency partners advice they need to hear instead of what they want to hear. Promote best practices by making a strong case even in the face of resistance.
+- Ensure projects are delivered on budget and within the terms of our agreements. Define and execute plans to successfully transition projects at the end of 18F’s engagements to achieve lasting results.
+- Evaluate potential work for impact, risks, and alignment with 18F’s values.
+
+
+##Qualifications:
+Qualifications are based on length and level of experience.  Therefore, in addition to describing duties performed, applicants must provide the exact dates of each period of employment (from month/year to month/year) and the number of hours per week if part time.  Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
+
+**Applicants applying for this job must meet the following requirements:**
+
+Have product management related experience demonstrating *each* of the five competencies *and* specialized experience listed below:
+- **Communication**: Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals. 
+- **Product Experience**: Ability to deliver the right product using user-centered and agile-based methodologies.
+- **Leadership**: Ability to effectively lead a cross-functional team to meet project/product objectives. 
+- **Innovation**: Ability to apply innovative tools and technologies  and to help partners make strategic & tactical decisions toward innovation. 
+- **18F Core Values Alignment**: The ability to work with integrity, transparency and resiliency in civic minded or high impact environment. 
+
+###Specialized Experience:
+**GS-14**
+To qualify at a GS-14 level you must demonstrate at least one year of specialized experience at the next lower grade level GS-13, or equivalent in the federal service:
+- Developing or communicating the product vision and/or developing or managing the product roadmap
+- Use of innovation tools and methodologies such as Lean, Agile, Open Source, APIs, or UX
+- Leading cross functional teams to design, develop, and/or deliver digital products or services
+- Managing relationships, such as internal, stakeholders, clients, or users
+
+**GS-15**
+To qualify at a GS-15 level you must demonstrate at least one year of specialized experience at the next lower grade level GS-14, or equivalent in the federal service:
+- Owning, developing or communicating the product vision and/or developing or managing the product roadmap
+- Leading projects with cutting edge or complex technology, missions, or stakeholders, or a high degree of uncertainty, such as greenfield/startups, legacy migrations, projects at scale, or integrations
+- Use of innovation tools and methodologies such as Lean, Agile, Open Source, APIs, or UX
+- Leading cross functional teams to design, develop, and/or deliver digital products or services
+- Managing of a variety of relationships, such as internal, stakeholders, clients, or users 
+
+
+##Benefits
+GSA has been repeatedly named as one of the 'Best Place to Work' in the Federal Government. 
+
+GSA offers its employees a wide range of benefits including: Federal health insurance plans (choose from a wide range of plans); Life insurance coverage with several options to choose from; Leave policies to help you take care of your personal, recreational and health care needs; Thrift Savings Plan (similar to a 401(k) plan); Flexible work schedules and telework; Transit and child care subsidies; and Training and development
+
+##Point of Contact:
+Any questions regarding this position can be directed to Esther Chang via join18F@gsa.gov
+
+
+##Additional Information:
+**What To Expect Next**
+Qualification for this position will be conducted following the Category Rating process. Candidates for this position are evaluated by our bonafide Subject Matter Experts by comparing your skills and experience as described in your application with the requirements of the position. If you are found to be a highly qualified candidate, you will be referred to the selecting official for further consideration. Whether or not you are contacted for an interview depends upon judgment of the selecting official.
+
+**Veterans’ Preference Information** 
+There is no formal requirement for applying veteran's preference for excepted service positions. However, for this position, Veteran's’ Preference will be applied following the guidelines used under the Category Rating system. Information about Veteran’s Preference can be found here: https://www.opm.gov/policy-data-oversight/veterans-employment-initiative/vet-guide
+
+**EEO Statement**
+The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
+https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/
+
+**Reasonable Accommodations Statement**
+Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/
+
