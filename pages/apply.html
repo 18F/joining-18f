@@ -41,9 +41,16 @@
         <p>Any individual who is not currently a GSA employee or contractor and who is a U.S. citizen, a non-citizen national of the U.S. or holds a valid green card is eligible to apply.</p>
 
         <div class="usa-input">
-          <input type="checkbox" name="entry.1377828897" value="Verify that you meet the above eligibility requirements" id="group_1377828897_1" role="checkbox" class="ss-q-checkbox">
-          <label for="group_1377828897_1">I, the applicant, verify that I meet the above eligibility requirements.</label>
-          <label for="group_1377828897_2">I, the applicant, verify that I do not meet the above eligibility requirements and will not be completing the rest of this application.</label>
+          <ul class="usa-unstyled-list">
+            <li>
+              <input type="radio" name="entry.1377828897" value="Verify that you meet the above eligibility requirements" id="group_1377828897_1" role="radio" class="ss-q-radio" aria-required="true">
+              <label for="group_1377828897_1">I, the applicant, verify that I meet the above eligibility requirements.</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.1377828897" value="I, the applicant, verify that I do not meet the above eligibility and will not be completing the rest of this application." id="group_1377828897_2" role="radio" class="ss-q-radio" aria-required="true">
+              <label for="group_1377828897_2">I, the applicant, verify that I do not meet the above eligibility requirements and will not be completing the rest of this application.</label>
+            </li>
+          </ul>
         </div>
 
     
@@ -164,9 +171,18 @@
 
         <div class="usa-input">
 
-          <input type="checkbox" name="entry.1263390573" value="Verify your ability to work full-time" id="group_1263390573_1" role="checkbox" class="ss-q-checkbox">
-          <label for="group_1263390573_1">I am able to work full time (40 hours/week).</label>
-          <label for="group_1263390573_2">I am not able to work full time.</label>
+          <p><label class="ss-q-item-label" for="entry_1263390573">Verify your ability to work full-time:<span class="required">*</span></label></p>
+
+          <ul class="usa-unstyled-list">
+            <li>
+              <input type="radio" name="entry.1263390573" value="Verify your ability to work full-time." aria-label="Verify your ability to work full-time." id="group_1263390573_1" role="radio" class="ss-q-radio" aria-required="true" required>
+              <label for="group_1263390573_1">I am able to work full time (40 hours/week).</label>
+            </li>
+            <li>
+              <input type="radio" name="entry.1263390573" value="I am not able to work full time." id="group_1263390573_2" role="radio" class="ss-q-radio" aria-required="true" required>
+              <label for="group_1263390573_2">I am not able to work full time.</label>
+            </li>
+          </ul>
 
         </div>
 
