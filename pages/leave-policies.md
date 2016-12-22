@@ -16,7 +16,6 @@ Sick leave accrues at four hours per pay period for all federal employees, regar
 ### Unpaid leave
 
 Employees can request unpaid leave of less than four weeks at any time.
-Unlike parental leave, below, you do not have to have been employed for 12 months.
 
 ### Parental leave 
 
