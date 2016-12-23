@@ -4,30 +4,30 @@ permalink: positions/product-manager/
 team: 18F
 active: true
 ---
-##Basic Information:
-**Title:** Product Manager  <br>
-**Series & Grade Level:** GS-2210-14/15 <br>
-**Salary Range:** Base Salary GS-14 - $87,263 to $113,444; Base Salary GS-15 - $102,646 to $133,444. Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit: https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/ <br>
-**Work Schedule:** Full Time<br>
+##Basic information:
+**Title:** Product Manager
+**Series & grade level:** GS-2210-14/15
+**Salary range:** Base salary GS-14 - $87,263 to $113,444; base salary GS-15 - $102,646 to $133,444. Total compensation will include locality pay based on the individual's duty location. For locality pay details, please visit https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/.
+**Work schedule:** Full Time
 
-**Job Announcement Number:** 17001-Product Manager<br>
-**Open:** DATE<br>
-**Close:** DATE<br>
+**Job announcement number:** 17001-Product Manager
+**Open:** DATE
+**Close:** DATE
 
-**Who May Apply:**
+**Who may apply:**
 Any individual who is not currently a GSA employee or contractor and who is a U.S. Citizen, a non-citizen national of the U.S., or has been admitted to the U.S. for permanent residence and holds a valid green card is eligible to apply.
 
-**Position Type:** Excepted Service - Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.<br>
-**Number of Vacancies:** 3 (At this time, we are only filling one vacancy however additional vacancies may be filled from this announcement as needed)<br>
-**Location:** Anywhere in the United States<br>
-**Travel Required:** Occasional Travel<br>
-**Supervisory Status:** No<br>
-**Security Clearance:** Public Trust - background investigation required.<br>
+**Position type:** Excepted Service - Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.
+**Number of vacancies:** 3 (At this time, we are only filling one vacancy however additional vacancies may be filled from this announcement as needed)
+**Location:** Anywhere in the United States
+**Travel required:** Occasional Travel
+**Supervisory status:** No
+**Security clearance:** Public Trust - background investigation required.
 
 Do you have a passion for public service? The General Services Administration (GSA) is looking for you! GSA is a federal government agency whose mission is to bring the best value in real estate, acquisition, and technology services to the American people.<br>
 
-##Role Summary:<br>
-An 18F Product Manager is the steward who guides a product from concept to delivery. As a Product Manager, you’ll lead cross-functional teams to deliver user-centered products using agile methodologies.  You will build collaborative relationships with our partners and customers to help meet the needs of their mission and users, and to achieve lasting transformation in the way they build and buy digital services.<br>
+##Role summary:
+An 18F Product Manager is the steward who guides a product from concept to delivery. As a Product Manager, you’ll lead cross-functional teams to deliver user-centered products using agile methodologies.  You will build collaborative relationships with our partners and customers to help meet the needs of their mission and users, and to achieve lasting transformation in the way they build and buy digital services.
 
 ##Duties:<br>
 The duties of this position include, but are not limited to, the following objectives:<br>
@@ -67,13 +67,13 @@ Qualifications are based on length and level of experience.  Therefore, in addit
 **Applicants applying for this job must meet the following requirements:**
 
 Have product management related experience demonstrating *each* of the five competencies *and* specialized experience listed below:
-- **Communication**: Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals. 
-- **Product Experience**: Ability to deliver the right product using user-centered and agile-based methodologies.
-- **Leadership**: Ability to effectively lead a cross-functional team to meet project/product objectives. 
-- **Innovation**: Ability to apply innovative tools and technologies  and to help partners make strategic & tactical decisions toward innovation. 
-- **18F Core Values Alignment**: The ability to work with integrity, transparency and resiliency in civic minded or high impact environment. 
+- **Communication**: Ability to communicate effectively with a variety of audiences to establish a shared vision and understanding of the project’s objectives and goals.
+- **Product experience**: Ability to deliver the right product using user-centered and agile-based methodologies.
+- **Leadership**: Ability to effectively lead a cross-functional team to meet project/product objectives.
+- **Innovation**: Ability to apply innovative tools and technologies  and to help partners make strategic & tactical decisions toward innovation.
+- **18F core values alignment**: The ability to work with integrity, transparency and resiliency in civic minded or high impact environment.
 
-###Specialized Experience:
+###Specialized experience:
 **GS-14**
 To qualify at a GS-14 level you must demonstrate at least one year of specialized experience at the next lower grade level GS-13, or equivalent in the federal service:
 - Developing or communicating the product vision and/or developing or managing the product roadmap
@@ -87,29 +87,35 @@ To qualify at a GS-15 level you must demonstrate at least one year of specialize
 - Leading projects with cutting edge or complex technology, missions, or stakeholders, or a high degree of uncertainty, such as greenfield/startups, legacy migrations, projects at scale, or integrations
 - Use of innovation tools and methodologies such as Lean, Agile, Open Source, APIs, or UX
 - Leading cross functional teams to design, develop, and/or deliver digital products or services
-- Managing of a variety of relationships, such as internal, stakeholders, clients, or users 
+- Managing of a variety of relationships, such as internal, stakeholders, clients, or users
 
 
 ##Benefits
-GSA has been repeatedly named as one of the 'Best Place to Work' in the Federal Government. 
+GSA has been repeatedly named as one of the 'Best Place[s] to Work' in the federal government.
 
-GSA offers its employees a wide range of benefits including: Federal health insurance plans (choose from a wide range of plans); Life insurance coverage with several options to choose from; Leave policies to help you take care of your personal, recreational and health care needs; Thrift Savings Plan (similar to a 401(k) plan); Flexible work schedules and telework; Transit and child care subsidies; and Training and development
+GSA offers its employees a wide range of benefits, including:
+* federal health insurance plans (choose from a wide range of plans);
+* life insurance coverage with several options to choose from;
+* leave policies to help you take care of your personal, recreational and health care needs;
+* Thrift Savings Plan (similar to a 401(k) plan);
+* flexible work schedules and telework;
+* transit and child care subsidies; and
+* training and development
 
-##Point of Contact:
-Any questions regarding this position can be directed to Esther Chang via join18F@gsa.gov
+##Point of contact:
+Any questions regarding this position can be directed to Esther Chang via join18F@gsa.gov.
 
 
-##Additional Information:
-**What To Expect Next**
+##Additional information:
+**What to expect next**
 Qualification for this position will be conducted following the Category Rating process. Candidates for this position are evaluated by our bonafide Subject Matter Experts by comparing your skills and experience as described in your application with the requirements of the position. If you are found to be a highly qualified candidate, you will be referred to the selecting official for further consideration. Whether or not you are contacted for an interview depends upon judgment of the selecting official.
 
-**Veterans’ Preference Information** 
-There is no formal requirement for applying veteran's preference for excepted service positions. However, for this position, Veteran's’ Preference will be applied following the guidelines used under the Category Rating system. Information about Veteran’s Preference can be found here: https://www.opm.gov/policy-data-oversight/veterans-employment-initiative/vet-guide
+**Veterans’ Preference information**
+There is no formal requirement for applying Veterans’ Preference for excepted service positions. However, for this position, Veterans’ Preference will be applied following the guidelines used under the Category Rating system. Information about Veterans’ Preference can be found here: https://www.opm.gov/policy-data-oversight/veterans-employment-initiative/vet-guide
 
-**EEO Statement**
+**EEO statement**
 The United States Government does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.
 https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/
 
-**Reasonable Accommodations Statement**
+**Reasonable accommodations statement**
 Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/
-
