@@ -10,7 +10,7 @@ The qualification requirements for each position description vary and are based 
 It’s important to note that the grade level you select during application submission will be the grade level at which GSA hires you, should you be found qualified and subsequently selected for hire. If you apply for a grade level and are not found qualified, you can reapply at a different grade level. There is no penalty or restriction to reapplying.
 
 ### Selecting a grade level
-The following information can be used to help you decide what grade level for the role(s) you're applying for could be the best fit for you. 
+The following information can be used to help you decide what grade level could be the best fit for you. 
 
 This information is intended as a guideline only. Use this information to help think about how your qualifications and experience align with the descriptions of each different grade level.
 
