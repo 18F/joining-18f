@@ -11,8 +11,8 @@ active: true
 **Work schedule:** Full Time
 
 **Job announcement number:** 17001-Product Manager
-**Open:** DATE
-**Close:** DATE
+**Open:** 12/27/2016
+**Close:** 1/05/2017
 
 **Who may apply:**
 Any individual who is not currently a GSA employee or contractor and who is a U.S. Citizen, a non-citizen national of the U.S., or has been admitted to the U.S. for permanent residence and holds a valid green card is eligible to apply.
