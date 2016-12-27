@@ -24,7 +24,7 @@ Any individual who is not currently a GSA employee or contractor and who is a U.
 **Supervisory status:** No
 **Security clearance:** Public Trust - background investigation required.
 
-Do you have a passion for public service? The General Services Administration (GSA) is looking for you! GSA is a federal government agency whose mission is to bring the best value in real estate, acquisition, and technology services to the American people.
+Do you have a passion for public service? The General Services Administration (GSA) is looking for you! GSA is a federal government agency whose mission is to bring the best value in real estate, acquisition, and technology services to the American people. 18F is an organization inside GSA's branch of technology (Technology Transformation Service (TTS)).
 
 ##Role summary:
 An 18F Product Manager is the steward who guides a product from concept to delivery. As a Product Manager, you’ll lead cross-functional teams to deliver user-centered products using agile methodologies.  You will build collaborative relationships with our partners and customers to help meet the needs of their mission and users, and to achieve lasting transformation in the way they build and buy digital services.
