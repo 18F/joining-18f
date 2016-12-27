@@ -120,4 +120,4 @@ https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/
 **Reasonable accommodations statement**
 Federal agencies must provide reasonable accommodation to applicants with disabilities where appropriate. Applicants requiring reasonable accommodation for any part of the application and hiring process should contact the hiring agency directly. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. https://www.opm.gov/policy-data-oversight/disability-employment/reasonable-accommodations/
 
-## [Apply to join 18F]({{ site.baseurl }}/pages/apply/)
+## [Apply to join 18F]({{ site.baseurl }}/pages/apply.html)
