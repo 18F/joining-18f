@@ -30,8 +30,7 @@
         window.location.href = './apply-thank-you.html';
       })}"></iframe>
 
-    <form action="https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfbe4KAEqQFp07f8zfD6xWAfdFTAaZ04tpDQRJnNPeBHoW6RQ/formResponse" method="post"
-    target="hidden_iframe" onsubmit="submitted=true;">
+    <form action="https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfbe4KAEqQFp07f8zfD6xWAfdFTAaZ04tpDQRJnNPeBHoW6RQ/formResponse" method="POST" id="ss-form" target="hidden_iframe" onsubmit="submitted=true;">
 
       Fields that are marked with <span class="required">*</span> are required.
 
@@ -43,18 +42,16 @@
         <div class="usa-input">
           <ul class="usa-unstyled-list">
             <li>
-              <input type="radio" name="entry.1377828897" value="Verify that you meet the above eligibility requirements" id="group_1377828897_1" role="radio" class="ss-q-radio" aria-required="true">
+              <input type="radio" name="entry.1377828897" value="I, the applicant, verify that I meet the above eligibility requirements" id="group_1377828897_1" role="radio" class="ss-q-radio" aria-required="true" required />
               <label for="group_1377828897_1">I, the applicant, verify that I meet the above eligibility requirements.</label>
             </li>
             <li>
-              <input type="radio" name="entry.1377828897" value="I, the applicant, verify that I do not meet the above eligibility and will not be completing the rest of this application." id="group_1377828897_2" role="radio" class="ss-q-radio" aria-required="true">
+              <input type="radio" name="entry.1377828897" value="I, the applicant, verify that I do not meet the above eligibility and will not be completing the rest of this application." id="group_1377828897_2" role="radio" class="ss-q-radio" aria-required="true" required />
               <label for="group_1377828897_2">I, the applicant, verify that I do not meet the above eligibility requirements and will not be completing the rest of this application.</label>
             </li>
           </ul>
         </div>
 
-    
-        
       </fieldset>
 
       <fieldset class="contact-information">
@@ -73,18 +70,18 @@
         </div>
 
         <div class="usa-input phone">
-          <label class="ss-q-item-label" for="entry_1557983315">Best phone number</label>
-          <input type="text" name="entry.1557983315" value="" class="ss-q-short" id="entry_1557983315" dir="auto" aria-label="Phone  " title="">
+          <label class="ss-q-item-label" for="entry_1557983315">Best phone number <span class="required">*</span></label>
+          <input type="text" name="entry.1557983315" value="" class="ss-q-short" id="entry_1557983315" dir="auto" aria-label="Phone  " title="" required />
         </div>
 
         <div class="usa-input city">
-          <label class="ss-q-item-label" for="entry_1488071147">City</label>
-          <input type="text" name="entry.1488071147" value="" class="ss-q-short" id="entry_1488071147" dir="auto" aria-label="City  " title="">
+          <label class="ss-q-item-label" for="entry_1488071147">City <span class="required">*</span></label>
+          <input type="text" name="entry.1488071147" value="" class="ss-q-short" id="entry_1488071147" dir="auto" aria-label="City  " title="" required />
         </div>
 
         <div class="usa-input state">
-          <label class="ss-q-item-label" for="entry_1168669064">State</label>
-          <input type="text" name="entry.1168669064" value="" class="ss-q-short" id="entry_1168669064" dir="auto" aria-label="State  " title="">
+          <label class="ss-q-item-label" for="entry_1168669064">State (two letter abbreviation) <span class="required">*</span></label>
+          <input type="text" name="entry.1168669064" value="" class="ss-q-short" id="entry_1168669064" dir="auto" aria-label="State  " title="" required />
         </div>
 
         <div class="usa-input zipcode">
@@ -166,7 +163,7 @@
 
           <ul class="usa-unstyled-list">
             <li>
-              <input type="radio" name="entry.1263390573" value="Verify your ability to work full-time." aria-label="Verify your ability to work full-time." id="group_1263390573_1" role="radio" class="ss-q-radio" aria-required="true" required>
+              <input type="radio" name="entry.1263390573" value="I am able to work full time." aria-label="Verify your ability to work full-time." id="group_1263390573_1" role="radio" class="ss-q-radio" aria-required="true" required>
               <label for="group_1263390573_1">I am able to work full time (40 hours/week).</label>
             </li>
             <li>
@@ -237,7 +234,7 @@
 
       </fieldset>
 
-      
+
       <fieldset>
 
         <h2><legend>Where can we find you online?</legend></h2>
@@ -300,12 +297,10 @@
 
       </fieldset>
 
-
-      <input type="hidden" name="draftResponse" value="[,,&quot;-9175896065341356209&quot;]
+      <input type="hidden" name="draftResponse" value="[,,&quot;-7672804640720546936&quot;]
       ">
       <input type="hidden" name="pageHistory" value="0">
-      <input type="hidden" name="fvv" value="0">
-      <input type="hidden" name="fbzx" value="-9175896065341356209">
+      <input type="hidden" name="fbzx" value="-7672804640720546936">
 
       <div class="button_wrapper">
         <input type="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action " />
