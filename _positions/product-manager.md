@@ -18,7 +18,7 @@ active: true
 Any individual who is not currently a GSA employee or contractor and who is a U.S. Citizen, a non-citizen national of the U.S., or has been admitted to the U.S. for permanent residence and holds a valid green card is eligible to apply.
 
 **Position type:** Excepted Service - Not to exceed 24 months (2 years); may be extended for an additional 2 years for a maximum of 4 years total.  
-**Number of vacancies:** Three. (At this time, we are only filling one vacancy. However, additional vacancies may be filled from this announcement as needed.)  
+**Number of vacancies:** Three. (At this time, we are only filling three vacancy. However, additional vacancies may be filled from this announcement as needed.)  
 **Location:** Anywhere in the United States  
 **Travel required:** Occasional travel  
 **Supervisory status:** No  
