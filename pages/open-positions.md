@@ -5,9 +5,7 @@ redirect_from: /roles-and-teams/
 description: "Open positions at 18F."
 ---
 
-18F is currently hiring a [Product Manager]({{ site.baseurl }}/positions/product-manager/).
-
-If you'd like to learn about other roles as they come available, you can sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter).
+If you'd like to learn about open roles as they come available, please sign up for the biweekly [18F Newsletter](https://18f.gsa.gov/#newsletter).
 
 ## See also
 
