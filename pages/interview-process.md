@@ -4,7 +4,7 @@ title: Interview process
 ---
 
 ## Application collection
-Applications are collected and grouped in two-week intervals. All applications collected within each two-week period are treated as a cohort and evaluated against each other.
+Applications are collected during the period specified by the job posting, usually 5 days to two weeks. All applications collected within this period are treated as a cohort and evaluated against each other.
 
 **Note:** Once an application period ends, no additions or modifications can be made to your application. However, there is no limit to the number of times you can apply.
 
