@@ -11,7 +11,7 @@ Applications are collected and grouped in two-week intervals. All applications c
 ## Application review (Qualification)
 The first step of the process will be a review of the information that you have submitted as part of your application. Applications are evaluated using the practices of the qualification processes called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=Category-Rating). Your application is evaluated against the competencies listed below and placed in one of the following categories: Superior Qualified, Best Qualified, Well Qualified, Qualified, or Not Qualified. We also apply [Veterans' Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx).
 
-Once all applications within the two-week cohort have been evaluated, they're given to the selection panel, which will review and identify the applicants that they wish to interview.
+Once all applications within the cohort have been evaluated, they're given to the selection panel, which will review and identify the applicants that they wish to interview.
 
 ## Preliminary screening
 
