@@ -3,13 +3,13 @@ title: Product team
 permalink: /interview-process/interviews/product-team/
 ---
 
-There isn't one description that matches the role of all product leads. Ultimately, it depends on the nature of the relationship between 18F and a partner agency. Some relationships have one account manager with multiple product managers who focus on building out separate products. Others have one person who is an account manager and product manager hybrid. No matter where you fall on the spectrum between account manager and product manager, you'll have three interviews:
+If you are scheduled to interview with the Product Team, you'll talk with three members of our team for an hour each. Each interview will focus on one of the areas below and will include time for you to ask your interviewer questions as well.  
 
-### Core values interview (one hour)
-We want to know about what you're passionate about, how you worked with teams in the past, and why you think 18F is a good fit for you. We expect you to ask the same of us. 
+### Product Development (one hour)
+Come prepared to talk about products you've managed, the challenges you faced, and how and why you made the choices you did.  We'll also discuss common scenarios our product managers face, and how you might approach them.
 
-### Problem-solving interview (one hour)
-We'll present you with hypothetical and actual issues we've faced to see how you would handle them. We’re also very curious about your response to problems you’ve faced in your experience.
+### Team Leadership (one hour)
+We'll ask you about your experience leading teams and leadership roles you've held.  We're most interested in your experience leading delivery teams, especially using agile methods. 
 
-### Technical interview (one hour)
-This is where we dive deep into the process, methodologies, and tools you use to get the job done and your beliefs on how teams should work together.
+### Relationship Management and Core Values (one hour)
+We'll talk about your experience managing relationships with clients or other stakeholders.  We'll also talk about 18F's core values, what you're passionate about, and why you're interested in 18F.
