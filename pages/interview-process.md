@@ -6,7 +6,7 @@ title: Interview process
 ## Application collection
 Applications are collected during the period specified by the job posting, usually five days to two weeks. All applications collected within this period are treated as a cohort and evaluated against each other.
 
-**Note:** Once an application period ends, no additions or modifications can be made to your application. However, there is no limit to the number of times you can apply.
+**Note:** Once an application period ends, no additions or modifications can be made to your application. 
 
 ## Application review (Qualification)
 The first step of the process will be a review of the information that you have submitted as part of your application. Applications are evaluated using the practices of the qualification processes called [Category Rating](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/#url=Category-Rating). Your application is evaluated against the competencies listed below and placed in one of the following categories: Superior Qualified, Best Qualified, Well Qualified, Qualified, or Not Qualified. We also apply [Veterans' Preference](http://www.fedshirevets.gov/job/vetpref/index.aspx).
