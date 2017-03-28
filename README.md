@@ -1,3 +1,10 @@
+# :warning:DEPRECATED:warning:
+### The contents of this repo have been moved to https://github.com/18F/18f.gsa.gov.
+
+### https://pages.18f.gov/joining-18f/ is now being redirected to https://18f.gsa.gov/join/.
+
+---
+
 ## Joining 18F
 
 This is the repository for the guide to [Joining 18F](https://pages.18f.gov/joining-18f/), built on the [18F Guides Template](https://github.com/18F/guides-template).
